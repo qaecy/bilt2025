@@ -1,0 +1,791 @@
+@prefix cnt: <http://www.w3.org/2011/content#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix fabio: <http://purl.org/spar/fabio/> .
+@prefix pdo: <http://www.semanticweb.org/ontologies/pdo#> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<urn:document:0813x2420Door_ProductData.pdf/page_0/chunk_0> a cnt:ContentAsText ;
+    dcterms:isPartOf <urn:document:0813x2420Door_ProductData.pdf/page_0> ;
+    pdo:boundingBox "250.0800018310547,75.32401275634766,362.0868225097656,97.0680160522461" ;
+    pdo:font "Helvetica-Bold" ;
+    pdo:fontSize "18.0"^^xsd:float ;
+    pdo:index 0 ;
+    cnt:chars " CHAPTER 18 CLAD SLIDING PATIO DOOR Product  Information Unit Features 18.2 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . NFRC Values / Minimum and Maximum Measurements / Design Pressure / Configurations 18.3 . . . . . . . . . . . . . . . Unit Measurements / Net Clear Opening 18.4" .
+
+<urn:document:0813x2420Door_ProductData.pdf/page_0/chunk_1> a cnt:ContentAsText ;
+    dcterms:isPartOf <urn:document:0813x2420Door_ProductData.pdf/page_0> ;
+    pdo:boundingBox "90.0,237.742919921875,161.205078125,249.9195556640625" ;
+    pdo:font "Helvetica-Bold" ;
+    pdo:fontSize "10.079999923706055"^^xsd:float ;
+    pdo:index 1 ;
+    cnt:chars ". . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . Measurements Conversions 18.5 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . Elevations and  Sections Standard Size Chart: 6/6, 6/8 and 8/0 Heights 18.7 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . Section Details: 4 9/16 ″  Operating 18.8" .
+
+<urn:document:0813x2420Door_ProductData.pdf/page_0/chunk_2> a cnt:ContentAsText ;
+    dcterms:isPartOf <urn:document:0813x2420Door_ProductData.pdf/page_0> ;
+    pdo:boundingBox "227.28485107421875,264.80450439453125,503.4523010253906,275.5404357910156" ;
+    pdo:font "Helvetica" ;
+    pdo:fontSize "8.880000114440918"^^xsd:float ;
+    pdo:index 2 ;
+    cnt:chars ". . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . Section Details: 6 9/16 ″  Operating 18.9 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . Section Details: 4 9/16 ″  and 6 9/16 ″  Stationary 18.10 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . Section Details: Casing Options / Divided Lite Options" .
+
+<urn:document:0813x2420Door_ProductData.pdf/page_0/chunk_3> a cnt:ContentAsText ;
+    dcterms:isPartOf <urn:document:0813x2420Door_ProductData.pdf/page_0> ;
+    pdo:boundingBox "521.9765014648438,303.67230224609375,543.7147827148438,314.4082336425781" ;
+    pdo:font "Helvetica" ;
+    pdo:fontSize "8.880000114440918"^^xsd:float ;
+    pdo:index 3 ;
+    cnt:chars "18.11 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . Standard Grille and SDL / Daylight Opening Conversions 18.12 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . Section Details: Construction 18.13 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . NOTE: Specifications and technical data are subject to change without notice. Allow 1/16 ″  (2)" .
+
+<urn:document:0813x2420Door_ProductData.pdf/page_0/chunk_4> a cnt:ContentAsText ;
+    dcterms:isPartOf <urn:document:0813x2420Door_ProductData.pdf/page_0> ;
+    pdo:boundingBox "295.67999267578125,759.7328491210938,315.1999206542969,771.9195556640625" ;
+    pdo:font "Helvetica" ;
+    pdo:fontSize "10.079999923706055"^^xsd:float ;
+    pdo:index 4 ;
+    cnt:chars " tolerance on all measurements. Metric measurements are shown in parenthesis. For accessories dimensions and applications see the Accessories section of this manual. For technical assistance about Marvin products you may call our Architectural Hotline 1--800--346--3363 or visit our website: www.Marvin.com. 18.1 2009--05--26 11708608 Marvin Architectural Detail Manual" .
+
+<urn:document:0813x2420Door_ProductData.pdf/page_1/chunk_0> a cnt:ContentAsText ;
+    dcterms:isPartOf <urn:document:0813x2420Door_ProductData.pdf/page_1> ;
+    pdo:boundingBox "56.880001068115234,33.03961181640625,265.0693664550781,53.300411224365234" ;
+    pdo:font "Swiss721BT-Roman" ;
+    pdo:fontSize "16.079999923706055"^^xsd:float ;
+    pdo:index 0 ;
+    cnt:chars " CLAD SLIDING PATIO DOOR UNIT FEATURES Frame: S  Interior: Standard is Pine Wood, optional Douglas Fir. Species available are Mahogany, Cedro Macho, Vertical Grain Douglas Fir, Cherry, and White Oak. S  Exterior: Extruded aluminum, .050 ″  (1.3) thick S  Frame thickness: 1 1/16 ″  (27) S  Frame width: 4 9/16 ″  (116) S  Fiberglass reinforced pultruded sill with water shed and weep system. Polycarbonate roller track. Beige color, optional: bronze color. Thickness: .100 ″" .
+
+<urn:document:0813x2420Door_ProductData.pdf/page_1/chunk_1> a cnt:ContentAsText ;
+    dcterms:isPartOf <urn:document:0813x2420Door_ProductData.pdf/page_1> ;
+    pdo:boundingBox "130.48849487304688,135.40911865234375,318.75885009765625,144.98439025878906" ;
+    pdo:font "Helvetica" ;
+    pdo:fontSize "7.920000076293945"^^xsd:float ;
+    pdo:index 1 ;
+    cnt:chars " (2.5). White Oak [Mahogany] [Cherry] interior sill liner. S  Low Profile ADA Sill. Panel: S  Interior: Standard is Pine Wood, optional Douglas Fir. Species available are Mahogany, Cedro Macho, Vertical Grain Douglas Fir, Cherry, and White Oak. S  Panel thickness: 1 3/4 ″  (44) S  Rail and stile width: 3 ″  (76) S  Stiles contain laminated veneer lumber (LVL) core with clear pine veneers S  Removable interior vinyl glazing bead with wood glazing cap Interior and exterior finish: S" .
+
+<urn:document:0813x2420Door_ProductData.pdf/page_1/chunk_10> a cnt:ContentAsText ;
+    dcterms:isPartOf <urn:document:0813x2420Door_ProductData.pdf/page_1> ;
+    pdo:boundingBox "295.67999267578125,759.7328491210938,315.1999206542969,771.9195556640625" ;
+    pdo:font "Helvetica" ;
+    pdo:fontSize "10.079999923706055"^^xsd:float ;
+    pdo:index 10 ;
+    cnt:chars " Aluminum extrusions: Brick Mould Casing, Flat Casing, various special casings, Mullion Covers, Frame Expanders, Mullion Expanders NOTE: Values shown in parenthesis represent metric equivalents. For product specifications please refer to the CSI Product Specifications, Contact your Marvin Representative. 18.2 2009--05--26 11708608 Marvin Architectural Detail Manual" .
+
+<urn:document:0813x2420Door_ProductData.pdf/page_1/chunk_2> a cnt:ContentAsText ;
+    dcterms:isPartOf <urn:document:0813x2420Door_ProductData.pdf/page_1> ;
+    pdo:boundingBox "68.60160064697266,229.48272705078125,304.37213134765625,239.05799865722656" ;
+    pdo:font "Helvetica" ;
+    pdo:fontSize "7.920000076293945"^^xsd:float ;
+    pdo:index 2 ;
+    cnt:chars " Interior finish: treated bare wood. Optional: white primed (pine only) S  Exterior finish: Two coat finish system using Kynar ®  or Hylar ®  resins. Meets or exceeds AAMA 2605 requirements. Standard Color: Stone White, Bahama Brown, Bronze, Pebble Gray, Evergreen. Select Color: Sierra White, Coconut Cream, French Vanilla, Cashmere, Desert Beige, Cumulus Gray, Cadet Gray, Ebony, Arctic White, Cascade Blue, Cobalt Blue, Hampton Sage," .
+
+<urn:document:0813x2420Door_ProductData.pdf/page_1/chunk_3> a cnt:ContentAsText ;
+    dcterms:isPartOf <urn:document:0813x2420Door_ProductData.pdf/page_1> ;
+    pdo:boundingBox "72.05473327636719,261.16265869140625,410.2649230957031,270.7379455566406" ;
+    pdo:font "Helvetica" ;
+    pdo:fontSize "7.920000076293945"^^xsd:float ;
+    pdo:index 3 ;
+    cnt:chars "Sherwood Green and Wineberry. Contact your Marvin representative for details on custom colors. Hardware: S  Optional handle set: Finish: Satin Taupe, White, Antique Brass, Brass PVD, Satin Chrome, Satin Nickel PVD, Oil Rubbed Bronze, Oil Rubbed Bronze PVD. OXXO Finish: Satin Taupe, White, Antique Brass, Brass PVD, Satin Chrome, Satin Nickel PVD, Oil Rubbed Bronze, Oil Rubbed Bronze PVD. S  Locking system: Two point lock activated from handle set, non--keyed. Optional: keyed, zinc plated. S" .
+
+<urn:document:0813x2420Door_ProductData.pdf/page_1/chunk_4> a cnt:ContentAsText ;
+    dcterms:isPartOf <urn:document:0813x2420Door_ProductData.pdf/page_1> ;
+    pdo:boundingBox "68.60953521728516,316.1195983886719,534.8086547851562,325.69488525390625" ;
+    pdo:font "Helvetica" ;
+    pdo:fontSize "7.920000076293945"^^xsd:float ;
+    pdo:index 4 ;
+    cnt:chars " Rollers: Two adjustable steel roller assemblies per operating panel with two ball bearings per assembly. Maximum vertical adjustment: 5/16 ″  (8) Optional: stainless steel rollers Weather Stripping: S  Weather Strip: Interlock weatherstrip at meeting stiles. Side jamb to have two sets of bulb weather strip maintaining contact with door panels. Continuous slip coat weather strip along sill, head jamb, and meeting stiles. Color beige, optional: black. Jamb Extensions: S" .
+
+<urn:document:0813x2420Door_ProductData.pdf/page_1/chunk_5> a cnt:ContentAsText ;
+    dcterms:isPartOf <urn:document:0813x2420Door_ProductData.pdf/page_1> ;
+    pdo:boundingBox "68.60953521728516,378.27581787109375,227.36598205566406,387.8511047363281" ;
+    pdo:font "Helvetica" ;
+    pdo:fontSize "7.920000076293945"^^xsd:float ;
+    pdo:index 5 ;
+    cnt:chars " Jamb extensions factory applied up to 7 9/16 ″  (192). Other sizes shipped loose. Insect Screens: S  Optional Aluminum Top Hung Sliding Screen with adjustable rollers and replaceable bottom guide. Frame colors: Match standard and select colors. Contact your Marvin representative for details on custom colors. Standard mesh: 18 x 16 charcoal fiberglass. S  Optional Ultimate Aluminum Top Hung Sliding Screen with adjustable roller assembly and replaceable bottom guide." .
+
+<urn:document:0813x2420Door_ProductData.pdf/page_1/chunk_6> a cnt:ContentAsText ;
+    dcterms:isPartOf <urn:document:0813x2420Door_ProductData.pdf/page_1> ;
+    pdo:boundingBox "72.05472564697266,433.2327575683594,538.6029052734375,442.80804443359375" ;
+    pdo:font "Helvetica" ;
+    pdo:fontSize "7.920000076293945"^^xsd:float ;
+    pdo:index 6 ;
+    cnt:chars "Standard Color: Match standard and select colors. Contact your Marvin representative for details on custom colors. Standard mesh: 18 x 16 charcoal fiberglass, contact your Marvin representative for additional screen mesh options. S  Screens adjustable to 1/4 ″  (6) S  Optional Charcoal High Transparency screen mesh (CH Hi--Tran) 20 x 20 fiberglass. Removable interior grilles: S  Bar: Pine wood 3/4 ″  (19) or 1 1/8 ″  (29) S" .
+
+<urn:document:0813x2420Door_ProductData.pdf/page_1/chunk_7> a cnt:ContentAsText ;
+    dcterms:isPartOf <urn:document:0813x2420Door_ProductData.pdf/page_1> ;
+    pdo:boundingBox "68.6253662109375,488.189697265625,375.92303466796875,497.7649841308594" ;
+    pdo:font "Helvetica" ;
+    pdo:fontSize "7.920000076293945"^^xsd:float ;
+    pdo:index 7 ;
+    cnt:chars " Pattern: Rectangular, custom lite layouts available. Contact your Marvin representative. Interior / Exterior Simulated Divided lites (SDL): S  Interior bar: 7/8 ″  (22) or 1 1/8 ″  (29) wide. Pine wood or Douglas fir standard. Optional: white oak, cherry, mahogany, cedro macho, vertical grain Douglas fir. Finish to match interior panel surface S  Exterior bar: 7/8 ″  (22) or 1 1/8 ″  (29) wide. Extruded aluminum. Finish to match exterior panel surface S" .
+
+<urn:document:0813x2420Door_ProductData.pdf/page_1/chunk_8> a cnt:ContentAsText ;
+    dcterms:isPartOf <urn:document:0813x2420Door_ProductData.pdf/page_1> ;
+    pdo:boundingBox "68.56486511230469,535.2529907226562,331.4930725097656,544.8282470703125" ;
+    pdo:font "Helvetica" ;
+    pdo:fontSize "7.920000076293945"^^xsd:float ;
+    pdo:index 8 ;
+    cnt:chars " Insulating glass units available with or without aluminum spacer in airspace S  Pattern: rectangular. Custom lite layouts available. Contact your Marvin representative Grilles--between--the--glass (GBG): S  11/16 ″  (17) white contoured aluminum bar. Optional flat aluminum bar. S  Rectangular lite layout Glass and Glazing: S  Door Panels: tempered insulating glass, hermetically sealed S  Transoms: Annealed insulating glass, hermetically sealed S  Glazing seal: silicone bedding, exterior S" .
+
+<urn:document:0813x2420Door_ProductData.pdf/page_1/chunk_9> a cnt:ContentAsText ;
+    dcterms:isPartOf <urn:document:0813x2420Door_ProductData.pdf/page_1> ;
+    pdo:boundingBox "182.6682891845703,621.914794921875,199.52017211914062,631.2922973632812" ;
+    pdo:font "ArialMT" ;
+    pdo:fontSize "8.399999618530273"^^xsd:float ;
+    pdo:index 9 ;
+    cnt:chars " Standard glazing: clear. Optional:  LoĒ 3 -366 t  with Argon or Low E II with argon gas, Bronze, Gray, Reflective Bronze, Obscure, Laminated S  High Elevation: Insulating glass will include capillary tube (argon gas not included) Accessories: S  Installation brackets: 6 3/8 ″  (162), 9 3/8 ″  (238), 15 3/8 ″  (391) S  Masonry brackets: 6 ″  (152), 10 ″  (254) S  Nailing fin: Head jamb fin/drip cap, side jamb and sill fin. (not designed to replace proper flashing) S  Marvin SillGuard t S" .
+
+<urn:document:0813x2420Door_ProductData.pdf/page_10/chunk_0> a cnt:ContentAsText ;
+    dcterms:isPartOf <urn:document:0813x2420Door_ProductData.pdf/page_10> ;
+    pdo:boundingBox "56.880001068115234,33.03961181640625,265.0693664550781,53.300411224365234" ;
+    pdo:font "Swiss721BT-Roman" ;
+    pdo:fontSize "16.079999923706055"^^xsd:float ;
+    pdo:index 0 ;
+    cnt:chars " CLAD SLIDING PATIO DOOR SECTION DETAILS: 6 9/16 ″  (167) OPERATING SCALE: 3 I  = 1 i  0 I  (76 = 305) Operating 7 21/32 ″ (194) 6 9/16 ″ (167) 11/16 ″ (17) 4 3/16 ″ (106) 3 ″ (76) Fram e Size Daylight Opening 3 ″ (76) 4 13/16 ″ (122) 1 5/8 ″ (41) 5 11/16 ″ (144) Head Jamb and Sill 11/16 ″ (17) 11/16 ″ (17) 6 9/16 ″ (167) 7 21/32 ″ (194) 3 ″ (76) 3 ″ (76) 3 23/32 ″ (94) 4 3/16 ″ (106) 3 7/8 ″ (98) Daylight Opening Daylight Opening Frame Size 2 Panel Jamb XO NOTE: Shown with optional handle set." .
+
+<urn:document:0813x2420Door_ProductData.pdf/page_10/chunk_1> a cnt:ContentAsText ;
+    dcterms:isPartOf <urn:document:0813x2420Door_ProductData.pdf/page_10> ;
+    pdo:boundingBox "295.67999267578125,759.7328491210938,315.1999206542969,771.9195556640625" ;
+    pdo:font "Helvetica" ;
+    pdo:fontSize "10.079999923706055"^^xsd:float ;
+    pdo:index 1 ;
+    cnt:chars "18.9 2009--04--13 11708608 Marvin Architectural Detail Manual" .
+
+<urn:document:0813x2420Door_ProductData.pdf/page_11/chunk_0> a cnt:ContentAsText ;
+    dcterms:isPartOf <urn:document:0813x2420Door_ProductData.pdf/page_11> ;
+    pdo:boundingBox "56.880001068115234,33.03961181640625,265.0693664550781,53.300411224365234" ;
+    pdo:font "Swiss721BT-Roman" ;
+    pdo:fontSize "16.079999923706055"^^xsd:float ;
+    pdo:index 0 ;
+    cnt:chars " CLAD SLIDING PATIO DOOR SECTION DETAILS: 4 9/16 ″  (116) STATIONARY / 6 9/16 ″  (167) STATIONARY SCALE: 3 I  = 1 i  0 I  (76 = 305) (Low Profile ADA Sill is not to scale) 4 9/16 I  Stationary 5 21/32 ″ (144) 1 1/16 ″ (27) 1  1/16 ″ (27) 4 9/16 ″ (116) 1 1/16 ″ (27) 4 9/16 ″ (116) 5 21/32 ″ (144) 4 3/16 ″ (106) 3 ″ (76) 3 ″ (76) 3 ″ (76) Daylight Opening Frame Size Daylight O pening 4 3/16 ″ (106) 4 3/16 ″ (106) F rame Size 4  9/16 ″ (116) 3 ″ (76) Jamb 4 13/16 ″ (122) 3 ″ (76) 1 5/8 ″ (41)" .
+
+<urn:document:0813x2420Door_ProductData.pdf/page_11/chunk_1> a cnt:ContentAsText ;
+    dcterms:isPartOf <urn:document:0813x2420Door_ProductData.pdf/page_11> ;
+    pdo:boundingBox "109.44000244140625,389.6529541015625,196.1259765625,401.83966064453125" ;
+    pdo:font "Helvetica" ;
+    pdo:fontSize "10.079999923706055"^^xsd:float ;
+    pdo:index 1 ;
+    cnt:chars "5 11/16 ″ (144) Head Jamb and Sill 3 ″ (76) 7 21/32 ″ (194) 6 9/16 I  Stationary 6 9/16 ″ (167) 1 7/16 ″ (37) Low Profile ADA Sill 11/16 ″ (17) 4 3/16 ″ (106) 1 1/16 ″ (27) 1  1/16 ″ (27) 3 ″ (76) Daylig ht Openi ng Fram e Size 6 9/16 ″ (167) 7 21/32 ″ (194) 3 ″ (76) 4 13/16 ″ (122) 1 5/8 ″ (41) 3 ″ (76) 3 ″ (76) Daylight O pening 5 11/16 ″ (144) 4 3/16 ″ (106) 4 3/16 ″ (106) F rame Size Jamb Head Jamb and Sill 18.10 2009--05--26 11708608 Marvin Architectural Detail Manual" .
+
+<urn:document:0813x2420Door_ProductData.pdf/page_12/chunk_0> a cnt:ContentAsText ;
+    dcterms:isPartOf <urn:document:0813x2420Door_ProductData.pdf/page_12> ;
+    pdo:boundingBox "56.880001068115234,33.03961181640625,265.0693664550781,53.300411224365234" ;
+    pdo:font "Swiss721BT-Roman" ;
+    pdo:fontSize "16.079999923706055"^^xsd:float ;
+    pdo:index 0 ;
+    cnt:chars " CLAD SLIDING PATIO DOOR SECTION DETAILS: CASING OPTIONS / DIVIDED LITE OPTIONS SCALE: 3 I  = 1 i  0 I  (76 = 305) Casing  Options 1 3/32 ″ (28) 1 1/4 ″ (32) 3 ″ (76) 1 5/16 ″ (33) Head Jamb with Clad Flat Casing Head Jamb with Clad Brick Mould Casing Clad Sliding Patio  Door Insulating  Glass 3/4 ″ (19) 1 1/8 ″ (29) Insulating Glass 3/4 ″  Grille 1 1/8 ″  Grille 7/8 ″ (22) 7/8 ″ (22) 1 1/8 ″ (29) 7/8 ″  SDL with Spacer Bar 7/8 ″  SDL without Spacer Bar 1 1/8 ″  SDL without Spacer Bar 11/16 ″" .
+
+<urn:document:0813x2420Door_ProductData.pdf/page_12/chunk_1> a cnt:ContentAsText ;
+    dcterms:isPartOf <urn:document:0813x2420Door_ProductData.pdf/page_12> ;
+    pdo:boundingBox "293.2799987792969,759.7328491210938,317.59295654296875,771.9195556640625" ;
+    pdo:font "Helvetica" ;
+    pdo:fontSize "10.079999923706055"^^xsd:float ;
+    pdo:index 1 ;
+    cnt:chars "(17) 1 1/8 ″ (29) 1 1/8 ″  SDL with Spacer Bar G.B.G Aluminium Grille between the Glass NOTE : Grille = Removable interior divider SDL = Simulated divided lite 18.11 2008--06--02 11708608 Marvin Architectural Detail Manual" .
+
+<urn:document:0813x2420Door_ProductData.pdf/page_13/chunk_0> a cnt:ContentAsText ;
+    dcterms:isPartOf <urn:document:0813x2420Door_ProductData.pdf/page_13> ;
+    pdo:boundingBox "56.880001068115234,33.03961181640625,265.0693664550781,53.300411224365234" ;
+    pdo:font "Swiss721BT-Roman" ;
+    pdo:fontSize "16.079999923706055"^^xsd:float ;
+    pdo:index 0 ;
+    cnt:chars " CLAD SLIDING PATIO DOOR SECTION DETAILS: 4 9/16 ″  (116) AND 6 9/16 ″  (167) 3 AND 4 PANEL CONFIGURATIONS SCALE: 1 1/2 I  = 1 i  0 I  (38 = 305) 4 9/16 ″  (1 16) 3 Panel XOO Operating Jamb Detail 3 Panel OXO RH Operating Jamb Detail 4 Panel OXXO RH Operating Jamb Detail 6 9/16 ″  (167) 3 Panel XOO Operating Jamb Detail 3 Panel OXO RH Operating Jamb Detail 4 Panel OXXO RH Operating Jamb Detail NOTE: Shown with optional handle set. Operations as viewed from exterior." .
+
+<urn:document:0813x2420Door_ProductData.pdf/page_13/chunk_1> a cnt:ContentAsText ;
+    dcterms:isPartOf <urn:document:0813x2420Door_ProductData.pdf/page_13> ;
+    pdo:boundingBox "293.0400085449219,759.7328491210938,318.0787353515625,771.9195556640625" ;
+    pdo:font "Helvetica" ;
+    pdo:fontSize "10.079999923706055"^^xsd:float ;
+    pdo:index 1 ;
+    cnt:chars "Refer to panel configurations for operations available. 18.12 2008--06--02 11708608 Marvin Architectural Detail Manual" .
+
+<urn:document:0813x2420Door_ProductData.pdf/page_14/chunk_0> a cnt:ContentAsText ;
+    dcterms:isPartOf <urn:document:0813x2420Door_ProductData.pdf/page_14> ;
+    pdo:boundingBox "56.880001068115234,33.03961181640625,265.0693664550781,53.300411224365234" ;
+    pdo:font "Swiss721BT-Roman" ;
+    pdo:fontSize "16.079999923706055"^^xsd:float ;
+    pdo:index 0 ;
+    cnt:chars " CLAD SLIDING PATIO DOOR DAYLIGHT OPENING CONVERSIONS NOT TO SCALE 3 ’--2 25/32” (985) 9  23/32 ″ (247) 9 9/32 ″ (236) 9 23/32 ″ (247) 4 3/16 ″ (106) 4 3/16 ″ (106) 7/8 ″ (22) 7/8 ″ (22) 4 3/16 ″ (106) 1’-- 2 3/16” (360) 7/8 ″ (22) 1’--1 3/4” (349) 7/8 ″ (22) 1’--1 3/4” (349) 6’--10” (2083) 7/8 ″ (22) 1’--1 3/4” (349) 7/8 ″ (22) 1’-- 2 3/16” (360) 4 13/16” (122) Conversion Formula: = Individual DLO Number of Lites DLO -- Total Bar Width NOTE:" .
+
+<urn:document:0813x2420Door_ProductData.pdf/page_14/chunk_1> a cnt:ContentAsText ;
+    dcterms:isPartOf <urn:document:0813x2420Door_ProductData.pdf/page_14> ;
+    pdo:boundingBox "293.0400085449219,759.7328491210938,318.0787353515625,771.9195556640625" ;
+    pdo:font "Helvetica" ;
+    pdo:fontSize "10.079999923706055"^^xsd:float ;
+    pdo:index 1 ;
+    cnt:chars "For additional informationon individualdaylight openings please contactyour Marvinrepresentative. 18.13 2008--06--02 11708608 Marvin Architectural Detail Manual" .
+
+<urn:document:0813x2420Door_ProductData.pdf/page_15/chunk_0> a cnt:ContentAsText ;
+    dcterms:isPartOf <urn:document:0813x2420Door_ProductData.pdf/page_15> ;
+    pdo:boundingBox "56.880001068115234,33.03961181640625,265.0693664550781,53.300411224365234" ;
+    pdo:font "Swiss721BT-Roman" ;
+    pdo:fontSize "16.079999923706055"^^xsd:float ;
+    pdo:index 0 ;
+    cnt:chars " CLAD SLIDING PATIO DOOR ELEVATIONS: STANDARD GRILLE AND SDL NOT TO SCALE 6/6 HEIGHT 3W 3W 4W 3/4 ″  (19) Grilles 7/8 ″  (22) Simulated Divided Lites 1 1/8 ″  (29) Grilles 1 1/8 ″  (29) Simulated Divided Lites 5H 2666 3066 4066 6/8 HEIGHT 3W 3W 4W 5H 2668 3068 4068 8/0 HEIGHT 3W 3W 4W 6H 2680 3080 4080 18.14 2008--06--02 11708608 Marvin Architectural Detail Manual" .
+
+<urn:document:0813x2420Door_ProductData.pdf/page_16/chunk_0> a cnt:ContentAsText ;
+    dcterms:isPartOf <urn:document:0813x2420Door_ProductData.pdf/page_16> ;
+    pdo:boundingBox "56.880001068115234,33.03961181640625,265.0693664550781,53.300411224365234" ;
+    pdo:font "Swiss721BT-Roman" ;
+    pdo:fontSize "16.079999923706055"^^xsd:float ;
+    pdo:index 0 ;
+    cnt:chars " CLAD SLIDING PATIO DOOR SECTION DETAILS: CONSTRUCTION NOT TO SCALE Head Head 1/2 ″ (13) 1/2 ″ (13) 1/4 ″ (6) 1/4 ″ (6) Fram e Size Frame Size Rough Opening Masonry Openin g Rough Opening Masonr y Openin g Sill Sill Cement Slab with Concrete Patio on Grade 1. Prepare a 1 1/2 (38) wide by 3 (76) deep channel into the exterior concrete patio slab across the width of the door. See illustration 1. 1 1/2 ″ (38) Low Profile ADA Sill Rough O pening 1/2 ″ (13) Frame Size 1/2 ″ (13) Rough O pening F rame" .
+
+<urn:document:0813x2420Door_ProductData.pdf/page_16/chunk_1> a cnt:ContentAsText ;
+    dcterms:isPartOf <urn:document:0813x2420Door_ProductData.pdf/page_16> ;
+    pdo:boundingBox "139.44000244140625,650.532958984375,242.6924591064453,662.7196655273438" ;
+    pdo:font "Helvetica" ;
+    pdo:fontSize "10.079999923706055"^^xsd:float ;
+    pdo:index 1 ;
+    cnt:chars "Size 1/2 ″ (13) 1/2 ″ (13) Jamb Jamb 1/4 ″ (6) 1/4 ″ (6) 1/4 ″ (6) 1/4 ″ (6) M asonry O pening M asonry Opening Brick Veneer with Steel Stud Construction Brick Veneer with Concrete Block Construction NOTE: Shown with optional handle set. The above wall sections represent typical wall conditions, these details are not intended as installation instructions. Please refer to the installation instructions provided with the purchased units. 18.15 2009--05--26 11708608 Marvin Architectural Detail Manual" .
+
+<urn:document:0813x2420Door_ProductData.pdf/page_17/chunk_0> a cnt:ContentAsText ;
+    dcterms:isPartOf <urn:document:0813x2420Door_ProductData.pdf/page_17> ;
+    pdo:boundingBox "56.880001068115234,33.03961181640625,265.0693664550781,53.300411224365234" ;
+    pdo:font "Swiss721BT-Roman" ;
+    pdo:fontSize "16.079999923706055"^^xsd:float ;
+    pdo:index 0 ;
+    cnt:chars " CLAD SLIDING PATIO DOOR SECTION DETAILS: CONSTRUCTION NOT TO SCALE Head 1/2 ″ (13) 1/2 ″ (13) Fram e Siz e Roug h Opening Frame Size Rough Openin g Sill Wood Frame Construction with Wood Deck 1. Prepare a 1 1/2 (38) wide by 3 (76) deep channel between the R.O. and face of the deck. See illustration 1. 1 1/2 ″ (38) Low Profile ADA Sill Rough Opening 1/2 ″ ( 13) 1/2 ″ (13) Frame Size Rough Opening F rame Size 1/2 ″ (13) 1/2 ″ (13) Jamb Jamb Masonry Opening Wood Siding with 2x6 Frame Construction" .
+
+<urn:document:0813x2420Door_ProductData.pdf/page_17/chunk_1> a cnt:ContentAsText ;
+    dcterms:isPartOf <urn:document:0813x2420Door_ProductData.pdf/page_17> ;
+    pdo:boundingBox "413.0452880859375,652.6929931640625,483.4421081542969,664.8796997070312" ;
+    pdo:font "Helvetica" ;
+    pdo:fontSize "10.079999923706055"^^xsd:float ;
+    pdo:index 1 ;
+    cnt:chars "Stucco with 2x4 Frame Construction NOTE: Shown with optional handle set. The above wall sections represent typical wall conditions, these details are not intended as installation instructions. Please refer to the installation instructions provided with the purchased units. 18.16 2009--05--26 11708608 Marvin Architectural Detail Manual" .
+
+<urn:document:0813x2420Door_ProductData.pdf/page_2/chunk_0> a cnt:ContentAsText ;
+    dcterms:isPartOf <urn:document:0813x2420Door_ProductData.pdf/page_2> ;
+    pdo:boundingBox "56.880001068115234,33.03961181640625,265.0693664550781,53.300411224365234" ;
+    pdo:font "Swiss721BT-Roman" ;
+    pdo:fontSize "16.079999923706055"^^xsd:float ;
+    pdo:index 0 ;
+    cnt:chars " CLAD SLIDING PATIO DOOR NFRC VALUES / MINIMUM AND MAXIMUM MEASUREMENTS / DESIGN PRESSURE / CONFIGURATIONS NFRC Unit Values Glazing Type U--Factor R--Value Solar Heat Gain Coefficient Visible Light Transmittance Energy Star Clad Sliding Patio Door Operator / Stationary Size Tested 79 x 79 79 x 79 79 x 79 79 x 79 Insulating glass 0.48 2.08 0.56 0.61 -- Insulating glass -- SDL with spacer bars 0.48 2.08 0.49 0.53 -- Insulating Low E II glass 0.35 2.86 0.31 0.53 N, NC, SC, S" .
+
+<urn:document:0813x2420Door_ProductData.pdf/page_2/chunk_1> a cnt:ContentAsText ;
+    dcterms:isPartOf <urn:document:0813x2420Door_ProductData.pdf/page_2> ;
+    pdo:boundingBox "56.880001068115234,173.5020294189453,186.7649383544922,180.7560272216797" ;
+    pdo:font "Helvetica" ;
+    pdo:fontSize "6.0"^^xsd:float ;
+    pdo:index 1 ;
+    cnt:chars "Insulating Low E II glass -- SDL with spacer bars 0.37 2.70 0.28 0.46 NC, SC, S Insulating Low E II glass -- Argon 0.31 3.23 0.31 0.53 N, NC, SC, S Insulating Low E II glass -- Argon, SDL with spacer bars 0.32 3.13 0.27 0.46 N, NC, SC, S NOTE: Product Values are determined using the National Fenestration Rating Council (NFRC) Procedures for determining fenestration product values. U--Value:" .
+
+<urn:document:0813x2420Door_ProductData.pdf/page_2/chunk_2> a cnt:ContentAsText ;
+    dcterms:isPartOf <urn:document:0813x2420Door_ProductData.pdf/page_2> ;
+    pdo:boundingBox "79.51799011230469,212.14198303222656,364.7254943847656,219.39598083496094" ;
+    pdo:font "Helvetica" ;
+    pdo:fontSize "6.0"^^xsd:float ;
+    pdo:index 2 ;
+    cnt:chars " (Btu/hr--sq ft--*F) Lower the U--Value, the greater the resistance to heat flow and better its insulating value. R--Value:  (1/U--Value) Higher the R--Value, the greater the resistance to heat flow and better its insulating value. Visible Light Transmittance (VLT):  Percentage of visible light transmitted through the unit. Solar Heat Gain Coefficient (SHGC):  The lower a window’s SHGC, the less solar heat it transmits, and the greater its shading ability." .
+
+<urn:document:0813x2420Door_ProductData.pdf/page_2/chunk_3> a cnt:ContentAsText ;
+    dcterms:isPartOf <urn:document:0813x2420Door_ProductData.pdf/page_2> ;
+    pdo:boundingBox "121.44000244140625,259.0574035644531,287.893798828125,269.7844543457031" ;
+    pdo:font "Helvetica-Bold" ;
+    pdo:fontSize "8.880000114440918"^^xsd:float ;
+    pdo:index 3 ;
+    cnt:chars "Capillary tubes are required for IG units at high elevations. Argon will not be furnished in units with capillary tubes. Contact the Architectural Hotline at (800--346--3363) for additional NFRC Unit Values. Minimum and Maximum Measurements Minimum RO Height Maximum RO Width Maximum RO Height Clad Sliding Patio Door Ratings Glazing Type Minimum RO Width Clad Sliding Patio Door 1 -- Panel Stationary 18 ″  (457) 70 13/16 ″  (1799) 51 3/4 ″  (1314) 96 ″  (2438) Width Height # of Panels 6--6 ht." .
+
+<urn:document:0813x2420Door_ProductData.pdf/page_2/chunk_4> a cnt:ContentAsText ;
+    dcterms:isPartOf <urn:document:0813x2420Door_ProductData.pdf/page_2> ;
+    pdo:boundingBox "146.16000366210938,312.9640808105469,149.02056884765625,320.7940673828125" ;
+    pdo:font "Symbol" ;
+    pdo:fontSize "6.960000038146973"^^xsd:float ;
+    pdo:index 4 ;
+    cnt:chars "6--8 ht. 8--0 ht. 2 -- Panel 44 7/16 ″  (1129) 70 13/16 ″  (1799) 97 5/8 ″  (2480) 96 ″  (2438) Panel Call # Width Door Call # Width 3 -- Panel 67 11/16 ″  (1719) 70 13/16 ″  (1799) 147 3/4 ″  (3753) 96 ″  (2438) 2666 2666 1 SGD--LC40 4 -- Panel 83 1/8 ″  (2111) 70 13/16 ″  (1799) 144 ″  (3658) 96 ″  (2438) 5066 2 SGD--LC40 ** Maximum 192 ″  (4877) RO width if RO height is 82 1/2 ″  (2096) or less. 7666 3 SGD--LC30 3066 3066 1 SGD--LC40 6066 2 SGD--LC40 9066 3 SGD--LC30 4066 4066 1 SGD--LC40 8066" .
+
+<urn:document:0813x2420Door_ProductData.pdf/page_2/chunk_5> a cnt:ContentAsText ;
+    dcterms:isPartOf <urn:document:0813x2420Door_ProductData.pdf/page_2> ;
+    pdo:boundingBox "277.20001220703125,546.0974731445312,367.10455322265625,556.8245239257812" ;
+    pdo:font "Helvetica-Bold" ;
+    pdo:fontSize "8.880000114440918"^^xsd:float ;
+    pdo:index 5 ;
+    cnt:chars "2 SGD--LC40 12066 3 SGD--LC30 2--6 2--6 1 SGD--LC40 SGD--LC30 5--0 2 SGD--LC40 SGD--LC30 7--6 3 SGD--LC30 SGD--LC30 10--0 4 SGD--LC25 SGD--LC25 3--0 3--0 1 SGD--LC40 SGD--LC30 6--0 2 SGD--LC40 SGD--LC30 9--0 3 SGD--LC30 SGD--LC30 12--0 4 SGD--LC25 SGD--LC25 3--3 6--6 2 SGD--LC30 4--0 4--0 1 SGD--LC40 SGD--LC30 8--0 2 SGD--LC40 SGD--LC30 12--0 3 SGD--LC30 SGD--LC30 16--0 4 SGD--LC25 Panel Configurations INACTIVE ACTIVE INACTIVE ACTIVE OXXO RH OXXO LH ACTIVE ACTIVE OXO RH OXO LH ACTIVE ACTIVE XOO" .
+
+<urn:document:0813x2420Door_ProductData.pdf/page_2/chunk_6> a cnt:ContentAsText ;
+    dcterms:isPartOf <urn:document:0813x2420Door_ProductData.pdf/page_2> ;
+    pdo:boundingBox "295.67999267578125,759.7328491210938,315.1999206542969,771.9195556640625" ;
+    pdo:font "Helvetica" ;
+    pdo:fontSize "10.079999923706055"^^xsd:float ;
+    pdo:index 6 ;
+    cnt:chars "XOO ACTIVE ACTIVE NOTE: O -- Stationary X -- Operating Panel R -- Right L -- Left Direction of panel travel Operation as viewed from exterior. Shown with optional handel set. XO OX 18.3 2008--06--02 11708608 Marvin Architectural Detail Manual" .
+
+<urn:document:0813x2420Door_ProductData.pdf/page_3/chunk_0> a cnt:ContentAsText ;
+    dcterms:isPartOf <urn:document:0813x2420Door_ProductData.pdf/page_3> ;
+    pdo:boundingBox "56.880001068115234,33.03961181640625,265.0693664550781,53.300411224365234" ;
+    pdo:font "Swiss721BT-Roman" ;
+    pdo:fontSize "16.079999923706055"^^xsd:float ;
+    pdo:index 0 ;
+    cnt:chars " CLAD SLIDING PATIO DOOR NFRC VALUES NFRC Unit Values Glazing Type U--Factor Visible Light Transmittance Condensation Resistance Energy Star Solar Heat Gain Coefficient Clad Sliding Patio Door Operator / Stationary Size Tested 79 x 79 79 x 79 79 x 79 79 x 79 Insulating  LoĒ 3 -366 t  Glass 0.33 0.21 0.49 54 N, NC, SC, S Insulating  LoĒ 3 -366  Glass -- Argon 0.30 0.21 0.49 57 N, NC, SC, S Insulating  LoĒ 3 -366  Glass -- SDL w/Spacer Bar < 1 ″ 0.35 0.19 0.43 54 N, NC, SC, S Insulating  LoĒ 3 -366" .
+
+<urn:document:0813x2420Door_ProductData.pdf/page_3/chunk_1> a cnt:ContentAsText ;
+    dcterms:isPartOf <urn:document:0813x2420Door_ProductData.pdf/page_3> ;
+    pdo:boundingBox "90.32301330566406,205.5179901123047,107.12015533447266,214.89239501953125" ;
+    pdo:font "ArialMT" ;
+    pdo:fontSize "8.399999618530273"^^xsd:float ;
+    pdo:index 1 ;
+    cnt:chars " Glass -- SDL w/Spacer Bar > 1 ″ 0.34 0.17 0.37 54 N, NC, SC, S Insulating  LoĒ 3 -366  Glass -- SDL w/o Spacer Bar < 1 ″ 0.33 0.19 0.43 54 N, NC, SC, S Insulating  LoĒ 3 -366  Glass -- SDL w/o Spacer Bar > 1 ″ 0.33 0.17 0.37 54 N, NC, SC, S Insulating  LoĒ 3 -366  Glass -- Argon, SDL w/Spacer Bar < 1 ″ 0.31 0.19 0.43 57 N, NC, SC, S Insulating  LoĒ 3 -366  Glass -- Argon, SDL w/Spacer Bar > 1 ″ 0.31 0.17 0.37 57 N, NC, SC, S Insulating  LoĒ 3 -366  Glass -- Argon, SDL w/o Spacer Bar < 1 ″ 0.30" .
+
+<urn:document:0813x2420Door_ProductData.pdf/page_3/chunk_2> a cnt:ContentAsText ;
+    dcterms:isPartOf <urn:document:0813x2420Door_ProductData.pdf/page_3> ;
+    pdo:boundingBox "90.32301330566406,266.238037109375,107.12015533447266,275.6124267578125" ;
+    pdo:font "ArialMT" ;
+    pdo:fontSize "8.399999618530273"^^xsd:float ;
+    pdo:index 2 ;
+    cnt:chars "0.19 0.43 57 N, NC, SC, S Insulating  LoĒ 3 -366  Glass -- Argon, SDL w/o Spacer Bar > 1 ″ 0.30 0.17 0.37 57 N, NC, SC, S Insulating  LoĒ 3 -366  Glass -- GBG 0.33 0.19 0.43 54 N, NC, SC, S Insulating  LoĒ 3 -366  Glass -- Argon, GBG 0.30 0.19 0.43 57 N, NC, SC, S NOTE: Product Values are determined using the National Fenestration Rating Council (NFRC) Procedures for determining fenestration product values. U--Value:" .
+
+<urn:document:0813x2420Door_ProductData.pdf/page_3/chunk_3> a cnt:ContentAsText ;
+    dcterms:isPartOf <urn:document:0813x2420Door_ProductData.pdf/page_3> ;
+    pdo:boundingBox "79.51799011230469,313.9019775390625,364.7254943847656,321.156005859375" ;
+    pdo:font "Helvetica" ;
+    pdo:fontSize "6.0"^^xsd:float ;
+    pdo:index 3 ;
+    cnt:chars " (Btu/hr--sq ft--*F) Lower the U--Value, the greater the resistance to heat flow and better its insulating value. R--Value:  (1/U--Value) Higher the R--Value, the greater the resistance to heat flow and better its insulating value. Visible Light Transmittance (VLT):  Percentage of visible light transmitted through the unit. Solar Heat Gain Coefficient (SHGC):  The lower a window’s SHGC, the less solar heat it transmits, and the greater its shading ability. Condensation Resistance (CR):" .
+
+<urn:document:0813x2420Door_ProductData.pdf/page_3/chunk_4> a cnt:ContentAsText ;
+    dcterms:isPartOf <urn:document:0813x2420Door_ProductData.pdf/page_3> ;
+    pdo:boundingBox "292.32000732421875,759.7328491210938,318.47760009765625,771.9195556640625" ;
+    pdo:font "Helvetica" ;
+    pdo:fontSize "10.079999923706055"^^xsd:float ;
+    pdo:index 4 ;
+    cnt:chars " Condensation Resistance measures the ability of a product to resist the formation of condensation on the interior surface of a product.The higher the CR rating, the better that product is at resisting condensation formation. Capillary tubes are required for IG units at high elevations. Argon will not be furnished in units with capillary tubes. Contact the Architectural Hotline at (800--346--3363) for additional NFRC Unit Values. 18.3A 2009--03--23 11708608 Marvin Architectural Detail Manual" .
+
+<urn:document:0813x2420Door_ProductData.pdf/page_4/chunk_0> a cnt:ContentAsText ;
+    dcterms:isPartOf <urn:document:0813x2420Door_ProductData.pdf/page_4> ;
+    pdo:boundingBox "203.27999877929688,210.45599365234375,404.8367614746094,224.95199584960938" ;
+    pdo:font "Helvetica-Bold" ;
+    pdo:fontSize "12.0"^^xsd:float ;
+    pdo:index 0 ;
+    cnt:chars " This page is intentionally left blank" .
+
+<urn:document:0813x2420Door_ProductData.pdf/page_5/chunk_0> a cnt:ContentAsText ;
+    dcterms:isPartOf <urn:document:0813x2420Door_ProductData.pdf/page_5> ;
+    pdo:boundingBox "56.880001068115234,33.03961181640625,265.0693664550781,53.300411224365234" ;
+    pdo:font "Swiss721BT-Roman" ;
+    pdo:fontSize "16.079999923706055"^^xsd:float ;
+    pdo:index 0 ;
+    cnt:chars " CLAD SLIDING PATIO DOOR EGRESS / UNIT MEASUREMENT / NET CLEAR OPENING Clad Sliding Patio Door Unit Measurements Height Call Number Frame OM Rough Opening Masonry Opening Oper. Panel OM {{ Daylight Opening Glass Size Unit Type All Configurations 6--6* Height 79 1/2 ″ (2019) 80 ″ (2032) 79 3/4 ″ (2026) 76 1/2 ″ (1943) 70 1/2 ″ (1791) 71 13/16 ″  (1824) 6--8 Height 82 ″ (2083) 82 1/2 (2096) 82 1/4 ″ (2089) 79 ″ (2007) 73 ″ (1854) 74 5/16 ″ (1888) 8--0 Height 95 1/2 ″ (2426) 96 ″ (2438) 95 3/4 ″" .
+
+<urn:document:0813x2420Door_ProductData.pdf/page_5/chunk_1> a cnt:ContentAsText ;
+    dcterms:isPartOf <urn:document:0813x2420Door_ProductData.pdf/page_5> ;
+    pdo:boundingBox "329.759521484375,182.65750122070312,349.8321838378906,191.0721435546875" ;
+    pdo:font "Helvetica" ;
+    pdo:fontSize "6.960000038146973"^^xsd:float ;
+    pdo:index 1 ;
+    cnt:chars "(2432) 92 1/2 ″ (2350) 86 1/2 ″ (2197) 87 13/16 ″  (2230) Width Call Number Frame Size Rough Opening Masonry Opening Panel OM Daylight Opening Glass Size Unit Type 1 Panel O 2666** 31 15/16 ″ (811) 32 15/16 ″ (837) 32 7/16 ″ (824) 29 19/32 ″ (752) 23 5/8 ″ (600) 24 15/16 ″ (633) 3066** 37 15/16 ″ (964) 38 15/16 ″ (989) 38 7/16 ″ (976) 35 19/32 ″ (904) 29 5/8 ″ (752) 30 15/16 ″ (786) 4066** 49 15/16 ″ (1268) 50 15/16 ″ (1294) 50 7/16 ″ (1281) 47 19/32 ″  (1209) 41 5/8 ″ (1057) 42 15/16 ″  (1091)" .
+
+<urn:document:0813x2420Door_ProductData.pdf/page_5/chunk_2> a cnt:ContentAsText ;
+    dcterms:isPartOf <urn:document:0813x2420Door_ProductData.pdf/page_5> ;
+    pdo:boundingBox "110.87999725341797,249.85739135742188,122.42871856689453,258.27203369140625" ;
+    pdo:font "Helvetica" ;
+    pdo:fontSize "6.960000038146973"^^xsd:float ;
+    pdo:index 2 ;
+    cnt:chars "2--6 32 3/4 ″ (832) 33 3/4 ″ (857) 33 1/4 ″ (845) 30 13/32 ″ (772) 24 7/16 ″ (621) 25 3/4 ″ (654) 3--0 38 3/4 ″ (984) 39 3/4 ″ (1010) 39 1/4 ″ (997) 36 13/32 ″ (925) 30 7/16 ″ (773) 31 3/4 ″ (806) 4--0 50 3/4 ″ (1289) 51 3/4 ″ (1314) 51 1/4 ″ (1302) 48 13/32 ″  (1230) 42 7/16 ″ (1078) 43 3/4 ″ (1111) 2 Panel XO, OX 5066** 59 ″ (1499) 60 ″ (1524) 59 1/2 ″ (1511) 29 19/32 ″ (752) 23 5/8 ″ (600) 24 15/16 ″ (633) 6066** 71 ″ (1803) 72 ″ (1829) 71 1/2 ″ (1816) 35 19/32 ″ (904) 29 5/8 ″ (752) 30 15/16" .
+
+<urn:document:0813x2420Door_ProductData.pdf/page_5/chunk_3> a cnt:ContentAsText ;
+    dcterms:isPartOf <urn:document:0813x2420Door_ProductData.pdf/page_5> ;
+    pdo:boundingBox "521.51953125,289.2040710449219,524.3800659179688,297.0340576171875" ;
+    pdo:font "Symbol" ;
+    pdo:fontSize "6.960000038146973"^^xsd:float ;
+    pdo:index 3 ;
+    cnt:chars "″ (786) 8066** 95 ″ (2413) 96 ″ (2438) 95 1/2 ″ (2426) 47 19/32 ″  (1209) 41 5/8 ″ (1057) 42 15/16 ″  (1091) 5--0 60 5/8 ″ (1540) 61 5/8 ″ (1565) 61 1/8 ″ (1553) 30 13/32 ″ (772) 24 7/16 ″ (621) 25 3/4 ″ (654) 6--0 72 5/8 ″ (1845) 73 5/8 ″ (1870) 73 1/8 ″ (1857) 36 13/32 ″ (925) 30 7/16 ″ (773) 31 3/4 ″ (806) 6--6*** 77 ″ (1956) 78 ″ (1981) 77 1/2 ″ (1969) 38 19/32 ″ (980) 32 5/8 ″ (829) 33 15/16 ″ (862) 8--0 96 5/8 ″ (2454) 97 5/8 ″ (2480) 97 1/8 ″ (2467) 48 13/32 ″  (1230) 42 7/16 ″ (1078)" .
+
+<urn:document:0813x2420Door_ProductData.pdf/page_5/chunk_4> a cnt:ContentAsText ;
+    dcterms:isPartOf <urn:document:0813x2420Door_ProductData.pdf/page_5> ;
+    pdo:boundingBox "494.6400146484375,336.25750732421875,513.8621826171875,344.6721496582031" ;
+    pdo:font "Helvetica" ;
+    pdo:fontSize "6.960000038146973"^^xsd:float ;
+    pdo:index 4 ;
+    cnt:chars "43 3/4 ″ (1111) 3 Panel XOO, OOX, OXO 7666** 90 5/16 ″ (2294) 91 5/16 ″ (2319) 90 13/16 ″  (2307) 29 19/32 ″ (752) 23 5/8 ″ (600) 24 15/16 ″ (633) 9066** 108 5/16 ″ (2751) 109 5/16 ″ (2777) 108 13/16 ″  (2764) 35 19/32 ″ (904) 29 5/8 ″ (752) 30 15/16 ″ (786) 12066** 144 5/16 ″ (3666) 145 5/16 ″ (3691) 144 13/16 ″  (3678) 47 19/32 ″  (1209) 41 5/8 ″ (1057) 42 15/16 ″  (1091) 7--6 92 3/4 ″ (2356) 93 3/4 ″ (2381) 93 1/4 ″ (2369) 30 13/32 ″ (772) 24 7/16 ″ (621) 25 3/4 ″ (654) 9--0 110 3/4 ″ (2813)" .
+
+<urn:document:0813x2420Door_ProductData.pdf/page_5/chunk_5> a cnt:ContentAsText ;
+    dcterms:isPartOf <urn:document:0813x2420Door_ProductData.pdf/page_5> ;
+    pdo:boundingBox "54.0,432.5330505371094,57.08087921142578,442.10833740234375" ;
+    pdo:font "Helvetica" ;
+    pdo:fontSize "7.920000076293945"^^xsd:float ;
+    pdo:index 5 ;
+    cnt:chars "111 3/4 ″ (2838) 111 1/4 ″ (2826) 36 13/32 ″ (925) 30 7/16 ″ (773) 31 3/4 ″ (806) 12--0 146 3/4 ″ (3727) 147 3/4 ″ (3753) 147 1/4 ″ (3740) 48 13/32 ″  (1230) 42 7/16 ″ (1078) 43 3/4 ″ (1111) 4 Panel OXXO 10--0 119 ″ (3023) 120 ″ (3048) 119 1/2 ″ (3035) 30 13/32 ″ (772) 24 7/16 ″ (621) 25 3/4 ″ (654) 12--0 143 ″ (3632) 144 ″ (3658) 143 1/2 ″ (3645) 36 13/32 ″ (925) 30 7/16 ″ (773) 31 3/4 ″ (806) 16--0 191 ″ (4851) 192 ″ (4877) 191 1/2 ″ (4864) 48 13/32 ″  (1230) 42 7/16 ″ (1078) 43 3/4 ″ (1111) *" .
+
+<urn:document:0813x2420Door_ProductData.pdf/page_5/chunk_6> a cnt:ContentAsText ;
+    dcterms:isPartOf <urn:document:0813x2420Door_ProductData.pdf/page_5> ;
+    pdo:boundingBox "118.31999969482422,491.857421875,207.9742431640625,502.58447265625" ;
+    pdo:font "Helvetica-Bold" ;
+    pdo:fontSize "8.880000114440918"^^xsd:float ;
+    pdo:index 6 ;
+    cnt:chars "Available in 2666, 3066, 4066, 5066, 6066, 8066, 7666, 9066 and 12066 widths only. ** Available in Retro 6--6 height only. *** Available in 6--8 height only. { Add 1 1/2 ″  to MO height of the “Low Profile ADA Sill” to include sill profile under sill nose. Low Profile sill doesn’t affect the RO height. {{ Operating sash is 1 ″  taller than stationary panel. **Net Clear Openings Height Clear Opening Height Unit Type Call Number Net Clear Openings 6--6 Height 75 1/16 ″ (1907) 6--8 Height 77 9/16 ″" .
+
+<urn:document:0813x2420Door_ProductData.pdf/page_5/chunk_7> a cnt:ContentAsText ;
+    dcterms:isPartOf <urn:document:0813x2420Door_ProductData.pdf/page_5> ;
+    pdo:boundingBox "74.87999725341797,558.3009643554688,96.7629623413086,567.8682861328125" ;
+    pdo:font "Helvetica-Bold" ;
+    pdo:fontSize "7.920000076293945"^^xsd:float ;
+    pdo:index 7 ;
+    cnt:chars "(1970) All Configurations 8--0 Height 91 1/16 ″ (2313) Width Unit Type Call Number Net Clear Openings 5066 22 1/2 ″ (572) Low Profile ADA Sill 6066 28 1/2 ″ (724) 8066 40 1/2 ″ (1029) Clear Opening Height 5--0 23 1/4 ″ (591) 6--0 29 1/4 ″ (743) 1 Panel Operating 6--6* 31 1/2 ″ (800) 7--6 23 1/4 ″ (591) 8--0 41 1/4 ″ (1048) 9--0 29 1/4 ″ (743) 12--0 41 1/4 ″ (1048) 10--0 47 3/32 ″ (1196) Clear Opening Width NOTE: Shown with optional handle set. International Building Code --  2006 12--0 59 3/32 ″" .
+
+<urn:document:0813x2420Door_ProductData.pdf/page_5/chunk_8> a cnt:ContentAsText ;
+    dcterms:isPartOf <urn:document:0813x2420Door_ProductData.pdf/page_5> ;
+    pdo:boundingBox "295.67999267578125,759.7328491210938,315.1999206542969,771.9195556640625" ;
+    pdo:font "Helvetica" ;
+    pdo:fontSize "10.079999923706055"^^xsd:float ;
+    pdo:index 8 ;
+    cnt:chars "(1501) 2 Panel Operating 16--0* 83 3/32 ″ (2111) * Available in 6--8 height only. For Specific Guidelines refer to codes: IBC 2006 Section1008 and IRC 2006 Section 310 ** Net clear openings are based on units with standard hardware. Code restrictions may vary depending on your local building codes. For further information contact your Marvin representative. 18.4 2009--05--26 11708608 Marvin Architectural Detail Manual" .
+
+<urn:document:0813x2420Door_ProductData.pdf/page_6/chunk_0> a cnt:ContentAsText ;
+    dcterms:isPartOf <urn:document:0813x2420Door_ProductData.pdf/page_6> ;
+    pdo:boundingBox "56.880001068115234,33.03961181640625,265.0693664550781,53.300411224365234" ;
+    pdo:font "Swiss721BT-Roman" ;
+    pdo:fontSize "16.079999923706055"^^xsd:float ;
+    pdo:index 0 ;
+    cnt:chars " CLAD SLIDING PATIO DOOR MEASUREMENT CONVERSIONS Clad Sliding Patio Door Measurement Conversions -- 1 Panel Stationary Daylight Opening Glass Size Frame Size Rough Opening Masonry Opening (Without Casing) Masonry Opening (With Flat Casing) Size Referenced Masonry Opening (With Brick Mould Casing) Dimension Needed Width + 1 5/16 ″ (33) Width + 8 11/32 ″ (212) Width + 9 11/32 ″ (237) Width + 8 27/32 ″ (225) Width + 11 15/32 ″ (291) Width + 14 27/32 ″ (377) Daylight Opening Height + 1 5/16 ″ (33)" .
+
+<urn:document:0813x2420Door_ProductData.pdf/page_6/chunk_1> a cnt:ContentAsText ;
+    dcterms:isPartOf <urn:document:0813x2420Door_ProductData.pdf/page_6> ;
+    pdo:boundingBox "246.47999572753906,173.97314453125,262.71453857421875,180.93698120117188" ;
+    pdo:font "Helvetica" ;
+    pdo:fontSize "5.760000228881836"^^xsd:float ;
+    pdo:index 1 ;
+    cnt:chars "Height + 9 ″ (229) Height + 9 1/2 ″ (241) Height + 9 1/4 ″ (235) Height + 10 9/16 ″ (268) Height + 12 1/4 ″ (311) Width -- 1 5/16 ″ (33) Width + 7 1/32 ″ (179) Width + 8 1/32 ″ (204) Width + 7 17/32 ″ (191) Width + 10 5/32 ″ (258) Width + 13 17/32 ″ (344) Glass Size Height -- 1 5/16 ″ (33) Height + 7 11/16 ″ (195) Height + 8 3/16 ″ (208) Height + 7 15/16 ″ (202) Height + 9 1/4 ″ (235) Height + 10 15/16 ″ (278) Width -- 8 11/32 ″ (212) Width -- 7 1/32 ″ (179) Width + 1 ″ (25) Width + 1/2 ″ (13)" .
+
+<urn:document:0813x2420Door_ProductData.pdf/page_6/chunk_2> a cnt:ContentAsText ;
+    dcterms:isPartOf <urn:document:0813x2420Door_ProductData.pdf/page_6> ;
+    pdo:boundingBox "435.3599853515625,228.693115234375,450.0825500488281,235.65695190429688" ;
+    pdo:font "Helvetica" ;
+    pdo:fontSize "5.760000228881836"^^xsd:float ;
+    pdo:index 2 ;
+    cnt:chars "Width + 3 1/8 ″ (79) Width + 6 1/2 ″ (165) Frame Size Height -- 9 ″ (229) Height -- 7 11/16 ″ (195) Height + 1/2 ″ (13) Height + 1/4 ″ (6) Height + 1 9/16 ″ (40) Height + 3 1/4 ″ (83) Dimension Given Width -- 9 11/32 ″ (197) Width -- 8 1/32 ″ (204) Width -- 1 ″ (25) Width -- 1/2 ″ (13) Width + 2 1/8 ″ (54) Width + 5 1/2 ″ (140) Rough Opening Height -- 9 1/2 ″ (241) Height -- 8 3/16 ″ (208) Height -- 1/2 ″ (13) Height -- 1/4 ″ (6) Height + 1 1/16 ″ (27) Height + 2 3/4 ″ (70) Width -- 8 27/32 ″" .
+
+<urn:document:0813x2420Door_ProductData.pdf/page_6/chunk_3> a cnt:ContentAsText ;
+    dcterms:isPartOf <urn:document:0813x2420Door_ProductData.pdf/page_6> ;
+    pdo:boundingBox "154.31808471679688,304.77313232421875,167.51422119140625,311.7369689941406" ;
+    pdo:font "Helvetica" ;
+    pdo:fontSize "5.760000228881836"^^xsd:float ;
+    pdo:index 3 ;
+    cnt:chars "(225) Width -- 7 17/32 ″ (191) Width -- 1/2 ″ (13) Width + 1/2 ″ (13) Width + 2 5/8 ″ (67) Width + 6 ″ (152) Masonry Opening (Without Casing) Height -- 9 1/4 (235) Height -- 7 15/16 ″ (202) Height -- 1/4 ″ (6) Height + 1/4 ″ (6) Height + 1 5/16 ″ (33) Height + 3 ″ (76) Width -- 11 15/32 ″ (291) Width -- 10 5/32 ″ (258) Width -- 3 1/8 ″ (79) Width -- 2 1/8 ″ (54) Width -- 2 5/8 ″ (67) Width + 3 3/8 ″ (86) Masonry Opening (With Brick Mould Casing) Height -- 10 9/16 ″ (268) Height -- 9 1/4 ″ (235)" .
+
+<urn:document:0813x2420Door_ProductData.pdf/page_6/chunk_4> a cnt:ContentAsText ;
+    dcterms:isPartOf <urn:document:0813x2420Door_ProductData.pdf/page_6> ;
+    pdo:boundingBox "181.67999267578125,423.6974182128906,439.27459716796875,434.4244689941406" ;
+    pdo:font "Helvetica-Bold" ;
+    pdo:fontSize "8.880000114440918"^^xsd:float ;
+    pdo:index 4 ;
+    cnt:chars "Height -- 1 9/16 ″ (40) Height -- 1 1/16 ″ (27) Height -- 1 5/16 ″ (33) Height + 1 11/16 ″ (43) Width -- 14 27/32 ″ (377) Width -- 13 17/32 ″ (344) Width -- 6 1/2 ″ (165) Width --5 1/2 ″ (140) Width -- 6 ″ (152) Width -- 3 3/8 ″ (86) Masonry Opening (With Flat Casing) Height -- 12 1/4 (311) Height -- 10 15/16 ″ (278) Height -- 3 1/4 ″ (83) Height -- 2 3/4 ″ (70) Height -- 3 ″ (76) Height -- 1 11/16 ″ (43) Clad Sliding Patio Door Measurement Conversions -- 2 Panel Daylight Opening Glass Size Frame" .
+
+<urn:document:0813x2420Door_ProductData.pdf/page_6/chunk_5> a cnt:ContentAsText ;
+    dcterms:isPartOf <urn:document:0813x2420Door_ProductData.pdf/page_6> ;
+    pdo:boundingBox "384.4800109863281,461.02197265625,429.66119384765625,468.2760009765625" ;
+    pdo:font "Helvetica" ;
+    pdo:fontSize "6.0"^^xsd:float ;
+    pdo:index 5 ;
+    cnt:chars "Size Rough Opening Masonry Opening (Without Casing) Masonry Opening (With Flat Casing) Size Referenced Masonry Opening (With Brick Mould Casing) Dimension Needed Width Width Width Width Width Width + 1 5/16 ″ (33) DLO x 2 + 11 3/4 ″ (298) DLO x 2 + 12 3/4 ″ (324) DLO x 2 + 12 1/4 ″ (311) DLO x 2 + 14 7/8 ″ (378) DLO x 2 + 18 1/4 ″ (464) Daylight Opening Height + 1 5/16 ″ (33) Height + 9 ″ (229) Height + 9 1/2 ″ (241) Height + 9 1/4 ″ (235) Height + 10 9/16 ″ (268) Height + 12 1/4 ″ (311) Width" .
+
+<urn:document:0813x2420Door_ProductData.pdf/page_6/chunk_6> a cnt:ContentAsText ;
+    dcterms:isPartOf <urn:document:0813x2420Door_ProductData.pdf/page_6> ;
+    pdo:boundingBox "380.1600036621094,535.661865234375,395.7359619140625,542.9158935546875" ;
+    pdo:font "Helvetica" ;
+    pdo:fontSize "6.0"^^xsd:float ;
+    pdo:index 6 ;
+    cnt:chars "Width Width Width Width -- 1 5/16 ″ (33) Width GS x 2 + 9 1/8 ″ (232) GS x 2 + 10 1/8 ″ (257) GS x 2 + 9 5/8 ″ (244) GS x 2 + 12 1/4 ″ (311) GS x 2 + 15 5/8 ″ (397) Glass Size Height -- 1 5/16 ″ (33) Height + 7 11/16 ″ (195) Height + 8 3/16 ″ (208) Height + 7 15/16 (202) Height + 9 1/4 ″ (235) Height + 10 15/16 ″ (278) Width -- 11 3/4 ″ (298)  ÷  2 Width -- 9 1/8 ″ (232)  ÷  2 Width + 1 ″ (25) Width + 1/2 ″ (13) Width + 3 1/8 ″ (79) Width + 6 1/2 ″ (165) Frame Size Height --9 ″ (229) Height" .
+
+<urn:document:0813x2420Door_ProductData.pdf/page_6/chunk_7> a cnt:ContentAsText ;
+    dcterms:isPartOf <urn:document:0813x2420Door_ProductData.pdf/page_6> ;
+    pdo:boundingBox "315.1199951171875,593.2619018554688,332.6220397949219,600.5159301757812" ;
+    pdo:font "Helvetica" ;
+    pdo:fontSize "6.0"^^xsd:float ;
+    pdo:index 7 ;
+    cnt:chars "-- 7 11/16 ″ (195) Height + 1/2 ″ (13) Height + 1/4 ″ (6) Height + 1 9/16 ″ (40) Height + 3 1/4 ″ (83) Dimension Given Width -- 12 3/4 ″ (324)  ÷  2 Width -- 10 1/8 ″ (257) ÷  2 Width -- 1 ″ (25) Width -- 1/2 ″ (13) Width + 2 1/8 ″ (54) Width + 5 1/2 ″ (140) Rough Opening Height -- 9 1/2 ″ (241) Height -- 8 3/16 ″ (208) Height -- 1/2 ″ (13) Height -- 1/4 ″ (6) Height + 1 1/16 ″ (27) Height + 2 3/4 ″ (70) Width -- 12 1/4 ″ (311)  ÷  2 Width -- 9 5/8 ″ (244)  ÷  2 Width -- 1/2 ″ (13) Width + 1/2 ″" .
+
+<urn:document:0813x2420Door_ProductData.pdf/page_6/chunk_8> a cnt:ContentAsText ;
+    dcterms:isPartOf <urn:document:0813x2420Door_ProductData.pdf/page_6> ;
+    pdo:boundingBox "444.239990234375,647.9818725585938,459.8159484863281,655.2359008789062" ;
+    pdo:font "Helvetica" ;
+    pdo:fontSize "6.0"^^xsd:float ;
+    pdo:index 8 ;
+    cnt:chars "(13) Width + 2 5/8 ″ (67) Width + 6 ″ (152) Masonry Opening (Without Casing) Height -- 9 1/4 ″ (235) Height -- 7 15/16 ″ (202) Height -- 1/4 ″ (6) Height + 1/4 ″ (6) Height + 1 5/16 ″ (33) Height + 3 ″ (76) Width -- 14 7/8 ″ (378)  ÷  2 Width -- 12 1/4 ″ (311)  ÷  2 Width -- 3 1/8 ″ (79) Width -- 2 1/8 ″ (54) Width -- 2 5/8 ″ (67) Width + 3 3/8 ″ (86) Masonry Opening (With Brick Mould Casing) Height --10 9/16 ″ (268) Height -- 9 1/4 ″ (235) Height -- 1 9/16 ″ (40) Height -- 1 1/16 ″ (27) Height" .
+
+<urn:document:0813x2420Door_ProductData.pdf/page_6/chunk_9> a cnt:ContentAsText ;
+    dcterms:isPartOf <urn:document:0813x2420Door_ProductData.pdf/page_6> ;
+    pdo:boundingBox "295.67999267578125,759.7328491210938,315.1999206542969,771.9195556640625" ;
+    pdo:font "Helvetica" ;
+    pdo:fontSize "10.079999923706055"^^xsd:float ;
+    pdo:index 9 ;
+    cnt:chars "-- 1 5/16 ″ (33) Height + 1 11/16 ″ (43) Width -- 18 1/4 ″ (464)  ÷  2 Width -- 15 5/8 ″ (397) ÷  2 Width -- 6 1/2 ″ (165) Width --5 1/2 ″ (140) Width -- 6 ″ (152) Width -- 3 3/8 ″ (86) Masonry Opening (With Flat Casing) Height -- 12 1/4 ″ (311) Height -- 10 15/16 ″ (278) Height -- 3 1/4 ″ (83) Height -- 2 3/4 ″ (70) Height -- 3 ″ (76) Height -- 1 11/16 ″ (43) 18.5 2008--06--02 11708608 Marvin Architectural Detail Manual" .
+
+<urn:document:0813x2420Door_ProductData.pdf/page_7/chunk_0> a cnt:ContentAsText ;
+    dcterms:isPartOf <urn:document:0813x2420Door_ProductData.pdf/page_7> ;
+    pdo:boundingBox "56.880001068115234,33.03961181640625,265.0693664550781,53.300411224365234" ;
+    pdo:font "Swiss721BT-Roman" ;
+    pdo:fontSize "16.079999923706055"^^xsd:float ;
+    pdo:index 0 ;
+    cnt:chars " CLAD SLIDING PATIO DOOR MEASUREMENT CONVERSIONS Clad Sliding Patio Door Measurement Conversions -- 3 Panel Daylight Opening Glass Size Frame Size Rough Opening Masonry Opening (Without Casing) Masonry Opening (With Flat Casing) Size Referenced Masonry Opening (With Brick Mould Casing) Dimension Needed Width Width Width Width Width Width + 1 5/16 ″ (33) DLO x 3 + 19 13/32 ″ (493) DLO x 3 + 20 13/32 ″ (518) DLO x 3 + 19 29/32 ″ (506) DLO x 3 + 22 17/32 ″ (572) DLO x 3 + 25 29/32 ″ (658) Daylight" .
+
+<urn:document:0813x2420Door_ProductData.pdf/page_7/chunk_1> a cnt:ContentAsText ;
+    dcterms:isPartOf <urn:document:0813x2420Door_ProductData.pdf/page_7> ;
+    pdo:boundingBox "67.6780776977539,167.9788360595703,91.3574447631836,174.93692016601562" ;
+    pdo:font "Helvetica-Bold" ;
+    pdo:fontSize "5.760000228881836"^^xsd:float ;
+    pdo:index 1 ;
+    cnt:chars "Opening Height + 1 5/16 ″ (33) Height + 9 ″ (229) Height + 9 1/2 ″ (241) Height + 9 1/4 ″ (235) Height + 10 9/16 ″ (268) Height + 12 1/4 ″ (311) Width Width Width Width Width -- 1 5/16 ″ (33) Width GS x 3 + 15 15/32 ″ (393) GS x 3 + 16 15/32 ″ (418) GS x 3 + 15 31/32 ″ (406) GS x 3 + 18 19/32 ″ (472) GS x 3 + 21 31/32 ″ (558) Glass Size Height -- 1 5/16 ″ (33) Height + 7 11/16 ″ (195) Height + 8 3/16 ″ (208) Height + 7 15/16 ″ (202) Height + 9 1/4 ″ (235) Height + 10 15/16 ″ (278) Width" .
+
+<urn:document:0813x2420Door_ProductData.pdf/page_7/chunk_10> a cnt:ContentAsText ;
+    dcterms:isPartOf <urn:document:0813x2420Door_ProductData.pdf/page_7> ;
+    pdo:boundingBox "295.67999267578125,759.7328491210938,315.1999206542969,771.9195556640625" ;
+    pdo:font "Helvetica" ;
+    pdo:fontSize "10.079999923706055"^^xsd:float ;
+    pdo:index 10 ;
+    cnt:chars "-- 1 11/16 ″ (43) 18.6 2008--06--02 11708608 Marvin Architectural Detail Manual" .
+
+<urn:document:0813x2420Door_ProductData.pdf/page_7/chunk_2> a cnt:ContentAsText ;
+    dcterms:isPartOf <urn:document:0813x2420Door_ProductData.pdf/page_7> ;
+    pdo:boundingBox "149.0399932861328,235.89300537109375,175.75485229492188,242.85684204101562" ;
+    pdo:font "Helvetica" ;
+    pdo:fontSize "5.760000228881836"^^xsd:float ;
+    pdo:index 2 ;
+    cnt:chars "-- 19 13/32 ″ (493)  ÷  3 Width -- 15 15/32 ″ (393)  ÷  3 Width + 1 ″ (25) Width + 1/2 ″ (13) Width + 3 1/8 ″ (79) Width + 6 1/2 ″ (165) Frame Size Height -- 9 ″ (229) Height -- 7 11/16 ″ (195) Height + 1/2 ″ (13) Height + 1/4 ″ (6) Height + 1 9/16 ″ (40) Height + 3 1/4 ″ (83) Dimension Given Width -- 20 13/32 ″ (518)  ÷  3 Width -- 16 15/32 ″ (418)  ÷  3 Width -- 1 ″ (25) Width -- 1/2 ″ (13) Width + 2 1/8 ″ (54) Width + 5 1/2 ″ (140) Rough Opening Height -- 9 1/2 ″ (241) Height -- 8 3/16 ″ (208)" .
+
+<urn:document:0813x2420Door_ProductData.pdf/page_7/chunk_3> a cnt:ContentAsText ;
+    dcterms:isPartOf <urn:document:0813x2420Door_ProductData.pdf/page_7> ;
+    pdo:boundingBox "251.52000427246094,293.9731140136719,267.7545471191406,300.93695068359375" ;
+    pdo:font "Helvetica" ;
+    pdo:fontSize "5.760000228881836"^^xsd:float ;
+    pdo:index 3 ;
+    cnt:chars "Height -- 1/2 ″ (13) Height -- 1/4 ″ (6) Height + 1 1/16 ″ (27) Height + 2 3/4 ″ (70) Width -- 19 29/32 ″ (506)  ÷  3 Width -- 15 31/32 ″ (406)  ÷  3 Width -- 1/2 ″ (13) Width + 1/2 ″ (13) Width + 2 5/8 ″ (67) Width + 6 ″ (152) Masonry Opening (Without Casing) Height -- 9 1/4 ″ (235) Height -- 7 15/16 ″ (202) Height -- 1/4 ″ (6) Height + 1/4 ″ (6) Height + 1 5/16 ″ (33) Height + 3 ″ (76) Width -- 22 17/32 ″ (572)  ÷  3 Width -- 18 19/32 ″ (472)  ÷  3 Width -- 3 1/8 ″ (79) Width -- 2 1/8 ″ (54)" .
+
+<urn:document:0813x2420Door_ProductData.pdf/page_7/chunk_4> a cnt:ContentAsText ;
+    dcterms:isPartOf <urn:document:0813x2420Door_ProductData.pdf/page_7> ;
+    pdo:boundingBox "380.6400146484375,348.693115234375,395.3625793457031,355.6569519042969" ;
+    pdo:font "Helvetica" ;
+    pdo:fontSize "5.760000228881836"^^xsd:float ;
+    pdo:index 4 ;
+    cnt:chars "Width -- 2 5/8 ″ (67) Width + 3 3/8 ″ (86) Masonry Opening (With Brick Mould Casing) Height -- 10 9/16 ″ (268) Height -- 9 1/4 ″ (235) Height --1 9/16 ″ (40) Height -- 1 1/16 ″ (27) Height -- 1 5/16 ″ (33) Height + 1 11/16 ″ (43) Width -- 25 29/32 ″ (658)  ÷  3 Width -- 21 31/32 ″ (558)  ÷  3 Width -- 6 1/2 ″ (165) Width --5 1/2 ″ (140) Width -- 6 ″ (152) Width -- 3 3/8 ″ (86) Masonry Opening (With Flat Casing) Height -- 12 1/4 ″ (311) Height -- 10 15/16 ″ (278) Height -- 3 1/4 ″ (83) Height" .
+
+<urn:document:0813x2420Door_ProductData.pdf/page_7/chunk_5> a cnt:ContentAsText ;
+    dcterms:isPartOf <urn:document:0813x2420Door_ProductData.pdf/page_7> ;
+    pdo:boundingBox "181.67999267578125,424.6574401855469,439.27459716796875,435.3844909667969" ;
+    pdo:font "Helvetica-Bold" ;
+    pdo:fontSize "8.880000114440918"^^xsd:float ;
+    pdo:index 5 ;
+    cnt:chars "-- 2 3/4 ″ (70) Height -- 3 ″ (76) Height -- 1 11/16 ″ (43) Clad Sliding Patio Door Measurement Conversions -- 4 Panel Daylight Opening Glass Size Frame Size Rough Opening Masonry Opening (Without Casing) Masonry Opening (With Flat Casing) Size Referenced Masonry Opening (With Brick Mould Casing) Dimension Needed Width Width Width Width Width Width + 1 5/16 ″ (33) DLO x 4 + 21 1/4 ″ (540) DLO x 4 + 22 1/4 ″ (565) DLO x 4 + 21 3/4 ″ (552) DLO x 4 + 24 3/8 ″ (619) DLO x 4 + 27 3/4 ″ (705) Daylight" .
+
+<urn:document:0813x2420Door_ProductData.pdf/page_7/chunk_6> a cnt:ContentAsText ;
+    dcterms:isPartOf <urn:document:0813x2420Door_ProductData.pdf/page_7> ;
+    pdo:boundingBox "67.6780776977539,504.69879150390625,91.3574447631836,511.6568603515625" ;
+    pdo:font "Helvetica-Bold" ;
+    pdo:fontSize "5.760000228881836"^^xsd:float ;
+    pdo:index 6 ;
+    cnt:chars "Opening Height + 1 5/16 ″ (33) Height + 9 ″ (229) Height + 9 1/2 ″ (241) Height + 9 1/4 ″ (235) Height + 10 9/16 ″ (268) Height + 12 1/4 ″ (311) Width Width Width Width Width -- 1 5/16 ″ (33) Width GS x 4 + 16 ″ (406) GS x 4 + 17 ″ (432) GS x 4 + 16 1/2 ″ (419) GS x 4 + 19 1/8 ″ (486) GS x 4 + 22 1/2 ″ (572) Glass Size Height -- 1 5/16 ″ (33) Height + 7 11/16 ″ (195) Height + 8 3/16 ″ (208) Height + 7 15/16 ″ (202) Height + 9 1/4 ″ (235) Height + 10 15/16 ″ (278) Width -- 21 1/4 ″ (540)  ÷  4" .
+
+<urn:document:0813x2420Door_ProductData.pdf/page_7/chunk_7> a cnt:ContentAsText ;
+    dcterms:isPartOf <urn:document:0813x2420Door_ProductData.pdf/page_7> ;
+    pdo:boundingBox "188.39999389648438,575.9730224609375,203.12257385253906,582.9368286132812" ;
+    pdo:font "Helvetica" ;
+    pdo:fontSize "5.760000228881836"^^xsd:float ;
+    pdo:index 7 ;
+    cnt:chars "Width -- 16 ″ (406)  ÷  4 Width + 1 ″ (25) Width + 1/2 ″ (13) Width + 3 1/8 ″ (79) Width + 6 1/2 ″ (165) Frame Size Height -- 9 ″ (229) Height -- 7 11/16 ″ (195) Height + 1/2 ″ (13) Height + 1/4 ″ (6) Height + 1 9/16 ″ (40) Height + 3 1/4 ″ (83) Dimension Given Width -- 22 1/4 ″ (565)  ÷  4 Width -- 17 ″ (432)  ÷  4 Width -- 1 ″ (25) Width -- 1/2 ″ (13) Width + 2 1/8 ″ (54) Width + 5 1/2 ″ (140) Rough Opening Height -- 9 1/2 ″ (241) Height -- 8 3/16 ″ (208) Height -- 1/2 ″ (13) Height -- 1/4 ″" .
+
+<urn:document:0813x2420Door_ProductData.pdf/page_7/chunk_8> a cnt:ContentAsText ;
+    dcterms:isPartOf <urn:document:0813x2420Door_ProductData.pdf/page_7> ;
+    pdo:boundingBox "416.40191650390625,633.81298828125,423.3576965332031,640.7767944335938" ;
+    pdo:font "Helvetica" ;
+    pdo:fontSize "5.760000228881836"^^xsd:float ;
+    pdo:index 8 ;
+    cnt:chars "(6) Height + 1 1/16 ″ (27) Height + 2 3/4 ″ (70) Width -- 21 3/4 ″ (552)  ÷  4 Width -- 16 1/2 ″ (419)  ÷  4 Width -- 1/2 ″ (13) Width + 1/2 ″ (13) Width + 2 5/8 ″ (67) Width + 6 ″ (152) Masonry Opening (Without Casing) Height -- 9 1/4 ″ (235) Height -- 7 15/16 ″ (202) Height -- 1/4 ″ (6) Height + 1/4 ″ (6) Height + 1 5/16 ″ (33) Height + 3 ″ (76) Width -- 24 3/8 ″ (619)  ÷  4 Width -- 19 1/8 ″ (486)  ÷  4 Width -- 3 1/8 ″ (79) Width -- 2 1/8 ″ (54) Width -- 2 5/8 ″ (67) Width + 3 3/8 ″ (86)" .
+
+<urn:document:0813x2420Door_ProductData.pdf/page_7/chunk_9> a cnt:ContentAsText ;
+    dcterms:isPartOf <urn:document:0813x2420Door_ProductData.pdf/page_7> ;
+    pdo:boundingBox "67.68000030517578,681.578857421875,91.2798843383789,688.5369262695312" ;
+    pdo:font "Helvetica-Bold" ;
+    pdo:fontSize "5.760000228881836"^^xsd:float ;
+    pdo:index 9 ;
+    cnt:chars "Masonry Opening (With Brick Mould Casing) Height -- 10 9/16 ″ (268) Height -- 9 1/4 ″ (235) Height --1 9/16 ″ (40) Height -- 1 1/16 ″ (27) Height -- 1 5/16 ″ (33) Height + 1 11/16 ″ (43) Width -- 27 3/4 ″ (705)  ÷  4 Width -- 22 1/2 ″ (572)  ÷  4 Width -- 6 1/2 ″ (165) Width --5 1/2 ″ (140) Width -- 6 ″ (152) Width -- 3 3/8 ″ (86) Masonry Opening (With Flat Casing) Height -- 12 1/4 ″ (311) Height -- 10 15/16 ″ (278) Height -- 3 1/4 ″ (83) Height -- 2 3/4 ″ (70) Height -- 3 ″ (76) Height" .
+
+<urn:document:0813x2420Door_ProductData.pdf/page_8/chunk_0> a cnt:ContentAsText ;
+    dcterms:isPartOf <urn:document:0813x2420Door_ProductData.pdf/page_8> ;
+    pdo:boundingBox "56.880001068115234,33.03961181640625,265.0693664550781,53.300411224365234" ;
+    pdo:font "Swiss721BT-Roman" ;
+    pdo:fontSize "16.079999923706055"^^xsd:float ;
+    pdo:index 0 ;
+    cnt:chars " CLAD SLIDING PATIO DOOR 6/6, 6/8, and 8/0 HEIGHT CHARTS CAUTION: It is recommended that at minimum of 1/4 ″  be added to the RO height when using Marvin SillGuard t . CSPD 6 ′  6 ″  Width O 2666 O 3066 OX XO 5066 OOX XXO 7666 OX XO 6066 CN Mas. Opening 32 7/16 (824) 59 1/2 (1511) 90 13/16 (2307) 38 7/16 (976) 71 1/2 (1816) Rgh. Opening 32 15/16 (837) 60 (1524) 91 5/16 (2319) 38 15/16 (989) 72 (1829) Frame Size 31 15/16 (811) 59 (1499) 90 15/16 (2294) 37 15/16 (964) 71 (1803) Glass Size 24 15/16" .
+
+<urn:document:0813x2420Door_ProductData.pdf/page_8/chunk_1> a cnt:ContentAsText ;
+    dcterms:isPartOf <urn:document:0813x2420Door_ProductData.pdf/page_8> ;
+    pdo:boundingBox "224.88267517089844,202.133056640625,243.11607360839844,211.7083282470703" ;
+    pdo:font "Helvetica" ;
+    pdo:fontSize "7.920000076293945"^^xsd:float ;
+    pdo:index 1 ;
+    cnt:chars "(633) 24 (633) 24 15/16 (633) 30 13/16 (786) 30 15/16 (786) 6 ′  8 ″  and 8 ′  0 ″ Width O 4066 OX XO 8066 OOX XOO OXO 9066 OOX XOO OXO 12066 CN Mas. Opening 108 13/16 (2764) 50 7/16 (1281) 95 1/2 (2426) 144 13/16 (3678) Rgh. Opening 109 5/16 (2777) 50 15/16 (1294) 96 (2438) 145 5/16 (3691) Frame Size 108 5/16 (2751) 49 15/16 (1268) 95 (2413) 144 5/16 (3666) Glass Size 30 15/16 (786) 42 15/16 (1091) 42 15/16 (1091) 42 15/16 (1091) O 2668/80 OXXO 10068/80 O 3068/80 OX XO 5068/80 OOX XXO OXO" .
+
+<urn:document:0813x2420Door_ProductData.pdf/page_8/chunk_2> a cnt:ContentAsText ;
+    dcterms:isPartOf <urn:document:0813x2420Door_ProductData.pdf/page_8> ;
+    pdo:boundingBox "341.0428771972656,357.4159240722656,369.2048645019531,366.9833068847656" ;
+    pdo:font "Helvetica-Bold" ;
+    pdo:fontSize "7.920000076293945"^^xsd:float ;
+    pdo:index 2 ;
+    cnt:chars "7668/80 CN Mas. Opening 33 1/4 (845) 61 1/8 (1553) 93 1/4 (2369) 119 1/2 (3035) 39 1/4 (997) Rgh. Opening 33 3/4 (857) 61 5/8 (1565) 93 3/4 (2381) 120 (3048) 39 3/4 (1010) Frame Size 32 3/4 (832) 60 5/8 (1540) 92 3/4 (2356) 190 (3023) 38 3/4 (984) Glass Size 25 3/4 (654) 25 3/4 (654) 25 3/4 (654) 25 3/4 (654) 31 3/4 (806) OXXO 12068/80 OX/XO  (only) 6668 O 4068/80 OX XO 6068/80 OOX XOO OXO 9068/80 CN Mas. Opening 73 1/8 (1857) 111 1/4 (2826) 143 1/2 (3645) 77 1/2 (1969) 51 1/4 (1302) Rgh. Opening" .
+
+<urn:document:0813x2420Door_ProductData.pdf/page_8/chunk_3> a cnt:ContentAsText ;
+    dcterms:isPartOf <urn:document:0813x2420Door_ProductData.pdf/page_8> ;
+    pdo:boundingBox "180.72000122070312,489.1729431152344,202.40652465820312,498.74822998046875" ;
+    pdo:font "Helvetica" ;
+    pdo:fontSize "7.920000076293945"^^xsd:float ;
+    pdo:index 3 ;
+    cnt:chars "73 5/8 (1870) 111 3/4 (2838) 144 (3658) 78 (1981) 51 3/4 (1314) Frame Size 72 5/8 (1845) 110 3/4 (2813) 143 (3632) 77 (1956) 50 3/4 (1289) Glass Size 31 3/4 (806) 31 3/4 (806) 31 3/4 (806) 33 15/16 (862) 43 3/4 (1111) OXXO 16068/80 OX XO 8068/80 OOX XOO OXO 12068/80 CN Mas. Opening 97 1/8 (2467) 147 1/4 (3740) 191 1/2 (4864) Rgh. Opening 97 5/8 (2480) 147 3/4 (3753) 192 (4877) Frame Size 96 5/8 (2454) 146 3/4 (3727) 191 (4851) Glass Size 43 3/4 (1111) 43 3/4 (1111) 43 3/4 (1111) Height CN 6/6 6/8" .
+
+<urn:document:0813x2420Door_ProductData.pdf/page_8/chunk_4> a cnt:ContentAsText ;
+    dcterms:isPartOf <urn:document:0813x2420Door_ProductData.pdf/page_8> ;
+    pdo:boundingBox "295.67999267578125,759.7328491210938,315.1999206542969,771.9195556640625" ;
+    pdo:font "Helvetica" ;
+    pdo:fontSize "10.079999923706055"^^xsd:float ;
+    pdo:index 4 ;
+    cnt:chars "8/0 Mas. Opening 79 3/4 (2026) 82 1/4 (2089) 95 3/4 (2432) Rgh. Opening 80 (2032) 82 1/2 (2096) 96 (2438) Frame Size 79 1/2 (2019) 82 (2083) 95 1/2 (2426) Glass Size 71 13/16 (1824) 94 5/16 (1888) 87 13/16 (2230) 18.7 2009--05--26 11708608 Marvin Architectural Detail Manual" .
+
+<urn:document:0813x2420Door_ProductData.pdf/page_9/chunk_0> a cnt:ContentAsText ;
+    dcterms:isPartOf <urn:document:0813x2420Door_ProductData.pdf/page_9> ;
+    pdo:boundingBox "56.880001068115234,33.03961181640625,265.0693664550781,53.300411224365234" ;
+    pdo:font "Swiss721BT-Roman" ;
+    pdo:fontSize "16.079999923706055"^^xsd:float ;
+    pdo:index 0 ;
+    cnt:chars " CLAD SLIDING PATIO DOOR SECTION DETAILS: 4 9/16 ″  (116) OPERATING SCALE: 3 I  = 1 i  0 I  (76 = 305) Operating 4 9/16 ″ (116) 5 21/32 ″ (144) 4 9/16 ″ (116) 1 1/16 ″ (27) 3 ″ (76) 4 3/16 ″ (106) 3 ″ (76) Dayligh t Openin g Frame Size 3 ″ (76) 4 ″ (101) 3 ″ (76) 4 13/16 ″ (122) 1 5/8 ″ (41) 1 7/16 ″ (37) 5 11/16 ″ (144) Low Profile ADA Sill Head Jamb and Sill 1 23/32 ″ (44) 1 1/16 ″ (27) 4 9/16 ″ (116) 5 21/32 ″ (144) 3 23/32 ″ (94) 3 ″ (76) 3 ″ (76) Daylight Opening Daylight Opening 4 3/16 ″" .
+
+<urn:document:0813x2420Door_ProductData.pdf/page_9/chunk_1> a cnt:ContentAsText ;
+    dcterms:isPartOf <urn:document:0813x2420Door_ProductData.pdf/page_9> ;
+    pdo:boundingBox "266.1561584472656,680.7772827148438,344.7851867675781,692.9639892578125" ;
+    pdo:font "Helvetica" ;
+    pdo:fontSize "10.079999923706055"^^xsd:float ;
+    pdo:index 1 ;
+    cnt:chars "(106) 3 7/8 ″ (98) Frame Size 2 Panel Jamb XO NOTE: Shown with optional handle set. 18.8 2009--05--29 11708608 Marvin Architectural Detail Manual" .
+
+<urn:document:0813x2420Door_ProductData.pdf/page_15> a fabio:Page ;
+    dcterms:isPartOf <urn:document:0813x2420Door_ProductData.pdf> ;
+    pdo:height "792.0"^^xsd:float ;
+    pdo:index 15 ;
+    pdo:rotation 0 ;
+    pdo:width "612.0"^^xsd:float .
+
+<urn:document:0813x2420Door_ProductData.pdf/page_4> a fabio:Page ;
+    dcterms:isPartOf <urn:document:0813x2420Door_ProductData.pdf> ;
+    pdo:height "792.0"^^xsd:float ;
+    pdo:index 4 ;
+    pdo:rotation 0 ;
+    pdo:width "612.0"^^xsd:float .
+
+<urn:document:0813x2420Door_ProductData.pdf/page_10> a fabio:Page ;
+    dcterms:isPartOf <urn:document:0813x2420Door_ProductData.pdf> ;
+    pdo:height "792.0"^^xsd:float ;
+    pdo:index 10 ;
+    pdo:rotation 0 ;
+    pdo:width "612.0"^^xsd:float .
+
+<urn:document:0813x2420Door_ProductData.pdf/page_11> a fabio:Page ;
+    dcterms:isPartOf <urn:document:0813x2420Door_ProductData.pdf> ;
+    pdo:height "792.0"^^xsd:float ;
+    pdo:index 11 ;
+    pdo:rotation 0 ;
+    pdo:width "612.0"^^xsd:float .
+
+<urn:document:0813x2420Door_ProductData.pdf/page_12> a fabio:Page ;
+    dcterms:isPartOf <urn:document:0813x2420Door_ProductData.pdf> ;
+    pdo:height "792.0"^^xsd:float ;
+    pdo:index 12 ;
+    pdo:rotation 0 ;
+    pdo:width "612.0"^^xsd:float .
+
+<urn:document:0813x2420Door_ProductData.pdf/page_13> a fabio:Page ;
+    dcterms:isPartOf <urn:document:0813x2420Door_ProductData.pdf> ;
+    pdo:height "792.0"^^xsd:float ;
+    pdo:index 13 ;
+    pdo:rotation 0 ;
+    pdo:width "612.0"^^xsd:float .
+
+<urn:document:0813x2420Door_ProductData.pdf/page_14> a fabio:Page ;
+    dcterms:isPartOf <urn:document:0813x2420Door_ProductData.pdf> ;
+    pdo:height "792.0"^^xsd:float ;
+    pdo:index 14 ;
+    pdo:rotation 0 ;
+    pdo:width "612.0"^^xsd:float .
+
+<urn:document:0813x2420Door_ProductData.pdf/page_16> a fabio:Page ;
+    dcterms:isPartOf <urn:document:0813x2420Door_ProductData.pdf> ;
+    pdo:height "792.0"^^xsd:float ;
+    pdo:index 16 ;
+    pdo:rotation 0 ;
+    pdo:width "612.0"^^xsd:float .
+
+<urn:document:0813x2420Door_ProductData.pdf/page_17> a fabio:Page ;
+    dcterms:isPartOf <urn:document:0813x2420Door_ProductData.pdf> ;
+    pdo:height "792.0"^^xsd:float ;
+    pdo:index 17 ;
+    pdo:rotation 0 ;
+    pdo:width "612.0"^^xsd:float .
+
+<urn:document:0813x2420Door_ProductData.pdf/page_9> a fabio:Page ;
+    dcterms:isPartOf <urn:document:0813x2420Door_ProductData.pdf> ;
+    pdo:height "792.0"^^xsd:float ;
+    pdo:index 9 ;
+    pdo:rotation 0 ;
+    pdo:width "612.0"^^xsd:float .
+
+<urn:document:0813x2420Door_ProductData.pdf/page_0> a fabio:Page ;
+    dcterms:isPartOf <urn:document:0813x2420Door_ProductData.pdf> ;
+    pdo:height "792.0"^^xsd:float ;
+    pdo:index 0 ;
+    pdo:rotation 0 ;
+    pdo:width "612.0"^^xsd:float .
+
+<urn:document:0813x2420Door_ProductData.pdf/page_3> a fabio:Page ;
+    dcterms:isPartOf <urn:document:0813x2420Door_ProductData.pdf> ;
+    pdo:height "792.0"^^xsd:float ;
+    pdo:index 3 ;
+    pdo:rotation 0 ;
+    pdo:width "612.0"^^xsd:float .
+
+<urn:document:0813x2420Door_ProductData.pdf/page_8> a fabio:Page ;
+    dcterms:isPartOf <urn:document:0813x2420Door_ProductData.pdf> ;
+    pdo:height "792.0"^^xsd:float ;
+    pdo:index 8 ;
+    pdo:rotation 0 ;
+    pdo:width "612.0"^^xsd:float .
+
+<urn:document:0813x2420Door_ProductData.pdf/page_2> a fabio:Page ;
+    dcterms:isPartOf <urn:document:0813x2420Door_ProductData.pdf> ;
+    pdo:height "792.0"^^xsd:float ;
+    pdo:index 2 ;
+    pdo:rotation 0 ;
+    pdo:width "612.0"^^xsd:float .
+
+<urn:document:0813x2420Door_ProductData.pdf/page_5> a fabio:Page ;
+    dcterms:isPartOf <urn:document:0813x2420Door_ProductData.pdf> ;
+    pdo:height "792.0"^^xsd:float ;
+    pdo:index 5 ;
+    pdo:rotation 0 ;
+    pdo:width "612.0"^^xsd:float .
+
+<urn:document:0813x2420Door_ProductData.pdf/page_6> a fabio:Page ;
+    dcterms:isPartOf <urn:document:0813x2420Door_ProductData.pdf> ;
+    pdo:height "792.0"^^xsd:float ;
+    pdo:index 6 ;
+    pdo:rotation 0 ;
+    pdo:width "612.0"^^xsd:float .
+
+<urn:document:0813x2420Door_ProductData.pdf/page_1> a fabio:Page ;
+    dcterms:isPartOf <urn:document:0813x2420Door_ProductData.pdf> ;
+    pdo:height "792.0"^^xsd:float ;
+    pdo:index 1 ;
+    pdo:rotation 0 ;
+    pdo:width "612.0"^^xsd:float .
+
+<urn:document:0813x2420Door_ProductData.pdf/page_7> a fabio:Page ;
+    dcterms:isPartOf <urn:document:0813x2420Door_ProductData.pdf> ;
+    pdo:height "792.0"^^xsd:float ;
+    pdo:index 7 ;
+    pdo:rotation 0 ;
+    pdo:width "612.0"^^xsd:float .
+
+<urn:document:0813x2420Door_ProductData.pdf> a fabio:DigitalDocument ;
+    dcterms:created "D:20050113123727-06'00'" ;
+    dcterms:creator "DEZIRAEG" ;
+    dcterms:hasFormat "application/pdf" ;
+    dcterms:modified "D:20090603164847-05'00'" ;
+    dcterms:title "0813x2420Door_ProductData.pdf",
+        "18 Clad Sliding Patio Door" ;
+    pdo:pageCount 18 ;
+    prov:wasGeneratedBy "Acrobat Distiller 6.0 (Windows)" .
+

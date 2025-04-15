@@ -1,0 +1,959 @@
+@prefix cnt: <http://www.w3.org/2011/content#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix fabio: <http://purl.org/spar/fabio/> .
+@prefix pdo: <http://www.semanticweb.org/ontologies/pdo#> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<urn:document:0762x2032Door_ProductData.pdf/page_0/chunk_0> a cnt:ContentAsText ;
+    dcterms:isPartOf <urn:document:0762x2032Door_ProductData.pdf/page_0> ;
+    pdo:boundingBox "13.5,33.10199737548828,434.7900085449219,54.0" ;
+    pdo:color 7891556 ;
+    pdo:font "FrutigerLTStd-Light" ;
+    pdo:fontSize "18.0"^^xsd:float ;
+    pdo:index 0 ;
+    cnt:chars " Molded door size and profile options 6'8\" and 7'0\" Doors 1'0\" 1'2\" 1'3\" 1'4\" 1'6\" 1'8\" 1'10\" 2'0\" 2'2\" 2'4\" 2'6\" 2'8\" 2'10\" 3'0\" Sticking  Profile ProCore ®  Bifolds ATHERTON ®  6'8\" Smooth X X X X X X X X X X X X X X O X X ATHERTON 7'0\" Smooth X X X X X X X X X X X X X X O X X ARLINGTON 6'8\" Smooth X X X X X X X X X X X X X X B X X ARLINGTON 7'0\" Smooth X X X X X X X X X X X X X X B X X ®  6'8\" Textured X X X X X X X X X X X X X X MCB X X AVALON AVALON 7'0\" Textured X X X X X X X X X X X X X X" .
+
+<urn:document:0762x2032Door_ProductData.pdf/page_0/chunk_1> a cnt:ContentAsText ;
+    dcterms:isPartOf <urn:document:0762x2032Door_ProductData.pdf/page_0> ;
+    pdo:boundingBox "475.3674621582031,156.06349182128906,490.1514587402344,164.19049072265625" ;
+    pdo:color 2301728 ;
+    pdo:font "FrutigerLTStd-Light" ;
+    pdo:fontSize "7.0"^^xsd:float ;
+    pdo:index 1 ;
+    cnt:chars "MCB X X ®  6'8\" Textured X X X X X X X X X X X X X X MCB X X BOSTONIAN BOSTONIAN 7'0\" Textured X X X X X X X X X X X X X X MCB X X BRISTOL 6'8\" Smooth X X X X X X X X X X X X X X MCB X X BRISTOL 7'0\" Smooth X X X X X X X X X X X X X X MCB X X CAMBRIDGE 6'8\" Smooth X X X X X X X X X X X X X X O X X CAMBRIDGE 7'0\" Smooth X X X X X X X X X X X X X X O X X ®  6'8\" Textured X X X X X X X X X X X X X X MCB X X CAMDEN CAMDEN 7'0\" Textured X X X X X X X X X X X X X X MCB X X COLONIAL 6'8\" Textured X X X" .
+
+<urn:document:0762x2032Door_ProductData.pdf/page_0/chunk_2> a cnt:ContentAsText ;
+    dcterms:isPartOf <urn:document:0762x2032Door_ProductData.pdf/page_0> ;
+    pdo:boundingBox "229.534423828125,285.44146728515625,233.81141662597656,293.5684814453125" ;
+    pdo:color 2301728 ;
+    pdo:font "FrutigerLTStd-Light" ;
+    pdo:fontSize "7.0"^^xsd:float ;
+    pdo:index 2 ;
+    cnt:chars "X X X X X X X X X X X O X X COLONIAL 7'0\" Textured X X X X X X X X X X X X X X O X X ™  6'8\" Smooth X X X X X X X X X X X X X X O X X CONTINENTAL CONTINENTAL 7'0\" Smooth X X X X X X X X X X X X X X O X X ™  6'8\" Smooth X X X X X X X X X X X X X X TBD X X CRAFTSMAN III ™  7'0\" Smooth X X X X X X X X X X X X X X TBD X X CRAFTSMAN III ™  MIRROR Arlington 6'8\" Smooth – – – – – – – X – X X X – X B – – IMPRESSION ™  MIRROR Colonial 6'8\" Textured – – – – – – – X – X X X – X O – – IMPRESSION" .
+
+<urn:document:0762x2032Door_ProductData.pdf/page_0/chunk_3> a cnt:ContentAsText ;
+    dcterms:isPartOf <urn:document:0762x2032Door_ProductData.pdf/page_0> ;
+    pdo:boundingBox "17.77044677734375,400.4384765625,149.1254425048828,408.56549072265625" ;
+    pdo:color 2301728 ;
+    pdo:font "FrutigerLTStd-Light" ;
+    pdo:fontSize "7.0"^^xsd:float ;
+    pdo:index 3 ;
+    cnt:chars "IMPRESSION MIRROR Bostonian 6'8\" Textured – – – – – – – X – X X X – X MCB – – PRINCETON 6'8\" Smooth X X X X X X X X X X X X X X MCB X X PRINCETON 7'0\" Smooth X X X X X X X X X X X X X X MCB X X ®  6'8\" Textured X X X X X X X X X X X X X X O X X PROVINCIAL PROVINCIAL 7'0\" Textured X X X X X X X X X X X X X X O X X ROCKPORT 6'8\" Smooth – – – – – – – X X X X X X X MCB X X ROCKPORT 7'0\" Smooth – – – – – – – X X X X X X X MCB X X SANTA FE 6'8\" Smooth X X X X X X X X X X X X X X O X X" .
+
+<urn:document:0762x2032Door_ProductData.pdf/page_0/chunk_4> a cnt:ContentAsText ;
+    dcterms:isPartOf <urn:document:0762x2032Door_ProductData.pdf/page_0> ;
+    pdo:boundingBox "17.958984375,515.450439453125,88.48397827148438,523.5774536132812" ;
+    pdo:color 2301728 ;
+    pdo:font "FrutigerLTStd-Light" ;
+    pdo:fontSize "7.0"^^xsd:float ;
+    pdo:index 4 ;
+    cnt:chars "SANTA FE 7'0\" Smooth X X X X X X X X X X X X X X O X X ®  6'8\" Textured X X X X X X X X X X X X X X O X X STANFORD STANFORD 7'0\" Textured X X X X X X X X X X X X X X O X X 8'0\" Doors 1'0\" 1'2\" 1'3\" 1'4\" 1'6\" 1'8\" 1'10\" 2'0\" 2'2\" 2'4\" 2'6\" 2'8\" 2'10\" 3'0\" Sticking  Profile ProCore ®  Bifolds ARLINGTON 8'0\" Smooth X X X X X X X X X X X X X X B X X ATHERTON 8'0\" Smooth – – – – – – X X X X X X X X O X X BOSTONIAN 8'0\" Textured X X X X X X X X X X X X X X MCB X X BRISTOL 8'0\" Smooth X X X X X X X X X" .
+
+<urn:document:0762x2032Door_ProductData.pdf/page_0/chunk_5> a cnt:ContentAsText ;
+    dcterms:isPartOf <urn:document:0762x2032Door_ProductData.pdf/page_0> ;
+    pdo:boundingBox "363.5148010253906,620.3195190429688,367.79180908203125,628.446533203125" ;
+    pdo:color 2301728 ;
+    pdo:font "FrutigerLTStd-Light" ;
+    pdo:fontSize "7.0"^^xsd:float ;
+    pdo:index 5 ;
+    cnt:chars "X X X X X MCB X X CAMBRIDGE 8'0\" Smooth X X X X X X X X X X X X X X O X X COLONIAL 8'0\" Textured – – – – X X X X X X X X – X O X X CONTINENTAL 8'0\" Smooth X X X X X X X X X X X X X X O X X PRINCETON 8'0\" Smooth X X X X X X X X X X X X X X MCB X X ROCKPORT 8'0\" Smooth – – – – – – – – – – – – – X MCB X – SANTA FE 8'0\" Smooth X X X X X X X X X X X X X X O X X Sticking Profile: B=Beaded, MCB=Modified Cove and Bead, O=Ovolo, C=Craftsman" .
+
+<urn:document:0762x2032Door_ProductData.pdf/page_0/chunk_6> a cnt:ContentAsText ;
+    dcterms:isPartOf <urn:document:0762x2032Door_ProductData.pdf/page_0> ;
+    pdo:boundingBox "26.561500549316406,760.4439697265625,36.43850326538086,770.3125" ;
+    pdo:color 2301728 ;
+    pdo:font "FrutigerLTStd-Light" ;
+    pdo:fontSize "8.5"^^xsd:float ;
+    pdo:index 6 ;
+    cnt:chars "Please check your local distributor for availability of 7'0\" and 8'0\" doors in your area.  For more detailed product specifications, please check out our JELD-WEN product line at  www.jeld-wen.com . 28 JE LD - w e n  w i n d o w s  & door s" .
+
+<urn:document:0762x2032Door_ProductData.pdf/page_1/chunk_0> a cnt:ContentAsText ;
+    dcterms:isPartOf <urn:document:0762x2032Door_ProductData.pdf/page_1> ;
+    pdo:boundingBox "112.5,33.60199737548828,320.0039978027344,54.5" ;
+    pdo:color 7891556 ;
+    pdo:font "FrutigerLTStd-Light" ;
+    pdo:fontSize "18.0"^^xsd:float ;
+    pdo:index 0 ;
+    cnt:chars " 6'8\" and 7'0\" Doors CAMBRIDGE Width Height # of  Panels Thickness Panel Width Outer Stiles* Center  Stile Top Rail Lock Rail Bottom Rail Sticking  Profile Surface 1'0\" 6'8\"  7'0\" Two 1-3/8\"  1-3/4\" 5-9/16\" 3-7/32\" N/A 4-1/4\" (6'8\") 6-1/4\" (7'0\") 7\" 9-1/4\" (6'8\") 11-1/4\" (7'0\") O Smooth 1'2\" 6'8\"  7'0\" Two 1-3/8\"  1-3/4\" 7-9/16\" 3-7/32\" N/A 4-1/4\" (6'8\") 6-1/4\" (7'0\") 7\" 9-1/4\" (6'8\") 11-1/4\" (7'0\") O Smooth 1'3\" 6'8\"  7'0\" Two 1-3/8\"  1-3/4\" 8-9/16\" 3-7/32\" N/A 4-1/4\" (6'8\") 6-1/4\" (7'0\") 7\"" .
+
+<urn:document:0762x2032Door_ProductData.pdf/page_1/chunk_1> a cnt:ContentAsText ;
+    dcterms:isPartOf <urn:document:0762x2032Door_ProductData.pdf/page_1> ;
+    pdo:boundingBox "479.9786071777344,146.37416076660156,519.4796752929688,154.50115966796875" ;
+    pdo:color 2301728 ;
+    pdo:font "FrutigerLTStd-Light" ;
+    pdo:fontSize "7.0"^^xsd:float ;
+    pdo:index 1 ;
+    cnt:chars "9-1/4\" (6'8\") 11-1/4\" (7'0\") O Smooth 1'4\" 6'8\"  7'0\" Two 1-3/8\"  1-3/4\" 9-9/16\" 3-7/32\" N/A 4-1/4\" (6'8\") 6-1/4\" (7'0\") 7\" 9-1/4\" (6'8\") 11-1/4\" (7'0\") O Smooth 1'6\"  1'8\" 6'8\"  7'0\" Two 1-3/8\"  1-3/4\" 11-9/16\" 3-7/32\" (1'6\") 4-7/32\" (1'8\") N/A 4-1/4\" (6'8\") 6-1/4\" (7'0\") 7\" 9-1/4\" (6'8\") 11-1/4\" (7'0\") O Smooth 1'10\"  2'0\" 6'8\"  7'0\" Two 1-3/8\"  1-3/4\" 13-11/16\" 4-1/8\" (1'10\") 5-1/8\" (2'0\") N/A 4-1/4\" (6'8\") 6-1/4\" (7'0\") 7\" 9-1/4\" (6'8\") 11-1/4\" (7'0\") O Smooth 2'2\"  2'4\" 6'8\"  7'0\" Two" .
+
+<urn:document:0762x2032Door_ProductData.pdf/page_1/chunk_2> a cnt:ContentAsText ;
+    dcterms:isPartOf <urn:document:0762x2032Door_ProductData.pdf/page_1> ;
+    pdo:boundingBox "210.80760192871094,233.36927795410156,232.5985870361328,241.49627685546875" ;
+    pdo:color 2301728 ;
+    pdo:font "FrutigerLTStd-Light" ;
+    pdo:fontSize "7.0"^^xsd:float ;
+    pdo:index 2 ;
+    cnt:chars "1-3/8\"  1-3/4\" 17-11/16\" 4-1/8\" (2'2\") 5-1/8\" (2'4\") N/A 4-1/4\" (6'8\") 6-1/4\" (7'0\") 7\" 9-1/4\" (6'8\") 11-1/4\" (7'0\") O Smooth 2'6\" 6'8\"  7'0\" Two 1-3/8\"  1-3/4\" 19-11/16\" 5-1/8\" N/A 4-1/4\" (6'8\") 6-1/4\" (7'0\") 7\" 9-1/4\" (6'8\") 11-1/4\" (7'0\") O Smooth 2'8\" 6'8\"  7'0\" Two 1-3/8\"  1-3/4\" 21-11/16\" 5-1/8\" N/A 4-1/4\" (6'8\") 6-1/4\" (7'0\") 7\" 9-1/4\" (6'8\") 11-1/4\" (7'0\") O Smooth 2'10\"  3'0\" 6'8\"  7'0\" Two 1-3/8\"  1-3/4\" 22-3/4\" 5-1/8\" (2'10\") 6-1/8\" (3'0\") N/A 4-1/4\" (6'8\") 6-1/4\" (7'0\") 7\"" .
+
+<urn:document:0762x2032Door_ProductData.pdf/page_1/chunk_3> a cnt:ContentAsText ;
+    dcterms:isPartOf <urn:document:0762x2032Door_ProductData.pdf/page_1> ;
+    pdo:boundingBox "112.5,373.47100830078125,155.27000427246094,385.3210144042969" ;
+    pdo:color 7891556 ;
+    pdo:font "FrutigerLTStd-Roman" ;
+    pdo:fontSize "10.0"^^xsd:float ;
+    pdo:index 3 ;
+    cnt:chars "9-1/4\" (6'8\") 11-1/4\" (7'0\") O Smooth CAMDEN ® Width Height # of  Panels Thickness Panel Width Outer Stiles* Center  Stile Top Rail Lock Rail Bottom Rail Sticking  Profile Surface 1'0\"  6'8\"  7'0\" Two 1-3/8\"  1-3/4\" 6-5/8\" 2-5/8\" N/A 5-3/8\" (6'8\") 7-3/8\" (7'0\") 3-3/4\" 8-1/4\" (6'8\") 10-1/4\" (7'0\") MCB Oak  Grain N/A 5-3/8\" (6'8\") 7-3/8\" (7'0\") 3-3/4\" 8-1/4\" (6'8\") 10-1/4\" (7'0\") MCB Oak  Grain 6'8\"  7'0\" Two 1-3/8\"  1-3/4\" 7-1/2\" 3-1/4\" (1'2\") 3-3/4\" (1'3\") 4-1/4\" (1'4\") 1'2\"  1'3\"  1'4\" 1'6\" " .
+
+<urn:document:0762x2032Door_ProductData.pdf/page_1/chunk_4> a cnt:ContentAsText ;
+    dcterms:isPartOf <urn:document:0762x2032Door_ProductData.pdf/page_1> ;
+    pdo:boundingBox "121.22152709960938,477.80841064453125,134.84352111816406,485.9354248046875" ;
+    pdo:color 2301728 ;
+    pdo:font "FrutigerLTStd-Light" ;
+    pdo:fontSize "7.0"^^xsd:float ;
+    pdo:index 4 ;
+    cnt:chars "1'8\" 6'8\"  7'0\" Two 1-3/8\"  1-3/4\" 9-1/2\" 4-1/4\" (1'6\") 5-1/4\" (1'8\") N/A 5-3/8\" (6'8\") 7-3/8\" (7'0\") 3-3/4\" 8-1/4\" (6'8\") 10-1/4\" (7'0\") MCB Oak  Grain N/A 5-3/8\" (6'8\") 7-3/8\" (7'0\") 3-3/4\" 8-1/4\" (6'8\") 10-1/4\" (7'0\") MCB Oak  Grain 1'10\"  2'0\"  2'2\" 6'8\"  7'0\" Two 1-3/8\"  1-3/4\" 15\" 3-1/2\" (1'0\") 4-1/2\" (2'0\") 3-15/16\" (2'2\")   2'4\" 6'8\"  7'0\" Two 1-3/8\"  1-3/4\" 18\" 4-15/16\" (2'4\") N/A 5-3/8\" (6'8\") 7-3/8\" (7'0\") 3-3/4\" 8-1/4\" (6'8\") 10-1/4\" (7'0\") MCB Oak  Grain 2'6\" 6'8\"  7'0\" Two 1-3/8\" " .
+
+<urn:document:0762x2032Door_ProductData.pdf/page_1/chunk_5> a cnt:ContentAsText ;
+    dcterms:isPartOf <urn:document:0762x2032Door_ProductData.pdf/page_1> ;
+    pdo:boundingBox "210.8270721435547,552.8085327148438,230.67205810546875,560.935546875" ;
+    pdo:color 2301728 ;
+    pdo:font "FrutigerLTStd-Light" ;
+    pdo:fontSize "7.0"^^xsd:float ;
+    pdo:index 5 ;
+    cnt:chars "1-3/4\" 19-11/16\" 5-1/8\" N/A 5-3/8\" (6'8\") 7-3/8\" (7'0\") 3-3/4\" 8-1/4\" (6'8\") 10-1/4\" (7'0\") MCB Oak  Grain 2'8\" 6'8\"  7'0\" Two 1-3/8\"  1-3/4\" 22-3/4\" 4-5/8\" N/A 5-3/8\" (6'8\") 7-3/8\" (7'0\") 3-3/4\" 8-1/4\" (6'8\") 10-1/4\" (7'0\") MCB Oak  Grain 2'10\" 6'8\"  7'0\" Two 1-3/8\"  1-3/4\" 22-3/4\" 5-5/8\" N/A 5-3/8\" (6'8\") 7-3/8\" (7'0\") 3-3/4\" 8-1/4\" (6'8\") 10-1/4\" (7'0\") MCB Oak  Grain 3'0\" 6'8\"  7'0\" Two 1-3/8\"  1-3/4\" 24-7/8\" 5-1/2\" N/A 5-3/8\" (6'8\") 7-3/8\" (7'0\") 3-3/4\" 8-1/4\" (6'8\") 10-1/4\" (7'0\") MCB Oak " .
+
+<urn:document:0762x2032Door_ProductData.pdf/page_1/chunk_6> a cnt:ContentAsText ;
+    dcterms:isPartOf <urn:document:0762x2032Door_ProductData.pdf/page_1> ;
+    pdo:boundingBox "572.5870361328125,618.0557861328125,588.9180908203125,626.1828002929688" ;
+    pdo:color 2301728 ;
+    pdo:font "FrutigerLTStd-Light" ;
+    pdo:fontSize "7.0"^^xsd:float ;
+    pdo:index 6 ;
+    cnt:chars "Grain Sticking Profile: B=Beaded, MCB=Modified Cove and Bead, O=Ovolo, C=Craftsman *Assuming standard bore machining (2-1/8\" diameter bore), outer stile measurements listed above must be no less than 3-3/4\" in order to accommodate a  2-3/8\" backset on the lock hole. For 2-3/4\" backsets, outer stile measurements must be no less than 3-13/16\". If lock bore machining is less than the outer " .
+
+<urn:document:0762x2032Door_ProductData.pdf/page_1/chunk_7> a cnt:ContentAsText ;
+    dcterms:isPartOf <urn:document:0762x2032Door_ProductData.pdf/page_1> ;
+    pdo:boundingBox "575.5615234375,760.4439697265625,585.4385375976562,770.3125" ;
+    pdo:color 2301728 ;
+    pdo:font "FrutigerLTStd-Light" ;
+    pdo:fontSize "8.5"^^xsd:float ;
+    pdo:index 7 ;
+    cnt:chars "stile measurements listed above, all lock bore drilling must be done within the lock rail for best appearance and performance. Outer stile dimension may vary   1/4\" from the measurements listed above. 29 J E L D- w e n.co m" .
+
+<urn:document:0762x2032Door_ProductData.pdf/page_10/chunk_0> a cnt:ContentAsText ;
+    dcterms:isPartOf <urn:document:0762x2032Door_ProductData.pdf/page_10> ;
+    pdo:boundingBox "72.33209991455078,33.60199737548828,182.92408752441406,54.5" ;
+    pdo:color 7891556 ;
+    pdo:font "FrutigerLTStd-Light" ;
+    pdo:fontSize "18.0"^^xsd:float ;
+    pdo:index 0 ;
+    cnt:chars " 8'0\" Doors SANTA FE Width Height # of  Panels Thickness Panel Width Outer Stiles* Center  Stile Top Rail Lock Rail Bottom Rail Sticking  Profile Surface N/A 4-3/8\" 7\" 9-7/8\" O Smooth 8'0\" Two 1-3/8\"  1-3/4\" 7\" 2-1/2\" (1'0\") 3-1/2\" (1'2\") 4\" (1'3\") 4-1/2\" (1'4\") 1'0\"  1'2\"  1'3\"  1'4\" 1'6\"  1'8\"  8'0\" Two 1-3/8\"  1-3/4\" 10\" 4\" (1'6\") 5\" (1'8\") N/A 4-3/8\" 7\" 9-7/8\" O Smooth 1'10\"  2'0\"  8'0\" Two 1-3/8\"  1-3/4\" 14\" 4\" (1'10\") 5\" (2'0\") N/A 4-3/8\" 7\" 9-7/8\" O Smooth 2'2\"  2'4\"  8'0\" Two 1-3/8\" " .
+
+<urn:document:0762x2032Door_ProductData.pdf/page_10/chunk_1> a cnt:ContentAsText ;
+    dcterms:isPartOf <urn:document:0762x2032Door_ProductData.pdf/page_10> ;
+    pdo:boundingBox "71.88880157470703,333.3800964355469,123.19879913330078,345.2301025390625" ;
+    pdo:color 7891556 ;
+    pdo:font "FrutigerLTStd-Roman" ;
+    pdo:fontSize "10.0"^^xsd:float ;
+    pdo:index 1 ;
+    cnt:chars "1-3/4\" 18\" 4\" (2'2\") 5\" (2'4\") N/A 4-3/8\" 7\" 9-7/8\" O Smooth 2'6\" 8'0\" Two 1-3/8\"  1-3/4\" 21\" 4-1/2\" N/A 4-3/8\" 7\" 9-7/8\" O Smooth 2'8\" 8'0\" Two 1-3/8\"  1-3/4\" 23\" 4-1/2\" N/A 4-3/8\" 7\" 9-7/8\" O Smooth 2'10\" 3'0\" 8'0\" Two 1-3/8\"  1-3/4\" 24\" 5\" (2'10\") 6\" (3'0\") N/A 4-3/8\" 7\" 9-7/8\" O Smooth ATHERTON ® Width Height # of  Panels Thickness Panel Width Outer Stiles* Center  Stile Top Rail Lock Rail Bottom Rail Sticking  Profile Surface 1'10\"  2'0\"  8'0\" Four 1-3/8\"  1-3/4\" 5-9/16\" 3-1/4\" (1'10\")" .
+
+<urn:document:0762x2032Door_ProductData.pdf/page_10/chunk_2> a cnt:ContentAsText ;
+    dcterms:isPartOf <urn:document:0762x2032Door_ProductData.pdf/page_10> ;
+    pdo:boundingBox "71.30000305175781,548.071044921875,113.52000427246094,559.9210205078125" ;
+    pdo:color 10128254 ;
+    pdo:font "FrutigerLTStd-Roman" ;
+    pdo:fontSize "10.0"^^xsd:float ;
+    pdo:index 2 ;
+    cnt:chars "4-1/4\" (2'0\") 4-3/8\" 4-7/16\" 6-31/32\" 8-15/16\" O Smooth 2'2\"  2'4\"  8'0\" Four 1-3/8\"  1-3/4\" 7-9/16\" 3-1/4\" (2'2\") 4-1/4\" (2'4\") 4-3/8\" 4-7/16\" 6-31/32\" 8-15/16\" O Smooth 2'6\" 8'0\" Four 1-3/8\"  1-3/4\" 8-9/16\" 4-1/4\" 4-3/8\" 4-7/16\" 6-31/32\" 8-15/16\" O Smooth 2'8\" 8'0\" Four 1-3/8\"  1-3/4\" 9-9/16\" 4-1/4\" 4-3/8\" 4-7/16\" 6-31/32\" 8-15/16\" O Smooth 2'10\" 3'0\" 8'0\" Four 1-3/8\"  1-3/4\" 11-9/16\" 3-1/4\" (2'10\") 4-1/4\" (3'0\") 4-3/8\" 4-7/16\" 6-31/32\" 8-15/16\" O Smooth Rockport Width Height # of  Panels" .
+
+<urn:document:0762x2032Door_ProductData.pdf/page_10/chunk_3> a cnt:ContentAsText ;
+    dcterms:isPartOf <urn:document:0762x2032Door_ProductData.pdf/page_10> ;
+    pdo:boundingBox "163.79058837890625,574.3050537109375,195.2905731201172,582.6000366210938" ;
+    pdo:color 16777215 ;
+    pdo:font "FrutigerLTStd-Bold" ;
+    pdo:fontSize "7.0"^^xsd:float ;
+    pdo:index 3 ;
+    cnt:chars "Thickness Panel Width Outer Stiles* Center  Stile Top Rail Lock Rail Bottom Rail Sticking  Profile Surface 3'0\" 8'0\" 6 1-3/8\"  1-3/4\" 25-3/4\" 5-1/8\" N/A 4-1/2\" 4-1/4\" 10-3/8\" MCB Smooth Sticking Profile: B=Beaded, MCB=Modified Cove and Bead, O=Ovolo *Assuming standard bore machining (2-1/8\" diameter bore), outer stile measurements listed above must be no less than 3-3/4\" in order to accommodate a " .
+
+<urn:document:0762x2032Door_ProductData.pdf/page_10/chunk_4> a cnt:ContentAsText ;
+    dcterms:isPartOf <urn:document:0762x2032Door_ProductData.pdf/page_10> ;
+    pdo:boundingBox "26.561500549316406,760.4439697265625,36.43850326538086,770.3125" ;
+    pdo:color 2301728 ;
+    pdo:font "FrutigerLTStd-Light" ;
+    pdo:fontSize "8.5"^^xsd:float ;
+    pdo:index 4 ;
+    cnt:chars "2-3/8\" backset on the lock hole. For 2-3/4\" backsets, outer stile measurements must be no less than 3-13/16\". If lock bore machining is less than the outer  stile measurements listed above, all lock bore drilling must be done within the lock rail for best appearance and performance. Outer stile dimension may vary  1/4\" from the measurements listed above. 38 JE LD - w e n  w i n d o w s  & door s" .
+
+<urn:document:0762x2032Door_ProductData.pdf/page_11/chunk_0> a cnt:ContentAsText ;
+    dcterms:isPartOf <urn:document:0762x2032Door_ProductData.pdf/page_11> ;
+    pdo:boundingBox "112.78829956054688,58.650001525878906,168.89830017089844,70.5" ;
+    pdo:color 7891556 ;
+    pdo:font "FrutigerLTStd-Roman" ;
+    pdo:fontSize "10.0"^^xsd:float ;
+    pdo:index 0 ;
+    cnt:chars " ARLINGTON Width Height # of  Panels Thickness Panel Width Outer Stiles* Center  Stile Top Rail Lock Rail Bottom Rail Sticking  Profile Surface 1'0\"  8'0\" Three 1-3/8\" 1-3/4\" 5-1/2\" 3-1/4\" N/A 4-1/4\" 6-7/8\" 10-1/4\" B Smooth 1'2\" 8'0\" Three 1-3/8\"  1-3/4\" 7-1/2\" 3-1/4\" N/A 4-1/4\" 6-7/8\" 10-1/4\" B Smooth 1'3\"  1'4\" 8'0\" Three 1-3/8\"  1-3/4\" 8\" 3-1/2\" 4\" N/A 4-1/4\" 6-7/8\" 10-1/4\" B Smooth 1'6\"  1'8\"  8'0\" Three 1-3/8\"  1-3/4\" 9-13/16\" 4-1/8\" 5-1/8\" N/A 4-1/4\" 6-7/8\" 10-1/4\" B Smooth 1'10\"  2'0\" 8'0\"" .
+
+<urn:document:0762x2032Door_ProductData.pdf/page_11/chunk_1> a cnt:ContentAsText ;
+    dcterms:isPartOf <urn:document:0762x2032Door_ProductData.pdf/page_11> ;
+    pdo:boundingBox "113.4843978881836,383.14990234375,170.15438842773438,394.9999084472656" ;
+    pdo:color 7891556 ;
+    pdo:font "FrutigerLTStd-Roman" ;
+    pdo:fontSize "10.0"^^xsd:float ;
+    pdo:index 1 ;
+    cnt:chars "Six 1-3/8\"  1-3/4\" 5-1/2\" 3-1/2\" 4-1/2\" 4\" 4-1/4\" 6-7/8\" 10-1/4\" B Smooth 2'2\"  2'4\" 8'0\" Six 1-3/8\"  1-3/4\" 7-1/2\" 3-1/2\" 4-1/2\" 4\" 4-1/4\" 6-7/8\" 10-1/4\" B Smooth 2'6\" 8'0\" Six 1-3/8\"  1-3/4\" 8\" 4-1/2\" 5\" 4-1/4\" 6-7/8\" 10-1/4\" B Smooth 2'8\" 8'0\" Six 1-3/8\"  1-3/4\" 9\" 4-1/2\" 5\" 4-1/4\" 6-7/8\" 10-1/4\" B Smooth 2'10\"  3'0\" 8'0\" Six 1-3/8\"  1-3/4\" 9-13/16\" 4-1/2\"  5-1/2\" 5-3/8\" 4-1/4\" 6-7/8\" 10-1/4\" B Smooth BOSTONIAN ® Width Height # of  Panels Thickness Panel Width Outer Stiles* Center  Stile" .
+
+<urn:document:0762x2032Door_ProductData.pdf/page_11/chunk_2> a cnt:ContentAsText ;
+    dcterms:isPartOf <urn:document:0762x2032Door_ProductData.pdf/page_11> ;
+    pdo:boundingBox "397.08587646484375,409.20489501953125,422.95794677734375,417.4999084472656" ;
+    pdo:color 16777215 ;
+    pdo:font "FrutigerLTStd-Bold" ;
+    pdo:fontSize "7.0"^^xsd:float ;
+    pdo:index 2 ;
+    cnt:chars "Top Rail Lock Rail Bottom Rail Sticking  Profile Surface N/A 4-3/8\" 6-11/16\" 8-1/4\" MCB Pine  Grain 8'0\" Three 1-3/8\"  1-3/4\" 7\" 2-1/2\" (1'0\") 3-1/2\" (1'2\") 4\" (1'3\") 4-1/2\" (1'4\") 1'0\"  1'2\"  1'3\"  1'4\" 1'6\"  1'8\"  8'0\" Three 1-3/8\"  1-3/4\" 9-11/16\" 4-1/8\" (1'6\") 5-1/8\" (1'8\") N/A 4-3/8\" 6-11/16\" 8-1/4\" MCB Pine  Grain 1'10\"  2'0\"  8'0\" Six 1-3/8\"  1-3/4\" 5-5/16\" 3-1/8\" (1'10\") 4-1/8\" (2'0\") 3-9/16\" 4-3/8\" 6-11/16\" 8-1/4\" MCB Pine  Grain 2'2\"  2'4\"  2'6\" 8'0\" Six 1-3/8\"  1-3/4\" 7-11/16\"" .
+
+<urn:document:0762x2032Door_ProductData.pdf/page_11/chunk_3> a cnt:ContentAsText ;
+    dcterms:isPartOf <urn:document:0762x2032Door_ProductData.pdf/page_11> ;
+    pdo:boundingBox "300.29888916015625,518.1228637695312,339.7999572753906,526.2498779296875" ;
+    pdo:color 2301728 ;
+    pdo:font "FrutigerLTStd-Light" ;
+    pdo:fontSize "7.0"^^xsd:float ;
+    pdo:index 3 ;
+    cnt:chars "3-3/8\" (2'2\") 4-3/8\" (2'4\") 5-3/8\" (2'6\") 3-9/16\" 4-3/8\" 6-11/16\" 8-1/4\" MCB Pine  Grain 2'8\"  2'10\" 3'0\" 8'0\" Six 1-3/8\"  1-3/4\" 9-11/16\" 4-3/8\" (2'8\") 5-3/8\" (2'10\") 6-3/8\" (3'0\") 3-9/16\" 4-3/8\" 6-11/16\" 8-1/4\" MCB Pine  Grain Sticking Profile: B=Beaded, MCB=Modified Cove and Bead, O=Ovolo *Assuming standard bore machining (2-1/8\" diameter bore), outer stile measurements listed above must be no less than 3-3/4\" in order to accommodate a " .
+
+<urn:document:0762x2032Door_ProductData.pdf/page_11/chunk_4> a cnt:ContentAsText ;
+    dcterms:isPartOf <urn:document:0762x2032Door_ProductData.pdf/page_11> ;
+    pdo:boundingBox "575.5615234375,760.4439697265625,585.4385375976562,770.3125" ;
+    pdo:color 2301728 ;
+    pdo:font "FrutigerLTStd-Light" ;
+    pdo:fontSize "8.5"^^xsd:float ;
+    pdo:index 4 ;
+    cnt:chars "2-3/8\" backset on the lock hole. For 2-3/4\" backsets, outer stile measurements must be no less than 3-13/16\". If lock bore machining is less than the outer  stile measurements listed above, all lock bore drilling must be done within the lock rail for best appearance and performance. Outer stile dimension may vary  1/4\" from the measurements listed above. 39 J E L D- w e n.co m" .
+
+<urn:document:0762x2032Door_ProductData.pdf/page_12/chunk_0> a cnt:ContentAsText ;
+    dcterms:isPartOf <urn:document:0762x2032Door_ProductData.pdf/page_12> ;
+    pdo:boundingBox "72.08209991455078,33.35199737548828,182.67408752441406,54.25" ;
+    pdo:color 10128254 ;
+    pdo:font "FrutigerLTStd-Light" ;
+    pdo:fontSize "18.0"^^xsd:float ;
+    pdo:index 0 ;
+    cnt:chars " 8'0\" Doors Bristol Width Height # of  Panels Thickness Panel Width Outer Stiles* Center  Stile Top Rail Lock Rail Bottom Rail Sticking  Profile Surface N/A 5-1/16\" 6-7/8\" 8-7/16\" MCB Smooth 8'0\" Three 1-3/8\"  1-3/4\" 7\" 2-1/2\" (1'0\") 3-1/2\" (1'2\") 4\" (1'3\") 4-1/2\" (1'4\") 1'0\"  1'2\"  1'3\"  1'4\" 1'6\"  1'8\"  8'0\" Three 1-3/8\"  1-3/4\" 11-31/32\" 3\" (1'6\") 4\" (1'8\") N/A 5-1/16\" 6-7/8\" 8-7/16\" MCB Smooth 1'10\"  2'0\"  8'0\" Six 1-3/8\"  1-3/4\" 5-31/32\" 3-5/32\" (1'10\") 4-5/32\" (2'0\") 3-3/4\" 5-1/16\" 6-7/8\"" .
+
+<urn:document:0762x2032Door_ProductData.pdf/page_12/chunk_1> a cnt:ContentAsText ;
+    dcterms:isPartOf <urn:document:0762x2032Door_ProductData.pdf/page_12> ;
+    pdo:boundingBox "72.92389678955078,382.3815002441406,121.81389617919922,394.23150634765625" ;
+    pdo:color 7891556 ;
+    pdo:font "FrutigerLTStd-Roman" ;
+    pdo:fontSize "10.0"^^xsd:float ;
+    pdo:index 1 ;
+    cnt:chars "8-7/16\" MCB Smooth 2'2\"  2'4\" 8'0\" Six 1-3/8\"  1-3/4\" 7-31/32\" 3-5/32\" (2'2\") 4-5/32\" (2'4\") 3-3/4\" 5-1/16\" 6-7/8\" 8-7/16\" MCB Smooth 2'6\" 8'0\" Six 1-3/8\"  1-3/4\" 8-31/32\" 4-5/32\" 3-3/4\" 5-1/16\" 6-7/8\" 8-7/16\" MCB Smooth 2'8\" 8'0\" Six 1-3/8\"  1-3/4\" 9-31/32\" 4-5/32\" 3-3/4\" 5-1/16\" 6-7/8\" 8-7/16\" MCB Smooth 2'10\" 3'0\" 8'0\" Six 1-3/8\"  1-3/4\" 10-31/32\" 4-5/32\" (2'10\") 5-5/32\" (3'0\") 3-3/4\" 5-1/16\" 6-7/8\" 8-7/16\" MCB Smooth COLONIAL Width Height # of  Panels Thickness Panel Width Outer Stiles*" .
+
+<urn:document:0762x2032Door_ProductData.pdf/page_12/chunk_2> a cnt:ContentAsText ;
+    dcterms:isPartOf <urn:document:0762x2032Door_ProductData.pdf/page_12> ;
+    pdo:boundingBox "313.4215087890625,404.2770080566406,337.1515197753906,412.572021484375" ;
+    pdo:color 16777215 ;
+    pdo:font "FrutigerLTStd-Bold" ;
+    pdo:fontSize "7.0"^^xsd:float ;
+    pdo:index 2 ;
+    cnt:chars "Center  Stile Top Rail Lock Rail Bottom Rail Sticking  Profile Surface 1'6\"   1'8\" 8'0\" Three 1-3/8\"  1-3/4\" 9-9/16\" 4-3/16\" N/A 4-1/4\" 7\" 9\" O Pine  Grain  1'10\"  2'0\" 8'0\" Six 1-3/8\"  1-3/4\" 5-9/16\" 2-3/16\" (1'8\") 3-3/16\" (1'10\") 4-3/16\" (2'0\") 4-3/8\" 4-1/4\" 7\" 9\" O Pine  Grain 2'2\"  2'4\" 8'0\" Six 1-3/8\"  1-3/4\" 7-9/16\" 3-3/16\" (2'2\") 4-3/16\" (2'4\") 4-3/8\" 4-1/4\" 7\" 9\" O Pine  Grain 2'6\" 8'0\" Six 1-3/8\"  1-3/4\" 8-9/16\" 4-3/16\" 4-3/8\" 4-1/4\" 7\" 9\" O Pine  Grain 2'8\" 8'0\" Six 1-3/8\"  1-3/4\"" .
+
+<urn:document:0762x2032Door_ProductData.pdf/page_12/chunk_3> a cnt:ContentAsText ;
+    dcterms:isPartOf <urn:document:0762x2032Door_ProductData.pdf/page_12> ;
+    pdo:boundingBox "213.49148559570312,526.4400024414062,237.2284698486328,534.5670166015625" ;
+    pdo:color 2301728 ;
+    pdo:font "FrutigerLTStd-Light" ;
+    pdo:fontSize "7.0"^^xsd:float ;
+    pdo:index 3 ;
+    cnt:chars "9-9/16\" 4-3/16\" 4-3/8\" 4-1/4\" 7\" 9\" O Pine  Grain 3'0\" 8'0\" Six 1-3/8\"  1-3/4\" 11-9/16\" 4-3/16\" 4-3/8\" 4-1/4\" 7\" 9\" O Pine  Grain Sticking Profile: B=Beaded, MCB=Modified Cove and Bead, O=Ovolo *Assuming standard bore machining (2-1/8\" diameter bore), outer stile measurements listed above must be no less than 3-3/4\" in order to accommodate a  2-3/8\" backset on the lock hole. For 2-3/4\" backsets, outer stile measurements must be no less than 3-13/16\". If lock bore machining is less than the outer " .
+
+<urn:document:0762x2032Door_ProductData.pdf/page_12/chunk_4> a cnt:ContentAsText ;
+    dcterms:isPartOf <urn:document:0762x2032Door_ProductData.pdf/page_12> ;
+    pdo:boundingBox "26.561500549316406,760.4439697265625,36.43850326538086,770.3125" ;
+    pdo:color 2301728 ;
+    pdo:font "FrutigerLTStd-Light" ;
+    pdo:fontSize "8.5"^^xsd:float ;
+    pdo:index 4 ;
+    cnt:chars "stile measurements listed above, all lock bore drilling must be done within the lock rail for best appearance and performance. Outer stile dimension may vary  1/4\" from the measurements listed above. 40 JE LD - w e n  w i n d o w s  & door s" .
+
+<urn:document:0762x2032Door_ProductData.pdf/page_13/chunk_0> a cnt:ContentAsText ;
+    dcterms:isPartOf <urn:document:0762x2032Door_ProductData.pdf/page_13> ;
+    pdo:boundingBox "112.33209991455078,33.60199737548828,254.5861053466797,54.5" ;
+    pdo:color 7891556 ;
+    pdo:font "FrutigerLTStd-Light" ;
+    pdo:fontSize "18.0"^^xsd:float ;
+    pdo:index 0 ;
+    cnt:chars " bifold Doors BIFOLDS Door Design Heights* # of Panels Thickness Widths* 2 doors or 1 unit Widths* 4 doors or 2 units Atherton ® 6'7\"; 6'11\"; 7'11\" Two 1-3/8\" 2'0\"; 2'4\"; 2'6\"; 2'8\"; 3'0\" 4'0\"; 4'8\"; 5'0\"; 5'2\"; 5'6\"; 6'0\" Arlington 6'7\"; 6'11\"; 7'11\" Three 1-3/8\" 2'0\"; 2'4\"; 2'6\"; 2'8\"; 3'0\" 4'0\"; 4'8\"; 5'0\"; 5'2\"; 5'6\"; 6'0\" Avalon ® 6'7\"; 6'11\" Three 1-3/8\" 2'0\"; 2'6\"; 3'0\" 4'0\"; 5'0\"; 6'0\" Bostonian ® 6'7\"; 6'11\"; 7'11\" Three 1-3/8\" 2'0\"; 2'4\"; 2'6\"; 2'8\"; 3'0\"" .
+
+<urn:document:0762x2032Door_ProductData.pdf/page_13/chunk_1> a cnt:ContentAsText ;
+    dcterms:isPartOf <urn:document:0762x2032Door_ProductData.pdf/page_13> ;
+    pdo:boundingBox "490.685791015625,134.06898498535156,592.8579711914062,142.19598388671875" ;
+    pdo:color 2301728 ;
+    pdo:font "FrutigerLTStd-Light" ;
+    pdo:fontSize "7.0"^^xsd:float ;
+    pdo:index 1 ;
+    cnt:chars "4'0\"; 4'8\"; 5'0\"; 5'2\"; 5'6\"; 6'0\" Bristol 6'7\"; 6'11\"; 7'11\" Three 1-3/8\" 2'0\"; 2'4\"; 2'6\"; 2'8\"; 3'0\" 4'0\"; 4'8\"; 5'0\"; 5'2\"; 5'6\"; 6'0\" Cambridge 6'7\"; 6'11\"; 7'11\" Two 1-3/8\" 2'0\"; 2'4\"; 2'6\"; 2'8\"; 3'0\" 4'0\"; 4'8\"; 5'0\"; 5'2\"; 5'6\"; 6'0\" Camden ® 6'7\"; 6'11\" Two 1-3/8\" 2'0\"; 2'4\"; 2'6\"; 2'8\"; 3'0\" 4'0\"; 4'8\"; 5'0\"; 5'2\"; 5'6\"; 6'0\" Colonial 6'7\"; 6'11\"; 7'11\" Three 1-3/8\" 2'0\"; 2'4\"; 2'6\"; 2'8\"; 3'0\" 4'0\"; 4'8\"; 5'0\"; 5'2\"; 5'6\"; 6'0\" Continental ™ 6'7\"; 6'11\"; 7'11\" Two 1-3/8\"" .
+
+<urn:document:0762x2032Door_ProductData.pdf/page_13/chunk_2> a cnt:ContentAsText ;
+    dcterms:isPartOf <urn:document:0762x2032Door_ProductData.pdf/page_13> ;
+    pdo:boundingBox "359.0368347167969,200.31898498535156,443.4990539550781,208.44598388671875" ;
+    pdo:color 2301728 ;
+    pdo:font "FrutigerLTStd-Light" ;
+    pdo:fontSize "7.0"^^xsd:float ;
+    pdo:index 2 ;
+    cnt:chars "2'0\"; 2'4\"; 2'6\"; 2'8\"; 3'0\" 4'0\"; 4'8\"; 5'0\"; 5'2\"; 5'6\"; 6'0\" ™ 6'7\" Two 1-3/8\" 1'8\", 1'10\", 2'0\"; 2'2\", 2'4\"; 2'6\"; 2'8\", 2'10\", 3'0\" 4'0\"; 5'0\"; 6'0\" Craftsman III Princeton 6'7\"; 6'11\"; 7'11\" Two 1-3/8\" 2'0\"; 2'4\"; 2'6\"; 2'8\"; 3'0\" 4'0\"; 4'8\"; 5'0\"; 5'2\"; 5'6\"; 6'0\" Provincial ® 6'7\"; 6'11\" Two 1-3/8\" 2'0\"; 2'4\"; 2'6\"; 2'8\"; 3'0\" 4'0\"; 4'8\"; 5'0\"; 5'2\"; 5'6\"; 6'0\" Rockport 6'7\"; 6'11\" Five 1-3/8\" 2'0\"; 2'4\"; 2'6\"; 2'8\"; 3'0\" 4'0\"; 4'8\"; 5'0\"; 5'2\"; 5'6\"; 6'0\" Santa Fe 6'7\"; 6'11\"; 7'11\" Two" .
+
+<urn:document:0762x2032Door_ProductData.pdf/page_13/chunk_3> a cnt:ContentAsText ;
+    dcterms:isPartOf <urn:document:0762x2032Door_ProductData.pdf/page_13> ;
+    pdo:boundingBox "286.4319763183594,266.5709228515625,306.2769775390625,274.69793701171875" ;
+    pdo:color 2301728 ;
+    pdo:font "FrutigerLTStd-Light" ;
+    pdo:fontSize "7.0"^^xsd:float ;
+    pdo:index 3 ;
+    cnt:chars "1-3/8\" 2'0\"; 2'4\"; 2'6\"; 2'8\"; 3'0\" 4'0\"; 4'8\"; 5'0\"; 5'2\"; 5'6\"; 6'0\" * All panel, inner stile, top rail and lock rail measurements will match those listed above. Outer stile measurements may vary 1/4\" (depending on pre-fit).    All bottom rail measurements will be 1\" shorter than the measurements listed above in order to accommodate track and hardware." .
+
+<urn:document:0762x2032Door_ProductData.pdf/page_13/chunk_4> a cnt:ContentAsText ;
+    dcterms:isPartOf <urn:document:0762x2032Door_ProductData.pdf/page_13> ;
+    pdo:boundingBox "112.94629669189453,381.47100830078125,234.07627868652344,393.3210144042969" ;
+    pdo:color 7891556 ;
+    pdo:font "FrutigerLTStd-Roman" ;
+    pdo:fontSize "10.0"^^xsd:float ;
+    pdo:index 4 ;
+    cnt:chars " Bifolds are available in alternate heights and widths. Please contact your local JELD-WEN facility for specifications and availability of alternate sizes.    All bifolds are boxed (or end-capped) with track and hardware included. COMMERCIAL WIDE STILE Width Height # of  Panels Thickness Panel  Width Outer  Stiles* Center  Stile Top Rail Lock Rail Bottom Rail Sticking  Profile Surface 3'0\" Continental 6'8\"  7'0\" Two 1-3/8\"  1-3/4\" 24\" 6\" N/A 5-1/2\" (6'8\") 7-1/2\" (7'0\") 4-3/16\" 11-1/4\" O Smooth" .
+
+<urn:document:0762x2032Door_ProductData.pdf/page_13/chunk_5> a cnt:ContentAsText ;
+    dcterms:isPartOf <urn:document:0762x2032Door_ProductData.pdf/page_13> ;
+    pdo:boundingBox "133.36782836914062,449.9289855957031,146.9898223876953,458.0559997558594" ;
+    pdo:color 2301728 ;
+    pdo:font "FrutigerLTStd-Light" ;
+    pdo:fontSize "7.0"^^xsd:float ;
+    pdo:index 5 ;
+    cnt:chars "3'0\" Arlington 6'8\"  7'0\" Six 1-3/8\"  1-3/4\" 8-5/16\" 6-3/4\" 5\" 5-9/16\" (6'8\") 7-9/16\" (7'0\") 6-7/16\" 11-1/4\" B Smooth 3'0\" Colonial 6'8\"  7'0\" Six 1-3/8\"  1-3/4\" 9-1/8\" 6-7/16\" 4-7/8\" 4-1/2\" (6'8\") 6-1/2\" (7'0\") 6-7/16\" 11-1/4\" O Oak  Grain Sticking Profile: B=Beaded, MCB=Modified Cove and Bead, O=Ovolo, C=Craftsman *Assuming standard bore machining (2-1/8\" diameter bore), outer stile measurements listed above must be no less than 3-3/4\" in order to accommodate a " .
+
+<urn:document:0762x2032Door_ProductData.pdf/page_13/chunk_6> a cnt:ContentAsText ;
+    dcterms:isPartOf <urn:document:0762x2032Door_ProductData.pdf/page_13> ;
+    pdo:boundingBox "575.5615234375,760.4439697265625,585.4385375976562,770.3125" ;
+    pdo:color 2301728 ;
+    pdo:font "FrutigerLTStd-Light" ;
+    pdo:fontSize "8.5"^^xsd:float ;
+    pdo:index 6 ;
+    cnt:chars "2-3/8\" backset on the lock hole. For 2-3/4\" backsets, outer stile measurements must be no less than 3-13/16\". If lock bore machining is less than the outer  stile measurements listed above, all lock bore drilling must be done within the lock rail for best appearance and performance. Outer stile dimension may vary  1/4\" from the measurements listed above. 41 J E L D- w e n.co m" .
+
+<urn:document:0762x2032Door_ProductData.pdf/page_2/chunk_0> a cnt:ContentAsText ;
+    dcterms:isPartOf <urn:document:0762x2032Door_ProductData.pdf/page_2> ;
+    pdo:boundingBox "71.17379760742188,33.60199737548828,278.6777648925781,54.5" ;
+    pdo:color 7891556 ;
+    pdo:font "FrutigerLTStd-Light" ;
+    pdo:fontSize "18.0"^^xsd:float ;
+    pdo:index 0 ;
+    cnt:chars " 6'8\" and 7'0\" Doors PRINCETON Width Height # of  Panels Thickness Panel Width Outer Stiles* Center  Stile Top Rail Lock Rail Bottom Rail Sticking  Profile Surface 1'0\" 6'8\"  7'0\" Two 1-3/8\"  1-3/4\" 6-5/8\" 2-11/16\" N/A 5-3/8\" (6'8\") 7-3/8\" (7'0\") 3-3/4\" 8-1/4\" (6'8\") 10-1/4\" (7'0\") MCB Smooth 1'2\" 6'8\"  7'0\" Two 1-3/8\"  1-3/4\" 6-5/8\" 3-5/8\" N/A 5-3/8\" (6'8\") 7-3/8\" (7'0\") 3-3/4\" 8-1/4\" (6'8\") 10-1/4\" (7'0\") MCB Smooth 1'3\"  1'4\" 6'8\"  7'0\" Two 1-3/8\"  1-3/4\" 8-1/2\" 3-1/4\" (1'3\")  3-3/4\" (1'4\")" .
+
+<urn:document:0762x2032Door_ProductData.pdf/page_2/chunk_1> a cnt:ContentAsText ;
+    dcterms:isPartOf <urn:document:0762x2032Door_ProductData.pdf/page_2> ;
+    pdo:boundingBox "318.8022766113281,150.37318420410156,330.0863037109375,158.50018310546875" ;
+    pdo:color 2301728 ;
+    pdo:font "FrutigerLTStd-Light" ;
+    pdo:fontSize "7.0"^^xsd:float ;
+    pdo:index 1 ;
+    cnt:chars "N/A 5-3/8\" (6'8\") 7-3/8\" (7'0\") 3-3/4\" 8-1/4\" (6'8\") 10-1/4\" (7'0\") MCB Smooth 1'6\"  1'8\" 6'8\"  7'0\" Two 1-3/8\"  1-3/4\" 9-1/2\" 4-1/4\" (1'6\") 5-1/4\" (1'8\") N/A 5-3/8\" (6'8\") 7-3/8\" (7'0\") 3-3/4\" 8-1/4\" (6'8\") 10-1/4\" (7'0\") MCB Smooth 1'10\"  2'0\" 6'8\"  7'0\" Two 1-3/8\"  1-3/4\" 15\" 3-1/2\" (1'10\") 4-1/2\" (2'0\") N/A 5-3/8\" (6'8\") 7-3/8\" (7'0\") 3-3/4\" 8-1/4\" (6'8\") 10-1/4\" (7'0\") MCB Smooth 2'2\"  2'4\" 6'8\"  7'0\" Two 1-3/8\"  1-3/4\" 18\" 3-15/16\" (2'2\") 4-15/16\" (2'4\") N/A 5-3/8\" (6'8\") 7-3/8\" (7'0\")" .
+
+<urn:document:0762x2032Door_ProductData.pdf/page_2/chunk_2> a cnt:ContentAsText ;
+    dcterms:isPartOf <urn:document:0762x2032Door_ProductData.pdf/page_2> ;
+    pdo:boundingBox "404.5368957519531,215.62294006347656,424.38189697265625,223.74993896484375" ;
+    pdo:color 2301728 ;
+    pdo:font "FrutigerLTStd-Light" ;
+    pdo:fontSize "7.0"^^xsd:float ;
+    pdo:index 2 ;
+    cnt:chars "3-3/4\" 8-1/4\" (6'8\") 10-1/4\" (7'0\") MCB Smooth 2'6\" 6'8\"  7'0\" Two 1-3/8\"  1-3/4\" 19-11/16\" 5-1/8\" N/A 5-3/8\" (6'8\") 7-3/8\" (7'0\") 3-3/4\" 8-1/4\" (6'8\") 10-1/4\" (7'0\") MCB Smooth 2'8\" 6'8\"  7'0\" Two 1-3/8\"  1-3/4\" 22-3/4\" 4-5/8\" N/A 5-3/8\" (6'8\") 7-3/8\" (7'0\") 3-3/4\" 8-1/4\" (6'8\") 10-1/4\" (7'0\") MCB Smooth 2'10\" 6'8\"  7'0\" Two 1-3/8\"  1-3/4\" 22-3/4\" 5-5/8\" N/A 5-3/8\" (6'8\") 7-3/8\" (7'0\") 3-3/4\" 8-1/4\" (6'8\") 10-1/4\" (7'0\") MCB Smooth 3'0\" 6'8\"  7'0\" Two 1-3/8\"  1-3/4\" 24-7/8\" 5-1/2\" N/A" .
+
+<urn:document:0762x2032Door_ProductData.pdf/page_2/chunk_3> a cnt:ContentAsText ;
+    dcterms:isPartOf <urn:document:0762x2032Door_ProductData.pdf/page_2> ;
+    pdo:boundingBox "71.6238021850586,373.47100830078125,138.3037872314453,385.3210144042969" ;
+    pdo:color 7891556 ;
+    pdo:font "FrutigerLTStd-Roman" ;
+    pdo:fontSize "10.0"^^xsd:float ;
+    pdo:index 3 ;
+    cnt:chars "5-3/8\" (6'8\") 7-3/8\" (7'0\") 3-3/4\" 8-1/4\" (6'8\") 10-1/4\" (7'0\") MCB Smooth CONTINENTAL ™ Width Height # of  Panels Thickness Panel Width Outer Stiles* Center  Stile Top Rail Lock Rail Bottom Rail Sticking  Profile Surface 1'0\"  1'2\" 6'8\"  7'0\" Two 1-3/8\"  1-3/4\" 5-9/16\" 3-7/32\" (1'0\") 4-7/32 (1'2\") N/A 5-1/4\" (6'8\") 7-1/4\" (7'0\") 4-3/16\" 10-13/16\" (6'8\") 12-13/16\" (7'0\") O Smooth 1'3\"  1'4\" 6'8\"  7'0\" Two 1-3/8\"  1-3/4\" 8-9/16\" 3-7/32\" (1'3\") 3-23/32 (1'4\") N/A 5-1/4\" (6'8\") 7-1/4\" (7'0\") 4-3/16\"" .
+
+<urn:document:0762x2032Door_ProductData.pdf/page_2/chunk_4> a cnt:ContentAsText ;
+    dcterms:isPartOf <urn:document:0762x2032Door_ProductData.pdf/page_2> ;
+    pdo:boundingBox "501.60650634765625,443.62298583984375,506.6604919433594,451.75" ;
+    pdo:color 2301728 ;
+    pdo:font "FrutigerLTStd-Light" ;
+    pdo:fontSize "7.0"^^xsd:float ;
+    pdo:index 4 ;
+    cnt:chars "10-13/16\" (6'8\") 12-13/16\" (7'0\") O Smooth 1'6\"  1'8\" 6'8\"  7'0\" Two 1-3/8\"  1-3/4\" 10-9/16\" 3-45/64\" (1'6\") 4-45/64\" (1'8\") N/A 5-1/4\" (6'8\") 7-1/4\" (7'0\") 4-3/16\" 10-13/16\" (6'8\") 12-13/16\" (7'0\") O Smooth 1'10\"  2'0\" 6'8\"  7'0\" Two 1-3/8\"  1-3/4\" 14\" 4\" (1'10\") 5\" (2'0\") N/A 5-1/4\" (6'8\") 7-1/4\" (7'0\") 4-3/16\" 10-13/16\" (6'8\") 12-13/16\" (7'0\") O Smooth N/A 5-1/4\" (6'8\") 7-1/4\" (7'0\") 4-3/16\" 10-13/16\" (6'8\") 12-13/16\" (7'0\") O Smooth 2'2\"  2'4\"  2'6\" 6'8\"  7'0\" Two 1-3/8\"  1-3/4\" 20\" 3\" (2'2\")" .
+
+<urn:document:0762x2032Door_ProductData.pdf/page_2/chunk_5> a cnt:ContentAsText ;
+    dcterms:isPartOf <urn:document:0762x2032Door_ProductData.pdf/page_2> ;
+    pdo:boundingBox "318.48651123046875,543.3699951171875,329.7705383300781,551.4970092773438" ;
+    pdo:color 2301728 ;
+    pdo:font "FrutigerLTStd-Light" ;
+    pdo:fontSize "7.0"^^xsd:float ;
+    pdo:index 5 ;
+    cnt:chars "4\" (2'4\") 5\" (2'6\") N/A 5-1/4\" (6'8\") 7-1/4\" (7'0\") 4-3/16\" 10-13/16\" (6'8\") 12-13/16\" (7'0\") O Smooth 2'8\"  2'10\"  3'0\" 6'8\"  7'0\" Two 1-3/8\"  1-3/4\" 24\" 4\" (2'8\") 5\" (2'10\") 6\" (3'0\") Sticking Profile: B=Beaded, MCB=Modified Cove and Bead, O=Ovolo, C=Craftsman *Assuming standard bore machining (2-1/8\" diameter bore), outer stile measurements listed above must be no less than 3-3/4\" in order to accommodate a " .
+
+<urn:document:0762x2032Door_ProductData.pdf/page_2/chunk_6> a cnt:ContentAsText ;
+    dcterms:isPartOf <urn:document:0762x2032Door_ProductData.pdf/page_2> ;
+    pdo:boundingBox "26.561500549316406,760.4439697265625,36.43850326538086,770.3125" ;
+    pdo:color 2301728 ;
+    pdo:font "FrutigerLTStd-Light" ;
+    pdo:fontSize "8.5"^^xsd:float ;
+    pdo:index 6 ;
+    cnt:chars "2-3/8\" backset on the lock hole. For 2-3/4\" backsets, outer stile measurements must be no less than 3-13/16\". If lock bore machining is less than the outer  stile measurements listed above, all lock bore drilling must be done within the lock rail for best appearance and performance. Outer stile dimension may vary  1/4\" from the measurements listed above. 30 JE LD - w e n  w i n d o w s  & door s" .
+
+<urn:document:0762x2032Door_ProductData.pdf/page_3/chunk_0> a cnt:ContentAsText ;
+    dcterms:isPartOf <urn:document:0762x2032Door_ProductData.pdf/page_3> ;
+    pdo:boundingBox "112.3479995727539,58.560523986816406,157.6379852294922,70.4105224609375" ;
+    pdo:color 7891556 ;
+    pdo:font "FrutigerLTStd-Roman" ;
+    pdo:fontSize "10.0"^^xsd:float ;
+    pdo:index 0 ;
+    cnt:chars " SANTA FE Width Height # of  Panels Thickness Panel Width Outer Stiles* Center  Stile Top Rail Lock Rail Bottom Rail Sticking  Profile Surface 6'8\"  7'0\" Two 1-3/8\"  1-3/4\" 7\" N/A 4-3/8\" (6'8\") 6-3/8\" (7'0\") 7\" 9-7/8\" (6'8\") 11-7/8\" (7'0\") O Smooth 1'0\" 1'2\" 1'3\"  1'4\" 2-1/2\" (1'0\") 3-1/2\" (1'2\") 4\" (1'3\") 4-1/2\" (1'4\") 1'6\"  1'8\" 6'8\"  7'0\" Two 1-3/8\"  1-3/4\" 10\" 4\" (1'6\") 5\" (1'8\") N/A 4-3/8\" (6'8\") 6-3/8\" (7'0\") 7\" 9-7/8\" (6'8\") 11-7/8\" (7'0\") O Smooth 1'10\"  2'0\" 6'8\"  7'0\" Two 1-3/8\"  1-3/4\"" .
+
+<urn:document:0762x2032Door_ProductData.pdf/page_3/chunk_1> a cnt:ContentAsText ;
+    dcterms:isPartOf <urn:document:0762x2032Door_ProductData.pdf/page_3> ;
+    pdo:boundingBox "259.38458251953125,154.5752716064453,271.0605773925781,162.7022705078125" ;
+    pdo:color 2301728 ;
+    pdo:font "FrutigerLTStd-Light" ;
+    pdo:fontSize "7.0"^^xsd:float ;
+    pdo:index 1 ;
+    cnt:chars "14\" 4\" (1'10\") 5\" (2'0\") N/A 4-3/8\" (6'8\") 6-3/8\" (7'0\") 7\" 9-7/8\" (6'8\") 11-7/8\" (7'0\") O Smooth 2'2\"  2'4\" 6'8\"  7'0\" Two 1-3/8\"  1-3/4\" 18\" 4\" (2'2\") 5\" (2'4\") N/A 4-3/8\" (6'8\") 6-3/8\" (7'0\") 7\" 9-7/8\" (6'8\") 11-7/8\" (7'0\") O Smooth 2'6\" 6'8\"  7'0\" Two 1-3/8\"  1-3/4\" 21\" 4-1/2\" N/A 4-3/8\" (6'8\") 6-3/8\" (7'0\") 7\" 9-7/8\" (6'8\") 11-7/8\" (7'0\") O Smooth 2'8\" 6'8\"  7'0\" Two 1-3/8\"  1-3/4\" 23\" 4-1/2\" N/A 4-3/8\" (6'8\") 6-3/8\" (7'0\") 7\" 9-7/8\" (6'8\") 11-7/8\" (7'0\") O Smooth 2'10\" 3'0\" 6'8\"  7'0\" Two" .
+
+<urn:document:0762x2032Door_ProductData.pdf/page_3/chunk_2> a cnt:ContentAsText ;
+    dcterms:isPartOf <urn:document:0762x2032Door_ProductData.pdf/page_3> ;
+    pdo:boundingBox "112.3479995727539,266.6604919433594,182.62799072265625,278.510498046875" ;
+    pdo:color 7891556 ;
+    pdo:font "FrutigerLTStd-Roman" ;
+    pdo:fontSize "10.0"^^xsd:float ;
+    pdo:index 2 ;
+    cnt:chars "1-3/8\"  1-3/4\" 24\" 5\" (2'10\") 6\" (3'0\") N/A 4-3/8\" (6'8\") 6-3/8\" (7'0\") 7\" 9-7/8\" (6'8\") 11-7/8\" (7'0\") O Smooth CRAFTSMAN III ™ Width Height # of  Panels Thickness Panel Width Outer Stiles* Center  Stile Top Rail Lock Rail Bottom Rail Panel   Type Sticking  Profile Surface 1'0\" 6'8\"  7'0\" Two 1-3/8\"  1-3/4\" 4\" 4\" N/A 4-5/8\" N/A 8-15/16\" Flat C Smooth 1'2\" 1'3\" 6'8\"  6'8\" Two 1-3/8\"  1-3/4\" 6\" 4\" (1'2\") 4-1/2\" (1'3\") N/A 4-5/8\" N/A 8-15/16\" Flat C Smooth 1'4\" 6'8\" 7'0\" Two 1-3/8\"  1-3/4\" 8-1/4\"" .
+
+<urn:document:0762x2032Door_ProductData.pdf/page_3/chunk_3> a cnt:ContentAsText ;
+    dcterms:isPartOf <urn:document:0762x2032Door_ProductData.pdf/page_3> ;
+    pdo:boundingBox "298.95697021484375,345.0439147949219,318.8019714355469,353.1709289550781" ;
+    pdo:color 2301728 ;
+    pdo:font "FrutigerLTStd-Light" ;
+    pdo:fontSize "7.0"^^xsd:float ;
+    pdo:index 3 ;
+    cnt:chars "3-7/8\" N/A 4-5/8\" (6'8\") 6-5/8\" (7'0\") N/A 8-15/16\" (6'8\") 10-15/16\" (7'0\") Flat C Smooth N/A 4-5/8\" (6'8\") 6-5/8\" (7'0\") N/A 8-15/16\" (6'8\") 10-15/16\" (7'0\") Flat C Smooth 1'6\"  1'8\"  1'10\"  6'8\" 7'0\" Two 1-3/8\"  1-3/4\" 10\" 4\" (1'6\") 5\" (1'8\") 6\" (1'10\") 2'0\" 6'8\" 7'0\" Three 1-3/8\"  1-3/4\" 15\" 4-1/2\" 4-1/2\" 4-5/8\" (6'8\") 6-5/8\" (7'0\") N/A 8-15/16\" (6'8\") 10-15/16\" (7'0\") Flat C Smooth 2'2\"  2'4\" 6'8\" 7'0\" Three 1-3/8\"  1-3/4\" 17\" 4-1/2\" (2'2\") 5-1/2\" (2'4\") 4-1/2\" 4-5/8\" (6'8\") 6-5/8\" (7'0\") N/A" .
+
+<urn:document:0762x2032Door_ProductData.pdf/page_3/chunk_4> a cnt:ContentAsText ;
+    dcterms:isPartOf <urn:document:0762x2032Door_ProductData.pdf/page_3> ;
+    pdo:boundingBox "112.5,482.47100830078125,152.8699951171875,494.3210144042969" ;
+    pdo:color 7891556 ;
+    pdo:font "FrutigerLTStd-Roman" ;
+    pdo:fontSize "10.0"^^xsd:float ;
+    pdo:index 4 ;
+    cnt:chars "8-15/16\" (6'8\") 10-15/16\" (7'0\") Flat C Smooth 2'6\" 2'8\" 6'8\" 7'0\" Three 1-3/8\"  1-3/4\" 21\" 4-1/2\" (2'6\") 5-1/2\" (2'8\") 4-1/2\" 4-5/8\" (6'8\") 6-5/8\" (7'0\") N/A 8-15/16\" (6'8\") 10-15/16\" (7'0\") Flat C Smooth 2'10\"  3'0\" 6'8\" 7'0\" Three 1-3/8\"  1-3/4\" 25\" 4-1/2\" (2'10\") 5-1/2\" (3'0\") 4-1/2\" 4-5/8\" (6'8\") 6-5/8\" (7'0\") N/A 8-15/16\" (6'8\") 10-15/16\" (7'0\") Flat C Smooth AVALON ® Width Height # of  Panels Thickness Panel Width Outer Stiles* Center  Stile Top Rail Lock Rail Bottom Rail Sticking  Profile" .
+
+<urn:document:0762x2032Door_ProductData.pdf/page_3/chunk_5> a cnt:ContentAsText ;
+    dcterms:isPartOf <urn:document:0762x2032Door_ProductData.pdf/page_3> ;
+    pdo:boundingBox "567.9165649414062,506.2760314941406,592.4236450195312,514.571044921875" ;
+    pdo:color 16777215 ;
+    pdo:font "FrutigerLTStd-Bold" ;
+    pdo:fontSize "7.0"^^xsd:float ;
+    pdo:index 5 ;
+    cnt:chars "Surface N/A 4-1/4\" (6'8\") 6-1/4\" (7'0\") N/A 7-15/16\" (6'8\") 9-15/16\" (7'0\") MCB Oak  Grain 1'0\" 6'8\"  7'0\" Three 1-3/8\"  1-3/4\" 6-3/16\" 2-7/8\" N/A 4-1/4\" (6'8\") 6-1/4\" (7'0\") N/A 7-15/16\" (6'8\") 9-15/16\" (7'0\") MCB Oak  Grain 1'2\" 1'3\"  1'4\" 6'8\"  7'0\" Three 1-3/8\"  1-3/4\" 7-11/16\" 3-1/8\" (1'2\") 3-5/8 (1'3\") 4-1/8 (1'4\") 1'6\"  1'8\" 6'8\"  7'0\" Three 1-3/8\"  1-3/4\" 8-3/4\" 4-9/16\" (1'6\") 5-9/16\" (1'8\") N/A 4-1/4\" (6'8\") 6-1/4\" (7'0\") N/A 7-15/16\" (6'8\") 9-15/16\" (7'0\") MCB Oak  Grain 1'10\"  2'0\"" .
+
+<urn:document:0762x2032Door_ProductData.pdf/page_3/chunk_6> a cnt:ContentAsText ;
+    dcterms:isPartOf <urn:document:0762x2032Door_ProductData.pdf/page_3> ;
+    pdo:boundingBox "151.33999633789062,583.3259887695312,166.90798950195312,591.4530029296875" ;
+    pdo:color 2301728 ;
+    pdo:font "FrutigerLTStd-Light" ;
+    pdo:fontSize "7.0"^^xsd:float ;
+    pdo:index 6 ;
+    cnt:chars "6'8\"  7'0\" Three 1-3/8\"  1-3/4\" 15-5/8\" 3-3/16\" (1'10\") 4-3/16\" (2'0\") N/A 4-1/4\" (6'8\") 6-1/4\" (7'0\") N/A 7-15/16\" (6'8\") 9-15/16\" (7'0\") MCB Oak  Grain 2'2\"  2'4\" 6'8\"  7'0\" Three 1-3/8\"  1-3/4\" 19-5/8\" 3-3/16\" 2'2\") 4-3/16\" (2'4\") N/A 4-1/4\" (6'8\") 6-1/4\" (7'0\") N/A 7-15/16\" (6'8\") 9-15/16\" (7'0\") MCB Oak  Grain 2'6\" 6'8\"  7'0\" Three 1-3/8\"  1-3/4\" 21-5/8\" 4-3/16\" N/A 4-1/4\" (6'8\") 6-1/4\" (7'0\") N/A 7-15/16\" (6'8\") 9-15/16\" (7'0\") MCB Oak  Grain 2'8\" 2'10\" 6'8\"  7'0\" Three 1-3/8\"  1-3/4\"" .
+
+<urn:document:0762x2032Door_ProductData.pdf/page_3/chunk_7> a cnt:ContentAsText ;
+    dcterms:isPartOf <urn:document:0762x2032Door_ProductData.pdf/page_3> ;
+    pdo:boundingBox "253.38601684570312,641.3370361328125,277.1230163574219,649.4640502929688" ;
+    pdo:color 2301728 ;
+    pdo:font "FrutigerLTStd-Light" ;
+    pdo:fontSize "7.0"^^xsd:float ;
+    pdo:index 7 ;
+    cnt:chars "23-5/8\" 4-3/16\" (2'8\") 5-3/16\" (2'10\") N/A 4-1/4\" (6'8\") 6-1/4\" (7'0\") N/A 7-15/16\" (6'8\") 9-15/16\" (7'0\") MCB Oak  Grain 3'0\" 6'8\"  7'0\" Three 1-3/8\"  1-3/4\" 27-5/8\" 4-3/16\" N/A 4-1/4\" (6'8\") 6-1/4\" (7'0\") N/A 7-15/16\" (6'8\") 9-15/16\" (7'0\") MCB Oak  Grain Sticking Profile: B=Beaded, MCB=Modified Cove and Bead, O=Ovolo, C=Craftsman *Assuming standard bore machining (2-1/8\" diameter bore), outer stile measurements listed above must be no less than 3-3/4\" in order to accommodate a " .
+
+<urn:document:0762x2032Door_ProductData.pdf/page_3/chunk_8> a cnt:ContentAsText ;
+    dcterms:isPartOf <urn:document:0762x2032Door_ProductData.pdf/page_3> ;
+    pdo:boundingBox "575.5615234375,760.4439697265625,585.4385375976562,770.3125" ;
+    pdo:color 2301728 ;
+    pdo:font "FrutigerLTStd-Light" ;
+    pdo:fontSize "8.5"^^xsd:float ;
+    pdo:index 8 ;
+    cnt:chars "2-3/8\" backset on the lock hole. For 2-3/4\" backsets, outer stile measurements must be no less than 3-13/16\". If lock bore machining is less than the outer  stile measurements listed above, all lock bore drilling must be done within the lock rail for best appearance and performance. Outer stile dimension may vary  1/4\" from the measurements listed above. 31 J E L D- w e n.co m" .
+
+<urn:document:0762x2032Door_ProductData.pdf/page_4/chunk_0> a cnt:ContentAsText ;
+    dcterms:isPartOf <urn:document:0762x2032Door_ProductData.pdf/page_4> ;
+    pdo:boundingBox "72.33209991455078,33.60199737548828,279.8360595703125,54.5" ;
+    pdo:color 7891556 ;
+    pdo:font "FrutigerLTStd-Light" ;
+    pdo:fontSize "18.0"^^xsd:float ;
+    pdo:index 0 ;
+    cnt:chars " 6'8\" and 7'0\" Doors ATHERTON ® Width Height # of  Panels Thickness Panel Width Outer Stiles* Center  Stile Top Rail Lock Rail Bottom Rail Sticking  Profile Surface 1'0\" 6'8\"  7'0\" Two 1-3/8\"  1-3/4\" 5-9/16\" 3-1/8\" N/A 4-1/4\" (6'8\") 6-1/4\" (7'0\") 7\" 9-1/8\" (6'8\") 11-1/8\" (7'0\") O Smooth 1'2\" 6'8\"  7'0\" Two 1-3/8\"  1-3/4\" 7-9/16\" 3-1/8\" N/A 4-1/4\" (6'8\") 6-1/4\" (7'0\") 7\" 9-1/8\" (6'8\") 11-1/8\" (7'0\") O Smooth 1'3\"  6'8\"  7'0\" Two 1-3/8\"  1-3/4\" 8-9/16\" 3-1/8\" N/A 4-1/4\" (6'8\") 6-1/4\" (7'0\") 7\"" .
+
+<urn:document:0762x2032Door_ProductData.pdf/page_4/chunk_1> a cnt:ContentAsText ;
+    dcterms:isPartOf <urn:document:0762x2032Door_ProductData.pdf/page_4> ;
+    pdo:boundingBox "439.52288818359375,146.37416076660156,479.0239562988281,154.50115966796875" ;
+    pdo:color 2301728 ;
+    pdo:font "FrutigerLTStd-Light" ;
+    pdo:fontSize "7.0"^^xsd:float ;
+    pdo:index 1 ;
+    cnt:chars "9-1/8\" (6'8\") 11-1/8\" (7'0\") O Smooth 1'4\" 6'8\"  7'0\" Two 1-3/8\"  1-3/4\" 9-3/16\" 3-1/8\" N/A 4-1/4\" (6'8\") 6-1/4\" (7'0\") 7\" 9-1/8\" (6'8\") 11-1/8\" (7'0\") O Smooth 1'6\"  1'8\" 6'8\"  7'0\" Two 1-3/8\"  1-3/4\" 11-9/16\" 3-1/8\" (1'6\") 4-3/16\" (1'8\") N/A 4-1/4\" (6'8\") 6-1/4\" (7'0\") 7\" 9-1/8\" (6'8\") 11-1/8\" (7'0\") O Smooth 1'10\"  2'0\" 6'8\"  7'0\" Four 1-3/8\"  1-3/4\" 5-9/16\" 3-3/16\" (1'10\") 4-3/16\" (2'0\") 4-5/16\" 4-1/4\" (6'8\") 6-1/4\" (7'0\") 7\" 9-1/8\" (6'8\") 11-1/8\" (7'0\") O Smooth 2'2\"  2'4\" 6'8\"  7'0\" Four" .
+
+<urn:document:0762x2032Door_ProductData.pdf/page_4/chunk_2> a cnt:ContentAsText ;
+    dcterms:isPartOf <urn:document:0762x2032Door_ProductData.pdf/page_4> ;
+    pdo:boundingBox "170.37496948242188,233.37281799316406,192.16595458984375,241.49981689453125" ;
+    pdo:color 2301728 ;
+    pdo:font "FrutigerLTStd-Light" ;
+    pdo:fontSize "7.0"^^xsd:float ;
+    pdo:index 2 ;
+    cnt:chars "1-3/8\"  1-3/4\" 7-9/16\" 3-3/16\" (2\"2\") 4-3/16\" (2'4\") 4-5/16\" 4-1/4\" (6'8\") 6-1/4\" (7'0\") 7\" 9-1/8\" (6'8\") 11-1/8\" (7'0\") O Smooth 2'6\" 6'8\"  7'0\" Four 1-3/8\"  1-3/4\" 8-9/16\" 4-3/16\" 4-5/16\" 4-1/4\" (6'8\") 6-1/4\" (7'0\") 7\" 9-1/8\" (6'8\") 11-1/8\" (7'0\") O Smooth 2'8\" 6'8\"  7'0\" Four 1-3/8\"  1-3/4\" 9-9/16\" 4-3/16\" 4-5/16\" 4-1/4\" (6'8\") 6-1/4\" (7'0\") 7\" 9-1/8\" (6'8\") 11-1/8\" (7'0\") O Smooth 2'10\" 3'0\" 6'8\"  7'0\" Four 1-3/8\"  1-3/4\" 11-9/16\" 3-3/16\" (2\"10\") 4-3/16\" (3'0\") 4-5/16\" 4-1/4\" (6'8\")" .
+
+<urn:document:0762x2032Door_ProductData.pdf/page_4/chunk_3> a cnt:ContentAsText ;
+    dcterms:isPartOf <urn:document:0762x2032Door_ProductData.pdf/page_4> ;
+    pdo:boundingBox "72.04440307617188,373.6499938964844,129.27439880371094,385.5" ;
+    pdo:color 7891556 ;
+    pdo:font "FrutigerLTStd-Roman" ;
+    pdo:fontSize "10.0"^^xsd:float ;
+    pdo:index 3 ;
+    cnt:chars "6-1/4\" (7'0\") 7\" 9-1/8\" (6'8\") 11-1/8\" (7'0\") O Smooth PROVINCIAL ® Width Height # of  Panels Thickness Panel Width Outer Stiles* Center  Stile Top Rail Lock Rail Bottom Rail Sticking  Profile Surface 1'0\" 6'8\"  7'0\" Two 1-3/8\"  1-3/4\" 5-9/16\" 3-1/16\" N/A 5\" (6'8\") 7\" (7'0\") 7\" 9-1/4\" (6'8\") 11-1/4\" (7'0\") O Pine  Grain 1'2\" 6'8\"  7'0\" Two 1-3/8\"  1-3/4\" 7-9/16\" 3-1/16\" N/A 5\" (6'8\") 7\" (7'0\") 7\" 9-1/4\" (6'8\") 11-1/4\" (7'0\") O Pine  Grain 1'3\"  6'8\"  7'0\" Two 1-3/8\"  1-3/4\" 8-9/16\" 3-1/16\" N/A" .
+
+<urn:document:0762x2032Door_ProductData.pdf/page_4/chunk_4> a cnt:ContentAsText ;
+    dcterms:isPartOf <urn:document:0762x2032Door_ProductData.pdf/page_4> ;
+    pdo:boundingBox "355.55804443359375,461.3749694824219,382.99810791015625,469.5019836425781" ;
+    pdo:color 2301728 ;
+    pdo:font "FrutigerLTStd-Light" ;
+    pdo:fontSize "7.0"^^xsd:float ;
+    pdo:index 4 ;
+    cnt:chars "5\" (6'8\") 7\" (7'0\") 7\" 9-1/4\" (6'8\") 11-1/4\" (7'0\") O Pine  Grain 1'4\" 6'8\"  7'0\" Two 1-3/8\"  1-3/4\" 9-9/16\" 3-1/16\" N/A 5\" (6'8\") 7\" (7'0\") 7\" 9-1/4\" (6'8\") 11-1/4\" (7'0\") O Pine  Grain 1'6\"  1'8\" 6'8\"  7'0\" Two 1-3/8\"  1-3/4\" 11-9/16\" 3-1/16\" (1'6\") 4-3/16\" (1'8\") N/A 5\" (6'8\") 7\" (7'0\") 7\" 9-1/4\" (6'8\") 11-1/4\" (7'0\") O Pine  Grain 1'10\"  2'0\" 6'8\"  7'0\" Four 1-3/8\"  1-3/4\" 5-9/16\" 3-3/16\" (1'10\") 4-3/16\" (2'0\") 4-3/8\" 5\" (6'8\") 7\" (7'0\") 7\" 9-1/4\" (6'8\") 11-1/4\" (7'0\") O Pine  Grain 2'2\" " .
+
+<urn:document:0762x2032Door_ProductData.pdf/page_4/chunk_5> a cnt:ContentAsText ;
+    dcterms:isPartOf <urn:document:0762x2032Door_ProductData.pdf/page_4> ;
+    pdo:boundingBox "80.78189086914062,556.8710327148438,94.40388488769531,564.998046875" ;
+    pdo:color 2301728 ;
+    pdo:font "FrutigerLTStd-Light" ;
+    pdo:fontSize "7.0"^^xsd:float ;
+    pdo:index 5 ;
+    cnt:chars "2'4\" 6'8\"  7'0\" Four 1-3/8\"  1-3/4\" 7-9/16\" 3-3/16\" (2\"2\") 4-3/16\" (2'4\") 4-3/8\" 5\" (6'8\") 7\" (7'0\") 7\" 9-1/4\" (6'8\") 11-1/4\" (7'0\") O Pine  Grain 2'6\" 6'8\"  7'0\" Four 1-3/8\"  1-3/4\" 8-9/16\" 4-3/16\" 4-3/8\" 5\" (6'8\") 7\" (7'0\") 7\" 9-1/4\" (6'8\") 11-1/4\" (7'0\") O Pine  Grain 2'8\" 6'8\"  7'0\" Four 1-3/8\"  1-3/4\" 9-9/16\" 4-3/16\" 4-3/8\" 5\" (6'8\") 7\" (7'0\") 7\" 9-1/4\" (6'8\") 11-1/4\" (7'0\") O Pine  Grain 2'10\" 6'8\"  7'0\" Four 1-3/8\"  1-3/4\" 10-9/16\" 4-3/16\" 4-3/8\" 5\" (6'8\") 7\" (7'0\") 7\" 9-1/4\" (6'8\")" .
+
+<urn:document:0762x2032Door_ProductData.pdf/page_4/chunk_6> a cnt:ContentAsText ;
+    dcterms:isPartOf <urn:document:0762x2032Door_ProductData.pdf/page_4> ;
+    pdo:boundingBox "437.5928649902344,623.6172485351562,480.9859313964844,631.7442626953125" ;
+    pdo:color 2301728 ;
+    pdo:font "FrutigerLTStd-Light" ;
+    pdo:fontSize "7.0"^^xsd:float ;
+    pdo:index 6 ;
+    cnt:chars "11-1/4\" (7'0\") O Pine  Grain 3'0\" 6'8\"  7'0\" Four 1-3/8\"  1-3/4\" 11-9/16\" 4-3/16\" 4-3/8\" 5\" (6'8\") 7\" (7'0\") 7\" 9-1/4\" (6'8\") 11-1/4\" (7'0\") O Pine  Grain Sticking Profile: B=Beaded, MCB=Modified Cove and Bead, O=Ovolo, C=Craftsman *Assuming standard bore machining (2-1/8\" diameter bore), outer stile measurements listed above must be no less than 3-3/4\" in order to accommodate a " .
+
+<urn:document:0762x2032Door_ProductData.pdf/page_4/chunk_7> a cnt:ContentAsText ;
+    dcterms:isPartOf <urn:document:0762x2032Door_ProductData.pdf/page_4> ;
+    pdo:boundingBox "26.561500549316406,760.4439697265625,36.43850326538086,770.3125" ;
+    pdo:color 2301728 ;
+    pdo:font "FrutigerLTStd-Light" ;
+    pdo:fontSize "8.5"^^xsd:float ;
+    pdo:index 7 ;
+    cnt:chars "2-3/8\" backset on the lock hole. For 2-3/4\" backsets, outer stile measurements must be no less than 3-13/16\". If lock bore machining is less than the outer  stile measurements listed above, all lock bore drilling must be done within the lock rail for best appearance and performance. Outer stile dimension may vary  1/4\" from the measurements listed above. 32 JE LD - w e n  w i n d o w s  & door s" .
+
+<urn:document:0762x2032Door_ProductData.pdf/page_5/chunk_0> a cnt:ContentAsText ;
+    dcterms:isPartOf <urn:document:0762x2032Door_ProductData.pdf/page_5> ;
+    pdo:boundingBox "112.74230194091797,58.560523986816406,163.3022918701172,70.4105224609375" ;
+    pdo:color 7891556 ;
+    pdo:font "FrutigerLTStd-Roman" ;
+    pdo:fontSize "10.0"^^xsd:float ;
+    pdo:index 0 ;
+    cnt:chars " STANFORD ® Width Height # of  Panels Thickness Panel Width Outer Stiles* Center  Stile Top Rail Lock Rail Bottom Rail Sticking  Profile Surface N/A 4-1/4\" (6'8\") 6-1/4\" (7'0\") 7\" 9-1/8\" (6'8\") 11-1/8\" (7'0\") O Oak  Grain 6'8\"  7'0\" Two 1-3/8\"  1-3/4\" 7\" 2-7/16\" (1'0\") 3-7/16\" (1'2\") 3-15/16 (1'3\") 4-7/16 (1'4\") 1'0\"  1'2\"  1'3\" 1'4\" 1'6\"  1'8\" 6'8\"  7'0\" Two 1-3/8\"  1-3/4\" 11-9/16\" 3-3/16\" (1'6\") 4-3/16\" (1'8\") N/A 4-1/4\" (6'8\") 6-1/4\" (7'0\") 7\" 9-1/8\" (6'8\") 11-1/8\" (7'0\") O Oak  Grain 1'10\" " .
+
+<urn:document:0762x2032Door_ProductData.pdf/page_5/chunk_1> a cnt:ContentAsText ;
+    dcterms:isPartOf <urn:document:0762x2032Door_ProductData.pdf/page_5> ;
+    pdo:boundingBox "121.22151184082031,171.85414123535156,134.843505859375,179.98114013671875" ;
+    pdo:color 2301728 ;
+    pdo:font "FrutigerLTStd-Light" ;
+    pdo:fontSize "7.0"^^xsd:float ;
+    pdo:index 1 ;
+    cnt:chars "2'0\" 6'8\"  7'0\" Four 1-3/8\"  1-3/4\" 5-9/16\" 3-3/16\" (1'10\") 4-3/16\" (2'0\") 4-5/16\" 4-1/4\" (6'8\") 6-1/4\" (7'0\") 7\" 9-1/8\" (6'8\") 11-1/8\" (7'0\") O Oak  Grain 2'2\"  2'4\" 6'8\"  7'0\" Four 1-3/8\"  1-3/4\" 7-9/16\" 3-3/16\" (2\"2\") 4-3/16\" (2'4\") 4-5/16\" 4-1/4\" (6'8\") 6-1/4\" (7'0\") 7\" 9-1/8\" (6'8\") 11-1/8\" (7'0\") O Oak  Grain 2'6\" 6'8\"  7'0\" Four 1-3/8\"  1-3/4\" 8-9/16\" 4-3/16\" 4-5/16\" 4-1/4\" (6'8\") 6-1/4\" (7'0\") 7\" 9-1/8\" (6'8\") 11-1/8\" (7'0\") O Oak  Grain 2'8\"  2'10\" 6'8\"  7'0\" Four 1-3/8\"  1-3/4\" 9-9/16\"" .
+
+<urn:document:0762x2032Door_ProductData.pdf/page_5/chunk_2> a cnt:ContentAsText ;
+    dcterms:isPartOf <urn:document:0762x2032Door_ProductData.pdf/page_5> ;
+    pdo:boundingBox "112.5,373.6499938964844,164.0,385.5" ;
+    pdo:color 7891556 ;
+    pdo:font "FrutigerLTStd-Roman" ;
+    pdo:fontSize "10.0"^^xsd:float ;
+    pdo:index 2 ;
+    cnt:chars "4-3/16\" (2'8\") 5-3/16\" (2'10\") 4-5/16\" 4-1/4\" (6'8\") 6-1/4\" (7'0\") 7\" 9-1/8\" (6'8\") 11-1/8\" (7'0\") O Oak  Grain 3'0\" 6'8\"  7'0\" Four 1-3/8\"  1-3/4\" 11-9/16\" 4-3/16\" 4-5/16\" 4-1/4\" (6'8\") 6-1/4\" (7'0\") 7\" 9-1/8\" (6'8\") 11-1/8\" (7'0\") O Oak  Grain Rockport Width Height # of  Panels Thickness Panel Width Outer Stiles* Center  Stile Top Rail Lock Rail Bottom Rail Sticking  Profile Surface 2'0\" 6'8\"  7'0\" Five 1-3/8\"  1-3/4\" 15-3/4\" 4-1/8\" N/A 4-1/2\" N/A 8-1/2\" MCB Smooth 2'2\"  2'4\" 6'8\"  7'0\" Five" .
+
+<urn:document:0762x2032Door_ProductData.pdf/page_5/chunk_3> a cnt:ContentAsText ;
+    dcterms:isPartOf <urn:document:0762x2032Door_ProductData.pdf/page_5> ;
+    pdo:boundingBox "210.82705688476562,439.62298583984375,232.6180419921875,447.75" ;
+    pdo:color 2301728 ;
+    pdo:font "FrutigerLTStd-Light" ;
+    pdo:fontSize "7.0"^^xsd:float ;
+    pdo:index 3 ;
+    cnt:chars "1-3/8\"  1-3/4\" 19-3/4\" 3-3/8\" (2'2\") 4-3/8\" (2'4\") N/A 4-1/2\" N/A 8-1/2\" MCB Smooth 2'6\" 6'8\"  7'0\" Five 1-3/8\"  1-3/4\" 21-3/4\" 4-1/8\" N/A 4-1/2\" N/A 8-1/2\" MCB Smooth 2'8\" 6'8\"  7'0\" Five 1-3/8\"  1-3/4\" 23-3/4\" 4-1/8\" N/A 4-1/2\" N/A 8-1/2\" MCB Smooth 2'10\"  3'0\" 6'8\"  7'0\" Five 1-3/8\"  1-3/4\" 25-3/4\" 4-1/8\" (2'10\") 5-1/8\" (3'0\") N/A 4-1/2\" N/A 8-1/2\" MCB Smooth Sticking Profile: B=Beaded, MCB=Modified Cove and Bead, O=Ovolo, C=Craftsman" .
+
+<urn:document:0762x2032Door_ProductData.pdf/page_5/chunk_4> a cnt:ContentAsText ;
+    dcterms:isPartOf <urn:document:0762x2032Door_ProductData.pdf/page_5> ;
+    pdo:boundingBox "109.93605041503906,719.616943359375,579.9930419921875,727.7439575195312" ;
+    pdo:color 2301728 ;
+    pdo:font "FrutigerLTStd-Light" ;
+    pdo:fontSize "7.0"^^xsd:float ;
+    pdo:index 4 ;
+    cnt:chars "*Assuming standard bore machining (2-1/8\" diameter bore), outer stile measurements listed above must be no less than 3-3/4\" in order to accommodate a  2-3/8\" backset on the lock hole. For 2-3/4\" backsets, outer stile measurements must be no less than 3-13/16\". If lock bore machining is less than the outer  stile measurements listed above, all lock bore drilling must be done within the lock rail for best appearance and performance. Outer stile dimension may vary " .
+
+<urn:document:0762x2032Door_ProductData.pdf/page_5/chunk_5> a cnt:ContentAsText ;
+    dcterms:isPartOf <urn:document:0762x2032Door_ProductData.pdf/page_5> ;
+    pdo:boundingBox "575.5615234375,760.4439697265625,585.4385375976562,770.3125" ;
+    pdo:color 2301728 ;
+    pdo:font "FrutigerLTStd-Light" ;
+    pdo:fontSize "8.5"^^xsd:float ;
+    pdo:index 5 ;
+    cnt:chars "1/4\" from the measurements listed above. 33 J E L D- w e n.co m" .
+
+<urn:document:0762x2032Door_ProductData.pdf/page_6/chunk_0> a cnt:ContentAsText ;
+    dcterms:isPartOf <urn:document:0762x2032Door_ProductData.pdf/page_6> ;
+    pdo:boundingBox "72.33209991455078,33.60199737548828,279.8360595703125,54.5" ;
+    pdo:color 7891556 ;
+    pdo:font "FrutigerLTStd-Light" ;
+    pdo:fontSize "18.0"^^xsd:float ;
+    pdo:index 0 ;
+    cnt:chars " 6'8\" and 7'0\" Doors ARLINGTON Width Height # of  Panels Thickness Panel Width Outer Stiles* Center  Stile Top Rail Lock Rail Bottom Rail Sticking  Profile Surface 1'0\" 6'8\"  7'0\" Three 1-3/8\"  1-3/4\" 5-9/16\" 3-1/4\" N/A 4-5/8\" (6'8\") 6-5/8\" (7'0\") 6-7/8\" 9-5/8\" (6'8\") 11-5/8\" (7'0\") B Smooth 1'2\" 6'8\"  7'0\" Three 1-3/8\"  1-3/4\" 7-9/16\" 3-1/4\" N/A 4-5/8\" (6'8\") 6-5/8\" (7'0\") 6-7/8\" 9-5/8\" (6'8\") 11-5/8\" (7'0\") B Smooth 1'3\"  1'4\"  6'8\"  7'0\" Three 1-3/8\"  1-3/4\" 8-9/16\" 3-1/2\" (1'3\") 4\" (1'4\") N/A" .
+
+<urn:document:0762x2032Door_ProductData.pdf/page_6/chunk_1> a cnt:ContentAsText ;
+    dcterms:isPartOf <urn:document:0762x2032Door_ProductData.pdf/page_6> ;
+    pdo:boundingBox "349.51690673828125,146.37416076660156,389.0179748535156,154.50115966796875" ;
+    pdo:color 2301728 ;
+    pdo:font "FrutigerLTStd-Light" ;
+    pdo:fontSize "7.0"^^xsd:float ;
+    pdo:index 1 ;
+    cnt:chars "4-5/8\" (6'8\") 6-5/8\" (7'0\") 6-7/8\" 9-5/8\" (6'8\") 11-5/8\" (7'0\") B Smooth 1'6\" 6'8\"  7'0\" Three 1-3/8\"  1-3/4\" 11-9/16\" 4-1/8\" (1'6\") N/A 4-5/8\" (6'8\") 6-5/8\" (7'0\") 6-7/8\" 9-5/8\" (6'8\") 11-5/8\" (7'0\") B Smooth 1'8\" 1'10\"  2'0\" 6'8\"  7'0\" Six 1-3/8\"  1-3/4\" 5-9/16\" 5-1/8\" (1'8\") 3-1/2\" (1'10\") 4-1/2\" (2'0\") 4\" 4-5/8\" (6'8\") 6-5/8\" (7'0\") 6-7/8\" 9-5/8\" (6'8\") 11-5/8\" (7'0\") B Smooth 2'2\"  2'4\" 6'8\"  7'0\" Six 1-3/8\"  1-3/4\" 7-9/16\" 3-1/2\" (2'2\") 4-1/2\" (2'4\") 4\" 4-5/8\" (6'8\") 6-5/8\" (7'0\") 6-7/8\"" .
+
+<urn:document:0762x2032Door_ProductData.pdf/page_6/chunk_2> a cnt:ContentAsText ;
+    dcterms:isPartOf <urn:document:0762x2032Door_ProductData.pdf/page_6> ;
+    pdo:boundingBox "72.04440307617188,373.4709777832031,128.7144012451172,385.32098388671875" ;
+    pdo:color 7891556 ;
+    pdo:font "FrutigerLTStd-Roman" ;
+    pdo:fontSize "10.0"^^xsd:float ;
+    pdo:index 2 ;
+    cnt:chars "9-5/8\" (6'8\") 11-5/8\" (7'0\") B Smooth 2'6\" 6'8\"  7'0\" Six 1-3/8\"  1-3/4\" 8-9/16\" 4-1/2\" 5\" 4-5/8\" (6'8\") 6-5/8\" (7'0\") 6-7/8\" 9-5/8\" (6'8\") 11-5/8\" (7'0\") B Smooth 2'8\" 6'8\"  7'0\" Six 1-3/8\"  1-3/4\" 9-9/16\" 4-1/2\" 5\" 4-5/8\" (6'8\") 6-5/8\" (7'0\") 6-7/8\" 9-5/8\" (6'8\") 11-5/8\" (7'0\") B Smooth 2'10\" 3'0\" 6'8\"  7'0\" Six 1-3/8\"  1-3/4\" 11-9/16\" 4-1/2\" (2'10\") 5-1/2 (3'0\") 5-3/8\" 4-5/8\" (6'8\") 6-5/8\" (7'0\") 6-7/8\" 9-5/8\" (6'8\") 11-5/8\" (7'0\") B Smooth BOSTONIAN ® Width Height # of  Panels Thickness" .
+
+<urn:document:0762x2032Door_ProductData.pdf/page_6/chunk_3> a cnt:ContentAsText ;
+    dcterms:isPartOf <urn:document:0762x2032Door_ProductData.pdf/page_6> ;
+    pdo:boundingBox "205.156005859375,399.7049865722656,245.41998291015625,408.0" ;
+    pdo:color 16777215 ;
+    pdo:font "FrutigerLTStd-Bold" ;
+    pdo:fontSize "7.0"^^xsd:float ;
+    pdo:index 3 ;
+    cnt:chars "Panel Width Outer Stiles* Center  Stile Top Rail Lock Rail Bottom Rail Sticking  Profile Surface 6'8\"  7'0\" Three 1-3/8\"  1-3/4\" 7\" N/A 4-1/4\" (6'8\") 6-1/4\" (7'0\") 6-7/8\" 8-1/4\" (6'8\") 10-1/4\" (7'0\") MCB Pine  Grain 1'0\"  1'2\"  1'3\"  1'4\" 2-7/16\" (1'0\") 3-7/16\" (1'2\") 3-15/16\" (1'3\") 4-7/16\" (1'4\") 1'6\"  1'8\" 6'8\"  7'0\" Three 1-3/8\"  1-3/4\" 11-7/8\" 3-1/16\" (1'6\") 4-1/16\" (1'8\") N/A 4-1/4\" (6'8\") 6-1/4\" (7'0\") 6-7/8\" 8-1/4\" (6'8\") 10-1/4\" (7'0\") MCB Pine  Grain 1'10\"  2'0\" 6'8\"  7'0\" Six 1-3/8\" " .
+
+<urn:document:0762x2032Door_ProductData.pdf/page_6/chunk_4> a cnt:ContentAsText ;
+    dcterms:isPartOf <urn:document:0762x2032Door_ProductData.pdf/page_6> ;
+    pdo:boundingBox "170.3716583251953,486.8719787597656,190.21664428710938,494.9989929199219" ;
+    pdo:color 2301728 ;
+    pdo:font "FrutigerLTStd-Light" ;
+    pdo:fontSize "7.0"^^xsd:float ;
+    pdo:index 4 ;
+    cnt:chars "1-3/4\" 5-7/8\" 3-1/16\" (1'10\") 4-1/16\" (2'0\") 3-7/8\" 4-1/4\" (6'8\") 6-1/4\" (7'0\") 6-7/8\" 8-1/4\" (6'8\") 10-1/4\" (7'0\") MCB Pine  Grain 2'2\"  2'4\" 6'8\"  7'0\" Six 1-3/8\"  1-3/4\" 7-7/8\" 3-3/16\" (2\"2\") 4-3/16\" (2'4\") 3-7/8\" 4-1/4\" (6'8\") 6-1/4\" (7'0\") 6-7/8\" 8-1/4\" (6'8\") 10-1/4\" (7'0\") MCB Pine  Grain 2'6\" 6'8\"  7'0\" Six 1-3/8\"  1-3/4\" 8-7/8\" 4-3/16\" 3-7/8\" 4-1/4\" (6'8\") 6-1/4\" (7'0\") 6-7/8\" 8-1/4\" (6'8\") 10-1/4\" (7'0\") MCB Pine  Grain 2'8\" 6'8\"  7'0\" Six 1-3/8\"  1-3/4\" 9-7/8\" 4-3/16\" 3-7/8\"" .
+
+<urn:document:0762x2032Door_ProductData.pdf/page_6/chunk_5> a cnt:ContentAsText ;
+    dcterms:isPartOf <urn:document:0762x2032Door_ProductData.pdf/page_6> ;
+    pdo:boundingBox "349.560791015625,545.1202392578125,389.0618591308594,553.2472534179688" ;
+    pdo:color 2301728 ;
+    pdo:font "FrutigerLTStd-Light" ;
+    pdo:fontSize "7.0"^^xsd:float ;
+    pdo:index 5 ;
+    cnt:chars "4-1/4\" (6'8\") 6-1/4\" (7'0\") 6-7/8\" 8-1/4\" (6'8\") 10-1/4\" (7'0\") MCB Pine  Grain 2'10\" 6'8\"  7'0\" Six 1-3/8\"  1-3/4\" 10-7/8\" 4-3/16\" 3-7/8\" 4-1/4\" (6'8\") 6-1/4\" (7'0\") 6-7/8\" 8-1/4\" (6'8\") 10-1/4\" (7'0\") MCB Pine  Grain 3'0\" 6'8\"  7'0\" Six 1-3/8\"  1-3/4\" 11-7/8\" 4-3/16\" 3-7/8\" 4-1/4\" (6'8\") 6-1/4\" (7'0\") 6-7/8\" 8-1/4\" (6'8\") 10-1/4\" (7'0\") MCB Pine  Grain Sticking Profile: B=Beaded, MCB=Modified Cove and Bead, O=Ovolo, C=Craftsman" .
+
+<urn:document:0762x2032Door_ProductData.pdf/page_6/chunk_6> a cnt:ContentAsText ;
+    dcterms:isPartOf <urn:document:0762x2032Door_ProductData.pdf/page_6> ;
+    pdo:boundingBox "73.76988220214844,719.6229858398438,543.826904296875,727.75" ;
+    pdo:color 2301728 ;
+    pdo:font "FrutigerLTStd-Light" ;
+    pdo:fontSize "7.0"^^xsd:float ;
+    pdo:index 6 ;
+    cnt:chars "*Assuming standard bore machining (2-1/8\" diameter bore), outer stile measurements listed above must be no less than 3-3/4\" in order to accommodate a  2-3/8\" backset on the lock hole. For 2-3/4\" backsets, outer stile measurements must be no less than 3-13/16\". If lock bore machining is less than the outer  stile measurements listed above, all lock bore drilling must be done within the lock rail for best appearance and performance. Outer stile dimension may vary " .
+
+<urn:document:0762x2032Door_ProductData.pdf/page_6/chunk_7> a cnt:ContentAsText ;
+    dcterms:isPartOf <urn:document:0762x2032Door_ProductData.pdf/page_6> ;
+    pdo:boundingBox "26.561500549316406,760.4439697265625,36.43850326538086,770.3125" ;
+    pdo:color 2301728 ;
+    pdo:font "FrutigerLTStd-Light" ;
+    pdo:fontSize "8.5"^^xsd:float ;
+    pdo:index 7 ;
+    cnt:chars "1/4\" from the measurements listed above. 34 JE LD - w e n  w i n d o w s  & door s" .
+
+<urn:document:0762x2032Door_ProductData.pdf/page_7/chunk_0> a cnt:ContentAsText ;
+    dcterms:isPartOf <urn:document:0762x2032Door_ProductData.pdf/page_7> ;
+    pdo:boundingBox "112.49669647216797,58.650489807128906,150.83670043945312,70.50048828125" ;
+    pdo:color 7891556 ;
+    pdo:font "FrutigerLTStd-Roman" ;
+    pdo:fontSize "10.0"^^xsd:float ;
+    pdo:index 0 ;
+    cnt:chars " BRISTOL Width Height # of  Panels Thickness Panel Width Outer Stiles* Center  Stile Top Rail Lock Rail Bottom Rail Sticking  Profile Surface 6'8\"  7'0\" Three 1-3/8\"  1-3/4\" 7\" N/A 4-1/8\" (6'8\") 6-1/8\" (7'0\") 6-7/8\" 8-3/8\" (6'8\") 10-3/8\" (7'0\") MCB Smooth 1'0\"  1'2\"  1'3\"  1'4\" 2-1/2\" (1'0\") 3-1/2\" (1'2\") 4\" (1'3\") 4-1/2\" (1'4\") 1'6\"  1'8\" 6'8\"  7'0\" Three 1-3/8\"  1-3/4\" 11-31/32\" 3\" (1'6\") 4\" (1'8\") N/A 4-1/8\" (6'8\") 6-1/8\" (7'0\") 6-7/8\" 8-3/8\" (6'8\") 10-3/8\" (7'0\") MCB Smooth 6'8\"  7'0\" Six" .
+
+<urn:document:0762x2032Door_ProductData.pdf/page_7/chunk_1> a cnt:ContentAsText ;
+    dcterms:isPartOf <urn:document:0762x2032Door_ProductData.pdf/page_7> ;
+    pdo:boundingBox "218.51968383789062,167.6227569580078,240.3106689453125,175.749755859375" ;
+    pdo:color 2301728 ;
+    pdo:font "FrutigerLTStd-Light" ;
+    pdo:fontSize "7.0"^^xsd:float ;
+    pdo:index 1 ;
+    cnt:chars "1-3/8\"  1-3/4\" 5-31/32\" 3-1/8\" (1'10\") 4-1/8\" (2'0\") 5-1/8\" (2'2\") 3-7/8\" 4-1/8\" (6'8\") 6-1/8\" (7'0\") 6-7/8\" 8-3/8\" (6'8\") 10-3/8\" (7'0\") MCB Smooth 1'10\"  2'0\"  2'2\" 2'4\" 6'8\"  7'0\" Six 1-3/8\"  1-3/4\" 7-31/32\" 4-1/8\" 3-7/8\" 4-1/8\" (6'8\") 6-1/8\" (7'0\") 6-7/8\" 8-3/8\" (6'8\") 10-3/8\" (7'0\") MCB Smooth 2'6\" 6'8\"  7'0\" Six 1-3/8\"  1-3/4\" 8-31/32\" 4-1/8\" 3-7/8\" 4-1/8\" (6'8\") 6-1/8\" (7'0\") 6-7/8\" 8-3/8\" (6'8\") 10-3/8\" (7'0\") MCB Smooth 2'8\"  2'10\" 6'8\"  7'0\"  Six 1-3/8\"  1-3/4\" 9-31/32\" 4-1/8\" (2'8\")" .
+
+<urn:document:0762x2032Door_ProductData.pdf/page_7/chunk_2> a cnt:ContentAsText ;
+    dcterms:isPartOf <urn:document:0762x2032Door_ProductData.pdf/page_7> ;
+    pdo:boundingBox "112.90670013427734,373.56048583984375,161.79669189453125,385.4104919433594" ;
+    pdo:color 7891556 ;
+    pdo:font "FrutigerLTStd-Roman" ;
+    pdo:fontSize "10.0"^^xsd:float ;
+    pdo:index 2 ;
+    cnt:chars "5-1/8\" (2'10\") 3-7/8\" 4-1/8\" (6'8\") 6-1/8\" (7'0\") 6-7/8\" 8-3/8\" (6'8\") 10-3/8\" (7'0\") MCB Smooth 3'0\" 6'8\"  7'0\" Six 1-3/8\"  1-3/4\" 11-31/32\" 4-1/8\" 3-7/8\" 4-1/8\" (6'8\") 6-1/8\" (7'0\") 6-7/8\" 8-3/8\" (6'8\") 10-3/8\" (7'0\") MCB Smooth COLONIAL Width Height # of  Panels Thickness Panel Width Outer Stiles* Center  Stile Top Rail Lock Rail Bottom Rail Sticking  Profile Surface 6'8\"  7'0\" Three 1-3/8\"  1-3/4\" 7\" N/A 4-1/4\" (6'8\") 6-1/4\" (7'0\") 7\" 9-1/16\" (6'8\") 11-1/16\" (7'0\") O Pine  Grain 1'0\"  1'2\" " .
+
+<urn:document:0762x2032Door_ProductData.pdf/page_7/chunk_3> a cnt:ContentAsText ;
+    dcterms:isPartOf <urn:document:0762x2032Door_ProductData.pdf/page_7> ;
+    pdo:boundingBox "121.72158813476562,434.865966796875,137.28958129882812,442.99298095703125" ;
+    pdo:color 2301728 ;
+    pdo:font "FrutigerLTStd-Light" ;
+    pdo:fontSize "7.0"^^xsd:float ;
+    pdo:index 3 ;
+    cnt:chars "1'3\"  1'4\" 2-7/16\" (1'0\") 3-7/16\" (1'2\") 3-15/16\" (1'3\") 4-7/16\" (1'4\") 1'6\"  1'8\" 6'8\"  7'0\" Three 1-3/8\"  1-3/4\" 11-9/16\" 3-3/16\" (1'6\") 4-3/16\" (1'8\") N/A 4-1/4\" (6'8\") 6-1/4\" (7'0\") 7\" 9-1/16\" (6'8\") 11-1/16\" (7'0\") O Pine  Grain 1'10\"  2'0\"  6'8\"  7'0\" Six 1-3/8\"  1-3/4\" 5-9/16\" 3-3/16\" (1'10\") 4-3/16\" (2'0\") 4-3/8\" 4-1/4\" (6'8\") 6-1/4\" (7'0\") 7\" 9-1/16\" (6'8\") 11-1/16\" (7'0\") O Pine  Grain 2'2\"  2'4\" 6'8\"  7'0\" Six 1-3/8\"  1-3/4\" 7-9/16\" 3-3/16\" (2'2\") 4-3/16\" (2'4\") 4-3/8\" 4-1/4\" (6'8\")" .
+
+<urn:document:0762x2032Door_ProductData.pdf/page_7/chunk_4> a cnt:ContentAsText ;
+    dcterms:isPartOf <urn:document:0762x2032Door_ProductData.pdf/page_7> ;
+    pdo:boundingBox "390.50250244140625,508.6221923828125,430.0035705566406,516.7492065429688" ;
+    pdo:color 2301728 ;
+    pdo:font "FrutigerLTStd-Light" ;
+    pdo:fontSize "7.0"^^xsd:float ;
+    pdo:index 4 ;
+    cnt:chars "6-1/4\" (7'0\") 7\" 9-1/16\" (6'8\") 11-1/16\" (7'0\") O Pine  Grain 2'6\" 6'8\"  7'0\" Six 1-3/8\"  1-3/4\" 8-9/16\" 4-3/16\" 4-3/8\" 4-1/4\" (6'8\") 6-1/4\" (7'0\") 7\" 9-1/16\" (6'8\") 11-1/16\" (7'0\") O Pine  Grain 2'8\"  6'8\"  7'0\"  Six 1-3/8\"  1-3/4\" 9-9/16\" 4-3/16\" 4-3/8\" 4-1/4\" (6'8\") 6-1/4\" (7'0\") 7\" 9-1/16\" (6'8\") 11-1/16\" (7'0\") O Pine  Grain 2'10\" 6'8\"  7'0\" Six 1-3/8\"  1-3/4\" 10-9/16\" 4-3/16\" 4-3/8\" 4-1/4\" (6'8\") 6-1/4\" (7'0\") 7\" 9-1/16\" (6'8\") 11-1/16\" (7'0\") O Pine  Grain 3'0\" 6'8\"  7'0\" Six 1-3/8\" " .
+
+<urn:document:0762x2032Door_ProductData.pdf/page_7/chunk_5> a cnt:ContentAsText ;
+    dcterms:isPartOf <urn:document:0762x2032Door_ProductData.pdf/page_7> ;
+    pdo:boundingBox "211.32901000976562,597.122314453125,231.1739959716797,605.2493286132812" ;
+    pdo:color 2301728 ;
+    pdo:font "FrutigerLTStd-Light" ;
+    pdo:fontSize "7.0"^^xsd:float ;
+    pdo:index 5 ;
+    cnt:chars "1-3/4\" 11-9/16\" 4-3/16\" 4-3/8\" 4-1/4\" (6'8\") 6-1/4\" (7'0\") 7\" 9-1/16\" (6'8\") 11-1/16\" (7'0\") O Pine  Grain Sticking Profile: B=Beaded, MCB=Modified Cove and Bead, O=Ovolo, C=Craftsman *Assuming standard bore machining (2-1/8\" diameter bore), outer stile measurements listed above must be no less than 3-3/4\" in order to accommodate a  2-3/8\" backset on the lock hole. For 2-3/4\" backsets, outer stile measurements must be no less than 3-13/16\". If lock bore machining is less than the outer " .
+
+<urn:document:0762x2032Door_ProductData.pdf/page_7/chunk_6> a cnt:ContentAsText ;
+    dcterms:isPartOf <urn:document:0762x2032Door_ProductData.pdf/page_7> ;
+    pdo:boundingBox "575.5615234375,760.4439697265625,585.4385375976562,770.3125" ;
+    pdo:color 2301728 ;
+    pdo:font "FrutigerLTStd-Light" ;
+    pdo:fontSize "8.5"^^xsd:float ;
+    pdo:index 6 ;
+    cnt:chars "stile measurements listed above, all lock bore drilling must be done within the lock rail for best appearance and performance. Outer stile dimension may vary  1/4\" from the measurements listed above. 35 J E L D- w e n.co m" .
+
+<urn:document:0762x2032Door_ProductData.pdf/page_8/chunk_0> a cnt:ContentAsText ;
+    dcterms:isPartOf <urn:document:0762x2032Door_ProductData.pdf/page_8> ;
+    pdo:boundingBox "71.33209991455078,33.60199737548828,278.8360595703125,54.5" ;
+    pdo:color 7891556 ;
+    pdo:font "FrutigerLTStd-Light" ;
+    pdo:fontSize "18.0"^^xsd:float ;
+    pdo:index 0 ;
+    cnt:chars " 6'8\" and 7'0\" Doors PREFINISHED (STAINED) SIX-PANEL Width Height # of  Panels Thickness Panel Width Outer Stiles* Center  Stile Top Rail Lock Rail Bottom Rail Sticking  Profile Surface N/A 4-1/8\" 6-1/2\" 11-5/8\" O Oak  Grain 6'8\"  7'0\" Three 1-3/8\"  1-3/4\" 7\" 2-1/2\" (1'0\") 3-1/2\" (1'2\") 4\" (1'3\") 4-1/2\" (1'4\") 1'0\"  1'2\"  1'3\"  1'4\" N/A 4-1/8\" 6-1/2\" 11-5/8\" O Oak  Grain 6'8\"  7'0\" Three 1-3/8\"  1-3/4\" 11-9/16\" 3-1/4\" (1'6\") 4-1/4\" (1'8\") 5-1/4\" (1'10\") 1'6\"  1'8\"  1'10\" 2'0\"  2'2\" 6'8\"  7'0\" Six" .
+
+<urn:document:0762x2032Door_ProductData.pdf/page_8/chunk_1> a cnt:ContentAsText ;
+    dcterms:isPartOf <urn:document:0762x2032Door_ProductData.pdf/page_8> ;
+    pdo:boundingBox "72.0,302.47100830078125,129.22999572753906,314.3210144042969" ;
+    pdo:color 7891556 ;
+    pdo:font "FrutigerLTStd-Roman" ;
+    pdo:fontSize "10.0"^^xsd:float ;
+    pdo:index 1 ;
+    cnt:chars "1-3/8\"  1-3/4\" 5-5/16\" 4-1/2\" (2'0\") 5-1/2\" (2'2\") 4-5/16\" 4-1/8\" 6-1/2\" 11-5/8\" O Oak  Grain 2'4\" 6'8\"  7'0\" Six 1-3/8\"  1-3/4\" 7-5/16\" 4-1/2\" 4-5/16\" 4-1/8\" 6-1/2\" 11-5/8\" O Oak  Grain 2'6\" 6'8\"  7'0\" Six 1-3/8\"  1-3/4\" 8-5/16\" 4-1/2\" 4-5/16\" 4-1/8\" 6-1/2\" 11-5/8\" O Oak  Grain 6'8\"  7'0\" Six 1-3/8\"  1-3/4\" 9-5/16\" 4-5/8\" 5-5/8\" 6-5/8\" 4-7/8\" 4-1/8\" 6-1/2\" 11-5/8\" O Oak  Grain 2'8\"  2'10\" 3'0\" IMPRESSION ™  MIRROR DOOR Width Height # of  Panels Thickness Panel Width Outer  Stiles* Center  Stile" .
+
+<urn:document:0762x2032Door_ProductData.pdf/page_8/chunk_2> a cnt:ContentAsText ;
+    dcterms:isPartOf <urn:document:0762x2032Door_ProductData.pdf/page_8> ;
+    pdo:boundingBox "338.3005676269531,328.5260009765625,364.1726379394531,336.8210144042969" ;
+    pdo:color 16777215 ;
+    pdo:font "FrutigerLTStd-Bold" ;
+    pdo:fontSize "7.0"^^xsd:float ;
+    pdo:index 2 ;
+    cnt:chars "Top Rail Lock Rail Bottom Rail Sticking  Profile Surface 2'0\" 6'8\"  One 1-3/8\"  15-5/16\" 4-5/16\" N/A 4-1/2\" N/A 9-7/8\" ** Pine Grain   or Smooth 2'4\" 6'8\"  One 1-3/8\"  19-5/16\" 4-5/16\" N/A 4-1/2\" N/A 9-7/8\" ** Pine Grain   or Smooth 2'6\" 6'8\" One 1-3/8\" 21-5/16\" 4-5/16\" N/A 4-1/2\" N/A 9-7/8\" ** Pine Grain   or Smooth 2'8\" 6'8\" One 1-3/8\" 23-5/16\" 4-5/16\" N/A 4-1/2\" N/A 9-7/8\" ** Pine Grain   or Smooth 3'0\" 6'8\"  One 1-3/8\"  27-5/16\" 4-5/16\" N/A 4-1/2\" N/A 9-7/8\" ** Pine Grain   or Smooth" .
+
+<urn:document:0762x2032Door_ProductData.pdf/page_8/chunk_3> a cnt:ContentAsText ;
+    dcterms:isPartOf <urn:document:0762x2032Door_ProductData.pdf/page_8> ;
+    pdo:boundingBox "76.57689666748047,688.2229614257812,327.4148864746094,696.3499755859375" ;
+    pdo:color 2301728 ;
+    pdo:font "FrutigerLTStd-Light" ;
+    pdo:fontSize "7.0"^^xsd:float ;
+    pdo:index 3 ;
+    cnt:chars "Sticking Profile: B=Beaded, MCB=Modified Cove and Bead, O=Ovolo, C=Craftsman *Assuming standard bore machining (2-1/8\" diameter bore), outer stile measurements listed above must be no less than 3-3/4\" in order to accommodate a   2-3/8\" backset on the lock hole. For 2-3/4\" backsets, outer stile measurements must be no less than 3-13/16\". If lock bore machining is less than the outer  " .
+
+<urn:document:0762x2032Door_ProductData.pdf/page_8/chunk_4> a cnt:ContentAsText ;
+    dcterms:isPartOf <urn:document:0762x2032Door_ProductData.pdf/page_8> ;
+    pdo:boundingBox "26.561500549316406,760.4439697265625,36.43850326538086,770.3125" ;
+    pdo:color 2301728 ;
+    pdo:font "FrutigerLTStd-Light" ;
+    pdo:fontSize "8.5"^^xsd:float ;
+    pdo:index 4 ;
+    cnt:chars "stile measurements listed above, all lock bore drilling must be done within the lock rail for best appearance and performance. Outer stile dimension may vary   1/4\" from the measurements listed above. **Arlington Impression mirror doors have B sticking profile; Bostonian and Bristol Impression mirror doors have MCB sticking profile; Colonial Impression mirror  doors have O sticking profile.  36 JE LD - w e n  w i n d o w s  & door s" .
+
+<urn:document:0762x2032Door_ProductData.pdf/page_9/chunk_0> a cnt:ContentAsText ;
+    dcterms:isPartOf <urn:document:0762x2032Door_ProductData.pdf/page_9> ;
+    pdo:boundingBox "112.33209991455078,33.60199737548828,222.92408752441406,54.5" ;
+    pdo:color 7891556 ;
+    pdo:font "FrutigerLTStd-Light" ;
+    pdo:fontSize "18.0"^^xsd:float ;
+    pdo:index 0 ;
+    cnt:chars " 8'0\" Doors CAMBRIDGE Width Height # of  Panels Thickness Panel Width Outer Stiles* Center  Stile Top Rail Lock Rail Bottom Rail Sticking  Profile Surface N/A 4-1/2\" 7\" 9\" O Smooth 8'0\" Two 1-3/8\"  1-3/4\" 7\" 2-1/2\" (1'0\") 3-1/2\" (1'2\") 4\" (1'3\") 4-1/2\" (1'4\") 1'0\"  1'2\"  1'3\"  1'4\" 1'6\"  1'8\"  8'0\" Two 1-3/8\"  1-3/4\" 9-3/4\" 4-1/8\" (1'6\") 5-1/8\" (1'8\") N/A 4-1/2\" 7\" 9\" O Smooth 1'10\"  2'0\"  8'0\" Two 1-3/8\"  1-3/4\" 13-3/4\" 4-1/8\" (1'10\") 5-1/8\" (2'0\") N/A 4-1/2\" 7\" 9\" O Smooth N/A 4-1/2\" 7\" 9\" O" .
+
+<urn:document:0762x2032Door_ProductData.pdf/page_9/chunk_1> a cnt:ContentAsText ;
+    dcterms:isPartOf <urn:document:0762x2032Door_ProductData.pdf/page_9> ;
+    pdo:boundingBox "112.30000305175781,259.4709777832031,166.1999969482422,271.32098388671875" ;
+    pdo:color 10128254 ;
+    pdo:font "FrutigerLTStd-Roman" ;
+    pdo:fontSize "10.0"^^xsd:float ;
+    pdo:index 1 ;
+    cnt:chars "Smooth 2'2\"  2'4\"  2'6\" 8'0\" Two 1-3/8\"  1-3/4\" 19-3/4\" 3-1/8\" (2'2\") 4-1/8\" (2'4\") 5-1/8\" (2'6\") N/A 4-1/2\" 7\" 9\" O Smooth 2'8\"  2'10\" 3'0\" 8'0\" Two 1-3/8\"  1-3/4\" 23-3/4\" 4\" (2'8\") 5\" (2'10\") 6\" (3'0\") PRINCETON Width Height # of  Panels Thickness Panel Width Outer Stiles* Center  Stile Top Rail Lock Rail Bottom Rail Sticking  Profile Surface N/A 5-1/2\" 3-3/4\" 8-1/2\" MCB Smooth 8'0\" Two 1-3/8\"  1-3/4\" 7\" 2-1/2\" (1'0\") 3-1/2\" (1'2\") 4\" (1'3\") 4-1/2\" (1'4\") 1'0\"  1'2\"  1'3\"  1'4\" 1'6\"  1'8\"  8'0\"" .
+
+<urn:document:0762x2032Door_ProductData.pdf/page_9/chunk_2> a cnt:ContentAsText ;
+    dcterms:isPartOf <urn:document:0762x2032Door_ProductData.pdf/page_9> ;
+    pdo:boundingBox "182.06153869628906,346.8638610839844,194.20654296875,354.9908752441406" ;
+    pdo:color 2301728 ;
+    pdo:font "FrutigerLTStd-Light" ;
+    pdo:fontSize "7.0"^^xsd:float ;
+    pdo:index 2 ;
+    cnt:chars "Two 1-3/8\"  1-3/4\" 9-1/2\" 4-1/4\" (1'6\") 5-1/4\" (1'8\") N/A 5-1/2\" 3-3/4\" 8-1/2\" MCB Smooth 1'10\"  2'0\"  8'0\" Two 1-3/8\"  1-3/4\" 14-15/16\" 3-1/2\" (1'10\") 4-1/2\" (2'0\") N/A 5-1/2\" 3-3/4\" 8-1/2\" MCB Smooth 2'2\"  2'4\"  8'0\" Two 1-3/8\"  1-3/4\" 18-1/8\" 3-15/16\" (2'2\") 4-15/16\" (2'4\") N/A 5-1/2\" 3-3/4\" 8-1/2\" MCB Smooth 2'6\" 8'0\" Two 1-3/8\"  1-3/4\" 19-11/16\" 5-1/8\" (2'6\") N/A 5-1/2\" 3-3/4\" 8-1/2\" MCB Smooth 2'8\" 8'0\" Two 1-3/8\"  1-3/4\" 22-13/16\" 4-1/2\" (2'8\") N/A 5-1/2\" 3-3/4\" 8-1/2\" MCB Smooth 2'10\"" .
+
+<urn:document:0762x2032Door_ProductData.pdf/page_9/chunk_3> a cnt:ContentAsText ;
+    dcterms:isPartOf <urn:document:0762x2032Door_ProductData.pdf/page_9> ;
+    pdo:boundingBox "112.38240051269531,486.56048583984375,179.06239318847656,498.4104919433594" ;
+    pdo:color 7891556 ;
+    pdo:font "FrutigerLTStd-Roman" ;
+    pdo:fontSize "10.0"^^xsd:float ;
+    pdo:index 3 ;
+    cnt:chars "3'0\" 8'0\" Two 1-3/8\"  1-3/4\" 25\" 4-1/2\" (2'10\") 5-1/2\" (3'0\") N/A 5-1/2\" 3-3/4\" 8-1/2\" MCB Smooth CONTINENTAL ™ Width Height # of  Panels Thickness Panel Width Outer Stiles* Center  Stile Top Rail Lock Rail Bottom Rail Sticking  Profile Surface N/A 5-1/2\" 4-1/4\" 11-1/4\" O Smooth 8'0\" Two 1-3/8\"  1-3/4\" 7\" 1'0\"  1'2\"  1'3\"  1'4\" 2-1/2\" (1'0\") 3-1/2\" (1'2\") 4\" (1'3\") 4-1/2\" (1'4\") 1'6\"  1'8\"  8'0\" Two 1-3/8\"  1-3/4\" 9-3/4\" 4-1/8\" (1'6\") 5-1/8\" (1'8\") N/A 5-1/2\" 4-1/4\" 11-1/4\" O Smooth N/A 5-1/2\"" .
+
+<urn:document:0762x2032Door_ProductData.pdf/page_9/chunk_4> a cnt:ContentAsText ;
+    dcterms:isPartOf <urn:document:0762x2032Door_ProductData.pdf/page_9> ;
+    pdo:boundingBox "444.0210876464844,608.3729858398438,463.8660888671875,616.5" ;
+    pdo:color 2301728 ;
+    pdo:font "FrutigerLTStd-Light" ;
+    pdo:fontSize "7.0"^^xsd:float ;
+    pdo:index 4 ;
+    cnt:chars "4-1/4\" 11-1/4\" O Smooth 1'10\"  2'0\"  2'2\" 8'0\" Two 1-3/8\"  1-3/4\" 14\" 4\" (1'10\") 5\" (2'0\") 6\" (2'2\") 2'4\"  2'6\" 8'0\" Two 1-3/8\"  1-3/4\" 20\" 4\" (2'4\") 5\" (2'6\") N/A 5-1/2\" 4-1/4\" 11-1/4\" O Smooth N/A 5-1/2\" 4-1/4\" 11-1/4\" O Smooth 2'8\"  2'10\" 3'0\" 8'0\" Two 1-3/8\"  1-3/4\" 24\" 4\" (2'8\") 5\" (2'10\") 6\" (3'0\") Sticking Profile: B=Beaded, MCB=Modified Cove and Bead, O=Ovolo" .
+
+<urn:document:0762x2032Door_ProductData.pdf/page_9/chunk_5> a cnt:ContentAsText ;
+    dcterms:isPartOf <urn:document:0762x2032Door_ProductData.pdf/page_9> ;
+    pdo:boundingBox "109.93778991699219,716.6229858398438,579.9948120117188,724.75" ;
+    pdo:color 2301728 ;
+    pdo:font "FrutigerLTStd-Light" ;
+    pdo:fontSize "7.0"^^xsd:float ;
+    pdo:index 5 ;
+    cnt:chars "*Assuming standard bore machining (2-1/8\" diameter bore), outer stile measurements listed above must be no less than 3-3/4\" in order to accommodate a  2-3/8\" backset on the lock hole. For 2-3/4\" backsets, outer stile measurements must be no less than 3-13/16\". If lock bore machining is less than the outer  stile measurements listed above, all lock bore drilling must be done within the lock rail for best appearance and performance. Outer stile dimension may vary " .
+
+<urn:document:0762x2032Door_ProductData.pdf/page_9/chunk_6> a cnt:ContentAsText ;
+    dcterms:isPartOf <urn:document:0762x2032Door_ProductData.pdf/page_9> ;
+    pdo:boundingBox "575.5615234375,760.4439697265625,585.4385375976562,770.3125" ;
+    pdo:color 2301728 ;
+    pdo:font "FrutigerLTStd-Light" ;
+    pdo:fontSize "8.5"^^xsd:float ;
+    pdo:index 6 ;
+    cnt:chars "1/4\" from the measurements listed above. 37 J E L D- w e n.co m" .
+
+<urn:document:0762x2032Door_ProductData.pdf/page_10> a fabio:Page ;
+    dcterms:isPartOf <urn:document:0762x2032Door_ProductData.pdf> ;
+    pdo:height "792.0"^^xsd:float ;
+    pdo:index 10 ;
+    pdo:rotation 0 ;
+    pdo:width "612.0"^^xsd:float .
+
+<urn:document:0762x2032Door_ProductData.pdf/page_11> a fabio:Page ;
+    dcterms:isPartOf <urn:document:0762x2032Door_ProductData.pdf> ;
+    pdo:height "792.0"^^xsd:float ;
+    pdo:index 11 ;
+    pdo:rotation 0 ;
+    pdo:width "612.0"^^xsd:float .
+
+<urn:document:0762x2032Door_ProductData.pdf/page_12> a fabio:Page ;
+    dcterms:isPartOf <urn:document:0762x2032Door_ProductData.pdf> ;
+    pdo:height "792.0"^^xsd:float ;
+    pdo:index 12 ;
+    pdo:rotation 0 ;
+    pdo:width "612.0"^^xsd:float .
+
+<urn:document:0762x2032Door_ProductData.pdf/page_8> a fabio:Page ;
+    dcterms:isPartOf <urn:document:0762x2032Door_ProductData.pdf> ;
+    pdo:height "792.0"^^xsd:float ;
+    pdo:index 8 ;
+    pdo:rotation 0 ;
+    pdo:width "612.0"^^xsd:float .
+
+<urn:document:0762x2032Door_ProductData.pdf/page_5> a fabio:Page ;
+    dcterms:isPartOf <urn:document:0762x2032Door_ProductData.pdf> ;
+    pdo:height "792.0"^^xsd:float ;
+    pdo:index 5 ;
+    pdo:rotation 0 ;
+    pdo:width "612.0"^^xsd:float .
+
+<urn:document:0762x2032Door_ProductData.pdf/page_0> a fabio:Page ;
+    dcterms:isPartOf <urn:document:0762x2032Door_ProductData.pdf> ;
+    pdo:height "792.0"^^xsd:float ;
+    pdo:index 0 ;
+    pdo:rotation 0 ;
+    pdo:width "612.0"^^xsd:float .
+
+<urn:document:0762x2032Door_ProductData.pdf/page_13> a fabio:Page ;
+    dcterms:isPartOf <urn:document:0762x2032Door_ProductData.pdf> ;
+    pdo:height "792.0"^^xsd:float ;
+    pdo:index 13 ;
+    pdo:rotation 0 ;
+    pdo:width "612.0"^^xsd:float .
+
+<urn:document:0762x2032Door_ProductData.pdf/page_2> a fabio:Page ;
+    dcterms:isPartOf <urn:document:0762x2032Door_ProductData.pdf> ;
+    pdo:height "792.0"^^xsd:float ;
+    pdo:index 2 ;
+    pdo:rotation 0 ;
+    pdo:width "612.0"^^xsd:float .
+
+<urn:document:0762x2032Door_ProductData.pdf/page_7> a fabio:Page ;
+    dcterms:isPartOf <urn:document:0762x2032Door_ProductData.pdf> ;
+    pdo:height "792.0"^^xsd:float ;
+    pdo:index 7 ;
+    pdo:rotation 0 ;
+    pdo:width "612.0"^^xsd:float .
+
+<urn:document:0762x2032Door_ProductData.pdf/page_9> a fabio:Page ;
+    dcterms:isPartOf <urn:document:0762x2032Door_ProductData.pdf> ;
+    pdo:height "792.0"^^xsd:float ;
+    pdo:index 9 ;
+    pdo:rotation 0 ;
+    pdo:width "612.0"^^xsd:float .
+
+<urn:document:0762x2032Door_ProductData.pdf/page_1> a fabio:Page ;
+    dcterms:isPartOf <urn:document:0762x2032Door_ProductData.pdf> ;
+    pdo:height "792.0"^^xsd:float ;
+    pdo:index 1 ;
+    pdo:rotation 0 ;
+    pdo:width "612.0"^^xsd:float .
+
+<urn:document:0762x2032Door_ProductData.pdf/page_4> a fabio:Page ;
+    dcterms:isPartOf <urn:document:0762x2032Door_ProductData.pdf> ;
+    pdo:height "792.0"^^xsd:float ;
+    pdo:index 4 ;
+    pdo:rotation 0 ;
+    pdo:width "612.0"^^xsd:float .
+
+<urn:document:0762x2032Door_ProductData.pdf/page_6> a fabio:Page ;
+    dcterms:isPartOf <urn:document:0762x2032Door_ProductData.pdf> ;
+    pdo:height "792.0"^^xsd:float ;
+    pdo:index 6 ;
+    pdo:rotation 0 ;
+    pdo:width "612.0"^^xsd:float .
+
+<urn:document:0762x2032Door_ProductData.pdf/page_3> a fabio:Page ;
+    dcterms:isPartOf <urn:document:0762x2032Door_ProductData.pdf> ;
+    pdo:height "792.0"^^xsd:float ;
+    pdo:index 3 ;
+    pdo:rotation 0 ;
+    pdo:width "612.0"^^xsd:float .
+
+<urn:document:0762x2032Door_ProductData.pdf> a fabio:DigitalDocument ;
+    dcterms:created "D:20091028093228-07'00'" ;
+    dcterms:hasFormat "application/pdf" ;
+    dcterms:modified "D:20091028093232-07'00'" ;
+    dcterms:title "0762x2032Door_ProductData.pdf" ;
+    pdo:pageCount 14 ;
+    prov:wasGeneratedBy "Adobe PDF Library 8.0" .
+

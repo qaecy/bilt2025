@@ -1,0 +1,818 @@
+@prefix cnt: <http://www.w3.org/2011/content#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix fabio: <http://purl.org/spar/fabio/> .
+@prefix pdo: <http://www.semanticweb.org/ontologies/pdo#> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<urn:document:Window819x759_ProductData.pdf/page_0/chunk_0> a cnt:ContentAsText ;
+    dcterms:isPartOf <urn:document:Window819x759_ProductData.pdf/page_0> ;
+    pdo:boundingBox "5.0,3.6939992904663086,190.8140106201172,14.86299991607666" ;
+    pdo:font "Tahoma" ;
+    pdo:fontSize "9.0"^^xsd:float ;
+    pdo:index 0 ;
+    cnt:chars " A-Series Picture Windows | Andersen Windows GO My Portfolio Where to Buy Contact Us Search:   For Professionals MAIN IDEAS PRODUCTS LEARN SERVICE ABOUT ANDERSEN Home   >    Window   >    Picture & Transom Windows   >  A-Series Picture Windows A-Series Picture Windows   Where to Buy Save Product Summary   Request a product brochure by download or by mail      Product Index Limited Availability.   Contact an Andersen dealer for details. Custom sizing available" .
+
+<urn:document:Window819x759_ProductData.pdf/page_0/chunk_1> a cnt:ContentAsText ;
+    dcterms:isPartOf <urn:document:Window819x759_ProductData.pdf/page_0> ;
+    pdo:boundingBox "187.0,188.20050048828125,355.4403076171875,199.18124389648438" ;
+    pdo:font "ArialMT" ;
+    pdo:fontSize "8.25"^^xsd:float ;
+    pdo:index 1 ;
+    cnt:chars "High-Performance™ Low-E4® glass provides exceptional energy efficiency Natural wood interior Nine factory-finished interior options Eleven exterior color options Six exterior trim profiles Eight foot tall Heights Composite cladding PG50 standard performance FSC Chain-of-Custody Certified,  Upon Request Base Price:   See Dealer     What’s in the price? Size: View more sizes, prices and configure your window OPTIONS AT A GLANCE Options & Accessories Sizes & Shapes Performance Combinations" .
+
+<urn:document:Window819x759_ProductData.pdf/page_0/chunk_2> a cnt:ContentAsText ;
+    dcterms:isPartOf <urn:document:Window819x759_ProductData.pdf/page_0> ;
+    pdo:boundingBox "400.75,395.2904968261719,470.9410400390625,406.7827453613281" ;
+    pdo:color 3158064 ;
+    pdo:font "ArialNarrow" ;
+    pdo:fontSize "8.25"^^xsd:float ;
+    pdo:index 2 ;
+    cnt:chars "Installation & Warranty For Professionals  Printer friendly version Frame Finishes & Colors Standard Options   Interior Wood Species & Finishes Glass Options   Grille Patterns   Exterior Trim Profiles   Pine Maple Oak Clear Coat Honey Cinnamon Russet Mocha Expresso Primed Painted WhitePainted Birch Exteriors White Canvas Prairie Grass Dove Gray Sandtone Terratone® Red Rock Dark Bronze Forest Green Black Cocoa  Bean Painting and Sealing Exteriors  " .
+
+<urn:document:Window819x759_ProductData.pdf/page_0/chunk_3> a cnt:ContentAsText ;
+    dcterms:isPartOf <urn:document:Window819x759_ProductData.pdf/page_0> ;
+    pdo:boundingBox "5.0,777.6939697265625,604.373046875,788.8629760742188" ;
+    pdo:font "Tahoma" ;
+    pdo:fontSize "9.0"^^xsd:float ;
+    pdo:index 3 ;
+    cnt:chars "†Exterior of glass only, when activated by sunlight. Appropriate selection of Andersen windows, doors, and accessories which conform to all applicable laws, ordinances, building codes and safety requirements is the sole http://www.andersenwindows.com/...2951372825?tab=1-1&tableftnav=1102951372825&tabname=Options+%26+Accessories[9/8/2011 9:38:54 AM]" .
+
+<urn:document:Window819x759_ProductData.pdf/page_1/chunk_0> a cnt:ContentAsText ;
+    dcterms:isPartOf <urn:document:Window819x759_ProductData.pdf/page_1> ;
+    pdo:boundingBox "5.0,3.6939992904663086,190.8140106201172,14.86299991607666" ;
+    pdo:font "Tahoma" ;
+    pdo:fontSize "9.0"^^xsd:float ;
+    pdo:index 0 ;
+    cnt:chars " A-Series Picture Windows | Andersen Windows GO My Portfolio Where to Buy Contact Us Search:   For Professionals MAIN IDEAS PRODUCTS LEARN SERVICE ABOUT ANDERSEN Home   >    Window   >    Picture & Transom Windows   >  A-Series Picture Windows A-Series Picture Windows   Where to Buy Save Product Summary   Request a product brochure by download or by mail      Product Index Limited Availability.   Contact an Andersen dealer for details. Custom sizing available" .
+
+<urn:document:Window819x759_ProductData.pdf/page_1/chunk_1> a cnt:ContentAsText ;
+    dcterms:isPartOf <urn:document:Window819x759_ProductData.pdf/page_1> ;
+    pdo:boundingBox "187.0,188.20050048828125,355.4403076171875,199.18124389648438" ;
+    pdo:font "Arial" ;
+    pdo:fontSize "8.25"^^xsd:float ;
+    pdo:index 1 ;
+    cnt:chars "High-Performance™ Low-E4® glass provides exceptional energy efficiency Natural wood interior Nine factory-finished interior options Eleven exterior color options Six exterior trim profiles Eight foot tall Heights Composite cladding PG50 standard performance FSC Chain-of-Custody Certified,  Upon Request Base Price:   See Dealer     What’s in the price? Size: View more sizes, prices and configure your window OPTIONS AT A GLANCE Options & Accessories Sizes & Shapes Performance Combinations" .
+
+<urn:document:Window819x759_ProductData.pdf/page_1/chunk_2> a cnt:ContentAsText ;
+    dcterms:isPartOf <urn:document:Window819x759_ProductData.pdf/page_1> ;
+    pdo:boundingBox "238.0,510.00299072265625,312.73602294921875,522.5130004882812" ;
+    pdo:font "Arial-Black" ;
+    pdo:fontSize "9.0"^^xsd:float ;
+    pdo:index 2 ;
+    cnt:chars "Installation & Warranty For Professionals  Printer friendly version Glass Type Standard Options   Glass Options   Glass color and tint may vary from unit to unit. Grille Patterns   Exterior Trim Profiles   Low-E4® Glass Low-E4® SmartSun™ Glass Stays cleaner than ordinary glass, eliminates up to 99% of water spots† and cuts energy bills up to 25%*. Also available  tempered for additional safety. Gives you the benefits of Low-E4® glass, plus it helps shield your home from the sun’s" .
+
+<urn:document:Window819x759_ProductData.pdf/page_1/chunk_3> a cnt:ContentAsText ;
+    dcterms:isPartOf <urn:document:Window819x759_ProductData.pdf/page_1> ;
+    pdo:boundingBox "238.0,666.7529907226562,303.7449951171875,679.2630004882812" ;
+    pdo:font "Arial-Black" ;
+    pdo:fontSize "9.0"^^xsd:float ;
+    pdo:index 3 ;
+    cnt:chars "heat and filters out 95% of harmful UV rays while letting sunlight stream through. Also available  tempered  for additional safety. Low-E4® Sun Glass Tinted to work like  sunglasses, it minimizes the effects of intense  sunlight while providing  http://www.andersenwindows.com/...83/1102951372825?tab=1-2&tabname=Options & Accessories&tableftnav=Glass Options[9/8/2011 9:40:02 AM]" .
+
+<urn:document:Window819x759_ProductData.pdf/page_2/chunk_0> a cnt:ContentAsText ;
+    dcterms:isPartOf <urn:document:Window819x759_ProductData.pdf/page_2> ;
+    pdo:boundingBox "5.0,3.6939992904663086,190.8140106201172,14.86299991607666" ;
+    pdo:font "Tahoma" ;
+    pdo:fontSize "9.0"^^xsd:float ;
+    pdo:index 0 ;
+    cnt:chars " A-Series Picture Windows | Andersen Windows all the benefits of  Low-E4® glass. Also available tempered  for additional safety. Learn more about Andersen's High-Performance™ Low-E4® glass Learn more about Andersen's Low-E4 SmartSun™ glass. Patterned Glass Options Patterned glass is available with most standard and tempered glass options. See your Andersen dealer for details on these and additional patterned glass options. Obscure Cascade Fern Reed" .
+
+<urn:document:Window819x759_ProductData.pdf/page_2/chunk_1> a cnt:ContentAsText ;
+    dcterms:isPartOf <urn:document:Window819x759_ProductData.pdf/page_2> ;
+    pdo:boundingBox "174.9969940185547,330.7034912109375,548.1279296875,341.6842346191406" ;
+    pdo:font "Arial" ;
+    pdo:fontSize "8.25"^^xsd:float ;
+    pdo:index 1 ;
+    cnt:chars "Other glazing options are also available. Please contact your Andersen supplier for more information. * A study of identical homes comparing low-e to ordinary dual pane glass showed 25% in savings on cooling bills, 10% on heating bills. Savings may vary geographically.   †Exterior of glass only, when activated by sunlight. Appropriate selection of Andersen windows, doors, and accessories which conform to all applicable laws, ordinances, building codes and safety requirements is the sole" .
+
+<urn:document:Window819x759_ProductData.pdf/page_2/chunk_2> a cnt:ContentAsText ;
+    dcterms:isPartOf <urn:document:Window819x759_ProductData.pdf/page_2> ;
+    pdo:boundingBox "20.5,431.9595031738281,497.4479675292969,440.9437561035156" ;
+    pdo:color 6710886 ;
+    pdo:font "Arial" ;
+    pdo:fontSize "6.75"^^xsd:float ;
+    pdo:index 2 ;
+    cnt:chars "responsibility of the architect, building owner and/or contractor. Check with your local Andersen supplier and building code officials for specific information. The product information available on this website is not, and is not intended to be complete. Be sure to verify with your architect or contractor that the windows, patio doors and accessories you select are suitable for your project. Your local Andersen dealer can then confirm availability and actual prices." .
+
+<urn:document:Window819x759_ProductData.pdf/page_2/chunk_3> a cnt:ContentAsText ;
+    dcterms:isPartOf <urn:document:Window819x759_ProductData.pdf/page_2> ;
+    pdo:boundingBox "5.0,777.6939697265625,602.4560546875,788.8629760742188" ;
+    pdo:font "Tahoma" ;
+    pdo:fontSize "9.0"^^xsd:float ;
+    pdo:index 3 ;
+    cnt:chars "Individual computer and monitor settings may prevent exact product color and hardware finish duplication. Please see your Andersen dealer for exact color and finish samples. Brochure Request  Dealer Tools  Privacy & Legal  Link To Andersen  Join us on:        http://www.andersenwindows.com/...83/1102951372825?tab=1-2&tabname=Options & Accessories&tableftnav=Glass Options[9/8/2011 9:40:02 AM]" .
+
+<urn:document:Window819x759_ProductData.pdf/page_3/chunk_0> a cnt:ContentAsText ;
+    dcterms:isPartOf <urn:document:Window819x759_ProductData.pdf/page_3> ;
+    pdo:boundingBox "5.0,3.6939992904663086,190.8140106201172,14.86299991607666" ;
+    pdo:font "Tahoma" ;
+    pdo:fontSize "9.0"^^xsd:float ;
+    pdo:index 0 ;
+    cnt:chars " A-Series Picture Windows | Andersen Windows GO My Portfolio Where to Buy Contact Us Search:   For Professionals MAIN IDEAS PRODUCTS LEARN SERVICE ABOUT ANDERSEN Home   >    Window   >    Picture & Transom Windows   >  A-Series Picture Windows A-Series Picture Windows   Where to Buy Save Product Summary   Request a product brochure by download or by mail      Product Index Limited Availability.   Contact an Andersen dealer for details. Custom sizing available" .
+
+<urn:document:Window819x759_ProductData.pdf/page_3/chunk_1> a cnt:ContentAsText ;
+    dcterms:isPartOf <urn:document:Window819x759_ProductData.pdf/page_3> ;
+    pdo:boundingBox "187.0,188.20050048828125,355.4403076171875,199.18124389648438" ;
+    pdo:font "Arial" ;
+    pdo:fontSize "8.25"^^xsd:float ;
+    pdo:index 1 ;
+    cnt:chars "High-Performance™ Low-E4® glass provides exceptional energy efficiency Natural wood interior Nine factory-finished interior options Eleven exterior color options Six exterior trim profiles Eight foot tall Heights Composite cladding PG50 standard performance FSC Chain-of-Custody Certified,  Upon Request Base Price:   See Dealer     What’s in the price? Size: View more sizes, prices and configure your window OPTIONS AT A GLANCE Options & Accessories Sizes & Shapes Performance Combinations" .
+
+<urn:document:Window819x759_ProductData.pdf/page_3/chunk_2> a cnt:ContentAsText ;
+    dcterms:isPartOf <urn:document:Window819x759_ProductData.pdf/page_3> ;
+    pdo:boundingBox "400.75,395.2904968261719,470.9410400390625,406.7827453613281" ;
+    pdo:color 3158064 ;
+    pdo:font "ArialNarrow" ;
+    pdo:fontSize "8.25"^^xsd:float ;
+    pdo:index 2 ;
+    cnt:chars "Installation & Warranty For Professionals  Printer friendly version Grille Patterns Standard Options   Glass Options   Grille patterns may be different than those shown below based on the size of the unit. See your Andersen dealer for more information. Grille Patterns   Standard Patterns Exterior Trim Profiles   Short Fractional Tall Fractional Colonial Colonial Modified Colonial Check Rail Short Fractional Check Rail Tall Fractional Check Rail Prairie A Diamond Specified Equal Light Patterns" .
+
+<urn:document:Window819x759_ProductData.pdf/page_3/chunk_3> a cnt:ContentAsText ;
+    dcterms:isPartOf <urn:document:Window819x759_ProductData.pdf/page_3> ;
+    pdo:boundingBox "5.0,777.6939697265625,604.18408203125,788.8629760742188" ;
+    pdo:font "Tahoma" ;
+    pdo:fontSize "9.0"^^xsd:float ;
+    pdo:index 3 ;
+    cnt:chars "2 Wide 1 High 3 Wide 1 High 1 Wide 2 High 2 Wide 2 High 3 Wide 2 High 1 Wide 3 High 2 Wide 3 High 3 Wide 3 High 1 Wide 4 High 2 Wide 4 High 3 Wide 4 High http://www.andersenwindows.com/...83/1102951372825?tab=1-3&tabname=Options & Accessories&tableftnav=Grille Patterns[9/8/2011 9:41:09 AM]" .
+
+<urn:document:Window819x759_ProductData.pdf/page_4/chunk_0> a cnt:ContentAsText ;
+    dcterms:isPartOf <urn:document:Window819x759_ProductData.pdf/page_4> ;
+    pdo:boundingBox "5.0,3.6939992904663086,190.8140106201172,14.86299991607666" ;
+    pdo:font "Tahoma" ;
+    pdo:fontSize "9.0"^^xsd:float ;
+    pdo:index 0 ;
+    cnt:chars " A-Series Picture Windows | Andersen Windows Custom Patterns Custom 1 Custom 2 Queen Anne Please contact your Andersen dealer or contractor to create a custom grille Grille Types   Removable Interior Grilles Removable Interior Grilles with Permanent Exterior Grilles Permanent Exterior and Permanent Interior Grilles Finelight™ Grilles are installed between glass panes Permanent Exterior and Permanent Interior Grilles with Spacer Grille Finishes & Colors Interiors Pine Maple Oak Clear Coat Honey" .
+
+<urn:document:Window819x759_ProductData.pdf/page_4/chunk_1> a cnt:ContentAsText ;
+    dcterms:isPartOf <urn:document:Window819x759_ProductData.pdf/page_4> ;
+    pdo:boundingBox "175.00375366210938,431.19976806640625,369.1015625,442.1805114746094" ;
+    pdo:font "Arial" ;
+    pdo:fontSize "8.25"^^xsd:float ;
+    pdo:index 1 ;
+    cnt:chars "Cinnamon Russet Mocha Expresso Primed Painted WhitePainted Birch Pine is only available for permanently applied grilles. Removable interior grilles are available standard in maple, also available in oak. Exteriors White Canvas Prairie Grass Dove Gray Sandtone Terratone® Red Rock Dark Bronze Forest Green Black Cocoa  Bean Grille Widths Finelight™ Grilles Available in 3/4\" and 1\" profile with a two-tone color option. Interior grille" .
+
+<urn:document:Window819x759_ProductData.pdf/page_4/chunk_2> a cnt:ContentAsText ;
+    dcterms:isPartOf <urn:document:Window819x759_ProductData.pdf/page_4> ;
+    pdo:boundingBox "5.0,777.6939697265625,604.18408203125,788.8629760742188" ;
+    pdo:font "Tahoma" ;
+    pdo:fontSize "9.0"^^xsd:float ;
+    pdo:index 2 ;
+    cnt:chars "color matches the exterior color if the interior of the window or door is wood. If interior window or door color is prefinished white, interior grille color will be white. See your Andersen dealer for more information. Standard width for all windows  http://www.andersenwindows.com/...83/1102951372825?tab=1-3&tabname=Options & Accessories&tableftnav=Grille Patterns[9/8/2011 9:41:09 AM]" .
+
+<urn:document:Window819x759_ProductData.pdf/page_5/chunk_0> a cnt:ContentAsText ;
+    dcterms:isPartOf <urn:document:Window819x759_ProductData.pdf/page_5> ;
+    pdo:boundingBox "5.0,3.6939992904663086,190.8140106201172,14.86299991607666" ;
+    pdo:font "Tahoma" ;
+    pdo:fontSize "9.0"^^xsd:float ;
+    pdo:index 0 ;
+    cnt:chars " A-Series Picture Windows | Andersen Windows Available with windows, but more often used on patio doors   Available with windows, but more often used on patio doors Used to simulate a check rail. Available only with permanently applied grilles. Chamfer profile for permantly applied grilles shown above. Not all patterns and options may be available in all grille types, see your Andersen Dealer for more information. †Exterior of glass only, when activated by sunlight." .
+
+<urn:document:Window819x759_ProductData.pdf/page_5/chunk_1> a cnt:ContentAsText ;
+    dcterms:isPartOf <urn:document:Window819x759_ProductData.pdf/page_5> ;
+    pdo:boundingBox "20.5,391.46099853515625,542.0855712890625,400.44525146484375" ;
+    pdo:color 6710886 ;
+    pdo:font "Arial" ;
+    pdo:fontSize "6.75"^^xsd:float ;
+    pdo:index 1 ;
+    cnt:chars "Appropriate selection of Andersen windows, doors, and accessories which conform to all applicable laws, ordinances, building codes and safety requirements is the sole responsibility of the architect, building owner and/or contractor. Check with your local Andersen supplier and building code officials for specific information." .
+
+<urn:document:Window819x759_ProductData.pdf/page_5/chunk_2> a cnt:ContentAsText ;
+    dcterms:isPartOf <urn:document:Window819x759_ProductData.pdf/page_5> ;
+    pdo:boundingBox "21.25,479.20050048828125,90.29425048828125,490.1812438964844" ;
+    pdo:font "Arial" ;
+    pdo:fontSize "8.25"^^xsd:float ;
+    pdo:index 2 ;
+    cnt:chars "The product information available on this website is not, and is not intended to be complete. Be sure to verify with your architect or contractor that the windows, patio doors and accessories you select are suitable for your project. Your local Andersen dealer can then confirm availability and actual prices. Individual computer and monitor settings may prevent exact product color and hardware finish duplication. Please see your Andersen dealer for exact color and finish samples. Brochure Request " .
+
+<urn:document:Window819x759_ProductData.pdf/page_5/chunk_3> a cnt:ContentAsText ;
+    dcterms:isPartOf <urn:document:Window819x759_ProductData.pdf/page_5> ;
+    pdo:boundingBox "5.0,777.6939697265625,604.18408203125,788.8629760742188" ;
+    pdo:font "Tahoma" ;
+    pdo:fontSize "9.0"^^xsd:float ;
+    pdo:index 3 ;
+    cnt:chars "Dealer Tools  Privacy & Legal  Link To Andersen  Join us on:        http://www.andersenwindows.com/...83/1102951372825?tab=1-3&tabname=Options & Accessories&tableftnav=Grille Patterns[9/8/2011 9:41:09 AM]" .
+
+<urn:document:Window819x759_ProductData.pdf/page_6/chunk_0> a cnt:ContentAsText ;
+    dcterms:isPartOf <urn:document:Window819x759_ProductData.pdf/page_6> ;
+    pdo:boundingBox "5.0,3.6939992904663086,190.8140106201172,14.86299991607666" ;
+    pdo:font "Tahoma" ;
+    pdo:fontSize "9.0"^^xsd:float ;
+    pdo:index 0 ;
+    cnt:chars " A-Series Picture Windows | Andersen Windows GO My Portfolio Where to Buy Contact Us Search:   For Professionals MAIN IDEAS PRODUCTS LEARN SERVICE ABOUT ANDERSEN Home   >    Window   >    Picture & Transom Windows   >  A-Series Picture Windows A-Series Picture Windows   Where to Buy Save Product Summary   Request a product brochure by download or by mail      Product Index Limited Availability.   Contact an Andersen dealer for details. Custom sizing available" .
+
+<urn:document:Window819x759_ProductData.pdf/page_6/chunk_1> a cnt:ContentAsText ;
+    dcterms:isPartOf <urn:document:Window819x759_ProductData.pdf/page_6> ;
+    pdo:boundingBox "187.0,188.20050048828125,355.4403076171875,199.18124389648438" ;
+    pdo:font "Arial" ;
+    pdo:fontSize "8.25"^^xsd:float ;
+    pdo:index 1 ;
+    cnt:chars "High-Performance™ Low-E4® glass provides exceptional energy efficiency Natural wood interior Nine factory-finished interior options Eleven exterior color options Six exterior trim profiles Eight foot tall Heights Composite cladding PG50 standard performance FSC Chain-of-Custody Certified,  Upon Request Base Price:   See Dealer     What’s in the price? Size: View more sizes, prices and configure your window OPTIONS AT A GLANCE Options & Accessories Sizes & Shapes Performance Combinations" .
+
+<urn:document:Window819x759_ProductData.pdf/page_6/chunk_2> a cnt:ContentAsText ;
+    dcterms:isPartOf <urn:document:Window819x759_ProductData.pdf/page_6> ;
+    pdo:boundingBox "234.25,531.0029907226562,307.2489929199219,543.5130004882812" ;
+    pdo:font "Arial-Black" ;
+    pdo:fontSize "9.0"^^xsd:float ;
+    pdo:index 2 ;
+    cnt:chars "Installation & Warranty For Professionals  Printer friendly version Exterior Trim Profiles Standard Options   Glass Options   Grille Patterns   Exterior Trim Profiles   Achieve distinct architectural styles with a trim system that lets you choose from six profiles and 11 standard colors. You can select matching colors, or use different colors to set the trim apart from your window and door frames. All trim below shown with Sandtone color frame. 2” Brick Mould 3-1/2” or 4-1/2” Flat    " .
+
+<urn:document:Window819x759_ProductData.pdf/page_6/chunk_3> a cnt:ContentAsText ;
+    dcterms:isPartOf <urn:document:Window819x759_ProductData.pdf/page_6> ;
+    pdo:boundingBox "234.25,621.0029907226562,308.75201416015625,633.5130004882812" ;
+    pdo:font "Arial-Black" ;
+    pdo:fontSize "9.0"^^xsd:float ;
+    pdo:index 3 ;
+    cnt:chars "3-1/2” or 4-1/2” Flat with Extended Top Decorative Drip Cap with 3-1/2” or 4-1/2” Flat     3-5/8” Cornice Top with 3-1/2” or 4-1/2” Flat 2” Cornice Top with 3-1/2” or 4- 1/2” Flat http://www.andersenwindows.com/...2951372825?tab=1-4&tabname=Options & Accessories&tableftnav=Exterior Trim Profiles[9/8/2011 9:41:42 AM]" .
+
+<urn:document:Window819x759_ProductData.pdf/page_7/chunk_0> a cnt:ContentAsText ;
+    dcterms:isPartOf <urn:document:Window819x759_ProductData.pdf/page_7> ;
+    pdo:boundingBox "5.0,3.6939992904663086,190.8140106201172,14.86299991607666" ;
+    pdo:font "Tahoma" ;
+    pdo:fontSize "9.0"^^xsd:float ;
+    pdo:index 0 ;
+    cnt:chars " A-Series Picture Windows | Andersen Windows     Exteriors White Canvas Prairie Grass Dove Gray Sandtone Terratone® Red Rock Dark Bronze Forest Green Black Cocoa  Bean  Exterior Trim Options and Application     †Exterior of glass only, when activated by sunlight. Appropriate selection of Andersen windows, doors, and accessories which conform to all applicable laws, ordinances, building codes and safety requirements is the sole" .
+
+<urn:document:Window819x759_ProductData.pdf/page_7/chunk_1> a cnt:ContentAsText ;
+    dcterms:isPartOf <urn:document:Window819x759_ProductData.pdf/page_7> ;
+    pdo:boundingBox "20.5,292.4595031738281,497.4479675292969,301.4437561035156" ;
+    pdo:color 6710886 ;
+    pdo:font "Arial" ;
+    pdo:fontSize "6.75"^^xsd:float ;
+    pdo:index 1 ;
+    cnt:chars "responsibility of the architect, building owner and/or contractor. Check with your local Andersen supplier and building code officials for specific information. The product information available on this website is not, and is not intended to be complete. Be sure to verify with your architect or contractor that the windows, patio doors and accessories you select are suitable for your project. Your local Andersen dealer can then confirm availability and actual prices." .
+
+<urn:document:Window819x759_ProductData.pdf/page_7/chunk_2> a cnt:ContentAsText ;
+    dcterms:isPartOf <urn:document:Window819x759_ProductData.pdf/page_7> ;
+    pdo:boundingBox "5.0,777.6939697265625,603.7340698242188,788.8629760742188" ;
+    pdo:font "Tahoma" ;
+    pdo:fontSize "9.0"^^xsd:float ;
+    pdo:index 2 ;
+    cnt:chars "Individual computer and monitor settings may prevent exact product color and hardware finish duplication. Please see your Andersen dealer for exact color and finish samples. Brochure Request  Dealer Tools  Privacy & Legal  Link To Andersen  Join us on:        http://www.andersenwindows.com/...2951372825?tab=1-4&tabname=Options & Accessories&tableftnav=Exterior Trim Profiles[9/8/2011 9:41:42 AM]" .
+
+<urn:document:Window819x759_ProductData.pdf/page_8/chunk_0> a cnt:ContentAsText ;
+    dcterms:isPartOf <urn:document:Window819x759_ProductData.pdf/page_8> ;
+    pdo:boundingBox "29.36590003967285,12.694013595581055,178.8658905029297,39.2130126953125" ;
+    pdo:color 2301728 ;
+    pdo:font "FranklinGothic-DemiCnd" ;
+    pdo:fontSize "23.0"^^xsd:float ;
+    pdo:index 0 ;
+    cnt:chars " Windows & Doors What is NOT covered by this limited warranty, continued: Damage caused by the following: •  Improper installation or use, including use of a non-commercial door as a main entrance  Andersen Windows, Inc. or exit door for a building other than a single-family residential unit or re-installing an  Andersen window or door after it has been removed from a building and re-sold and/or  re-installed in a different building. " .
+
+<urn:document:Window819x759_ProductData.pdf/page_8/chunk_1> a cnt:ContentAsText ;
+    dcterms:isPartOf <urn:document:Window819x759_ProductData.pdf/page_8> ;
+    pdo:boundingBox "162.3896026611328,44.39600372314453,305.4179992675781,100.89300537109375" ;
+    pdo:color 2301728 ;
+    pdo:font "FranklinGothic-DemiCnd" ;
+    pdo:fontSize "49.0"^^xsd:float ;
+    pdo:index 1 ;
+    cnt:chars """•  Exposure to conditions beyond published performance specifications. •   Water infiltration other than as a result of a defect in manufacturing, materials or workmanship. •  Condensation. •   Improper maintenance, such as use of brick wash, razor blades, sealants, sanding or improper  washing. •  Failing to properly seal the exposed wood portions of a product. This includes, but is not  Limited
+  Warranty Andersen ®  windows and doors are warranted in two ways.""" .
+
+<urn:document:Window819x759_ProductData.pdf/page_8/chunk_10> a cnt:ContentAsText ;
+    dcterms:isPartOf <urn:document:Window819x759_ProductData.pdf/page_8> ;
+    pdo:boundingBox "36.69350051879883,360.4739990234375,129.69602966308594,371.27398681640625" ;
+    pdo:color 2301728 ;
+    pdo:font "TradeGothicLTStd-BdCn20" ;
+    pdo:fontSize "8.954887390136719"^^xsd:float ;
+    pdo:index 10 ;
+    cnt:chars """not included; or (2) provide a factory-authorized repair to the existing glass at no cost to you; or  (3) refund the purchase price or the retailer’s/dealer’s price at the time of the original purchase,  whichever is less. Such replacement or repair is warranted for the remainder of the original  limited warranty period. Components Other Than Glass 
+ Ten (10) Year Transferable Limited Warranty  Non-glass portions of Andersen ®  windows and doors (including non-electric operators, locks, """ .
+
+<urn:document:Window819x759_ProductData.pdf/page_8/chunk_11> a cnt:ContentAsText ;
+    dcterms:isPartOf <urn:document:Window819x759_ProductData.pdf/page_8> ;
+    pdo:boundingBox "36.69350051879883,390.42999267578125,298.813720703125,399.75799560546875" ;
+    pdo:color 2301728 ;
+    pdo:font "TradeGothicLTStd-Cn18" ;
+    pdo:fontSize "8.0"^^xsd:float ;
+    pdo:index 11 ;
+    cnt:chars "lifts, balance systems, hinges, handles, insect screens, weatherstripping, exterior trim, sash  and frame members) are warranted to be free from defects in manufacturing, materials and  workmanship for a period of ten (10) years from the date of purchase from the retailer/dealer. This  limited warranty does not apply to Andersen electric window operators, retractable insect screens  or finishes on bright brass and satin nickel door hardware. The non-glass portions of Andersen ®  " .
+
+<urn:document:Window819x759_ProductData.pdf/page_8/chunk_12> a cnt:ContentAsText ;
+    dcterms:isPartOf <urn:document:Window819x759_ProductData.pdf/page_8> ;
+    pdo:boundingBox "319.8450012207031,395.6748046875,436.1925048828125,406.47479248046875" ;
+    pdo:color 2301728 ;
+    pdo:font "TradeGothicLTStd-BdCn20" ;
+    pdo:fontSize "8.954887390136719"^^xsd:float ;
+    pdo:index 12 ;
+    cnt:chars "architectural windows and doors with wood exteriors and commercial doors are subject to a  limited warranty with a five (5) year period, but otherwise identical to the ten (10) year limited  warranty described above. How to register your Owner-To-Owner ®  limited warranty Andersen offers quick, easy warranty registration on our website. Just go to     www.andersenwindows.com/warranty  and submit your  warranty information online. By registering, you will expedite " .
+
+<urn:document:Window819x759_ProductData.pdf/page_8/chunk_13> a cnt:ContentAsText ;
+    dcterms:isPartOf <urn:document:Window819x759_ProductData.pdf/page_8> ;
+    pdo:boundingBox "319.8450012207031,495.36480712890625,369.9195251464844,506.164794921875" ;
+    pdo:color 2301728 ;
+    pdo:font "TradeGothicLTStd-BdCn20" ;
+    pdo:fontSize "8.954887390136719"^^xsd:float ;
+    pdo:index 13 ;
+    cnt:chars "any warranty service you may have in the future. In addition,  you can receive product information updates, safety notices  and special offers regarding new products, as well as  information regarding enhancements for the windows and  doors you’ve  registered. All warranty information is treated  confidentially and will not be sold or traded to any person or  organization outside of Andersen and the Andersen Dealer Network. How to get help " .
+
+<urn:document:Window819x759_ProductData.pdf/page_8/chunk_14> a cnt:ContentAsText ;
+    dcterms:isPartOf <urn:document:Window819x759_ProductData.pdf/page_8> ;
+    pdo:boundingBox "319.8450012207031,506.3808288574219,578.8295288085938,515.7088623046875" ;
+    pdo:color 2301728 ;
+    pdo:font "TradeGothicLTStd-Cn18" ;
+    pdo:fontSize "8.0"^^xsd:float ;
+    pdo:index 14 ;
+    cnt:chars """For further information or to make a claim within this limited warranty period, please contact  the Andersen retailer/dealer who supplied you with your Andersen ®  product. If unavailable or  unknown to you, you may contact us at: In the event a component other than glass fails as a result of a defect in manufacturing,  materials or workmanship within the limited warranty period, Andersen, at its option, will: 
+""" .
+
+<urn:document:Window819x759_ProductData.pdf/page_8/chunk_15> a cnt:ContentAsText ;
+    dcterms:isPartOf <urn:document:Window819x759_ProductData.pdf/page_8> ;
+    pdo:boundingBox "36.69350051879883,523.553955078125,143.71144104003906,534.35400390625" ;
+    pdo:color 2301728 ;
+    pdo:font "TradeGothicLTStd-BdCn20" ;
+    pdo:fontSize "8.954887390136719"^^xsd:float ;
+    pdo:index 15 ;
+    cnt:chars "(1) provide replacement parts to the Andersen retailer/dealer you specify — labor is not included;  or (2) provide a factory-authorized repair to the existing component at no cost to you; or (3)  refund the original purchase price or retailer’s/dealer’s price at the time of the original purchase,  whichever is less. Such replacement parts or repairs are warranted for the remainder of the  original limited warranty period. General Conditions and Exclusions" .
+
+<urn:document:Window819x759_ProductData.pdf/page_8/chunk_16> a cnt:ContentAsText ;
+    dcterms:isPartOf <urn:document:Window819x759_ProductData.pdf/page_8> ;
+    pdo:boundingBox "36.69350051879883,534.5700073242188,298.7975769042969,543.8980102539062" ;
+    pdo:color 2301728 ;
+    pdo:font "TradeGothicLTStd-Cn18" ;
+    pdo:fontSize "8.0"^^xsd:float ;
+    pdo:index 16 ;
+    cnt:chars "The limited warranty set forth in this document is the only express warranty (whether written or  oral) applicable to Andersen ®  windows and doors, and no one is authorized to modify or expand  this limited warranty. All warranty claims must be made during the applicable warranty period. Andersen Windows, Inc. / Andersen Service Center 100 Fourth Avenue North Bayport, MN  55003-1096 You may also contact us using the Service section of our web site at     www.andersenwindows.com" .
+
+<urn:document:Window819x759_ProductData.pdf/page_8/chunk_17> a cnt:ContentAsText ;
+    dcterms:isPartOf <urn:document:Window819x759_ProductData.pdf/page_8> ;
+    pdo:boundingBox "319.8450012207031,586.0548095703125,574.5031127929688,596.8548583984375" ;
+    pdo:color 2301728 ;
+    pdo:font "TradeGothicLTStd-BdCn20" ;
+    pdo:fontSize "8.954887390136719"^^xsd:float ;
+    pdo:index 17 ;
+    cnt:chars """ or reach us by phone at 1-888-888-7020. You can help us serve you faster by providing the following important information: •   Description of the product such as the exterior color, unit type and size and inside visible glass  ALL IMPLIED WARRANTIES INCLUDING MERCHANTABILITY AND FITNESS FOR A PARTICULAR 
+ PURPOSE ARE LIMITED TO THE APPLICABLE STATUTE OF LIMITATION, BUT IN NO CASE WILL  EXTEND BEYOND THE TERM OF THE LIMITED WARRANTIES SET FORTH ABOVE.  ANDERSEN """ .
+
+<urn:document:Window819x759_ProductData.pdf/page_8/chunk_18> a cnt:ContentAsText ;
+    dcterms:isPartOf <urn:document:Window819x759_ProductData.pdf/page_8> ;
+    pdo:boundingBox "36.69350051879883,589.9580078125,298.7655944824219,599.5579833984375" ;
+    pdo:color 2301728 ;
+    pdo:font "TradeGothicLTStd-BdCn20" ;
+    pdo:fontSize "8.0"^^xsd:float ;
+    pdo:index 18 ;
+    cnt:chars "EXCLUDES AND WILL NOT PAY FOR INCIDENTAL OR CONSEQUENTIAL DAMAGES, WHETHER  ARISING OUT OF CONTRACT, TORT OR OTHERWISE, AND ITS LIABILITY WILL IN ALL INSTANCES  BE LIMITED TO THE REPAIR OR REPLACEMENT OR REFUND OF THE ACTUAL PURCHASE PRICE  OF THE DEFECTIVE PRODUCT. measurements. •  Glass logo information etched in the inside corner of the glass. •  Description of product concerns. •  Documentation of the purchase date, if available." .
+
+<urn:document:Window819x759_ProductData.pdf/page_8/chunk_19> a cnt:ContentAsText ;
+    dcterms:isPartOf <urn:document:Window819x759_ProductData.pdf/page_8> ;
+    pdo:boundingBox "319.8450012207031,641.07080078125,572.5576171875,650.3988037109375" ;
+    pdo:color 2301728 ;
+    pdo:font "TradeGothicLTStd-Cn18" ;
+    pdo:fontSize "8.0"^^xsd:float ;
+    pdo:index 19 ;
+    cnt:chars """•  Your name, address (with zip code) where the product is installed and telephone numbers. Some states do not allow the exclusion or limitation of incidental or consequential damages or  limitation of the duration of an implied warranty, so the above limitations or exclusions may not  apply to you.  This limited warranty is only applicable in the U.S.A. (i.e. the fifty states and the District of 
+ Columbia). This limited warranty gives you specific legal rights, and you may also have other """ .
+
+<urn:document:Window819x759_ProductData.pdf/page_8/chunk_2> a cnt:ContentAsText ;
+    dcterms:isPartOf <urn:document:Window819x759_ProductData.pdf/page_8> ;
+    pdo:boundingBox "319.8450012207031,187.73483276367188,485.91973876953125,198.53482055664062" ;
+    pdo:color 2301728 ;
+    pdo:font "TradeGothicLTStd-BdCn20" ;
+    pdo:fontSize "8.954887390136719"^^xsd:float ;
+    pdo:index 2 ;
+    cnt:chars "limited to, the exposed wood on all sides of a door panel (e.g., exterior, interior, top, bottom,  and both sides), a door frame and wood grilles. •  Chemicals or airborne pollutants, such as salt or acid rain. •  Delivery by others. •  Accidents. •  Acts of God. •  Normal wear and tear.  Additional items excluded from this limited warranty: •  Labor to replace sash or door panels, glass or other components. •  Labor and other costs related to the removal and disposal of defective product." .
+
+<urn:document:Window819x759_ProductData.pdf/page_8/chunk_20> a cnt:ContentAsText ;
+    dcterms:isPartOf <urn:document:Window819x759_ProductData.pdf/page_8> ;
+    pdo:boundingBox "36.69350051879883,675.0700073242188,150.2854461669922,684.3980102539062" ;
+    pdo:color 2301728 ;
+    pdo:font "TradeGothicLTStd-Cn18" ;
+    pdo:fontSize "8.0"^^xsd:float ;
+    pdo:index 20 ;
+    cnt:chars "rights which may vary from state to state. If the limited warranty period has expired or for repairs not covered by the limited warranty,  many replacement parts are available for purchase. When warranty coverage is unclear,  Andersen may charge an inspection fee for any on-site product inspection. If the inspector  determines the Andersen ®  product has a defect covered by this limited warranty, the inspection  fee will be waived. For specific warranty information outside the United States, " .
+
+<urn:document:Window819x759_ProductData.pdf/page_8/chunk_21> a cnt:ContentAsText ;
+    dcterms:isPartOf <urn:document:Window819x759_ProductData.pdf/page_8> ;
+    pdo:boundingBox "36.69350051879883,690.2139892578125,175.422119140625,701.0140380859375" ;
+    pdo:color 2301728 ;
+    pdo:font "TradeGothicLTStd-BdCn20" ;
+    pdo:fontSize "8.954887390136719"^^xsd:float ;
+    pdo:index 21 ;
+    cnt:chars """please contact your local distributor or write to: What is NOT covered by this limited warranty 
+ Product failure or damage due to improper installation or modification including: •  Adjustments or corrections due to improper installation. •  Failures due to product modifications or glass shading devices (e.g., glass tinting, 
+ Andersen Corporation /International Division 100 Fourth Avenue North Bayport, MN 55003-1096      USA""" .
+
+<urn:document:Window819x759_ProductData.pdf/page_8/chunk_22> a cnt:ContentAsText ;
+    dcterms:isPartOf <urn:document:Window819x759_ProductData.pdf/page_8> ;
+    pdo:boundingBox "43.89350128173828,728.2300415039062,245.8293914794922,737.5580444335938" ;
+    pdo:color 2301728 ;
+    pdo:font "TradeGothicLTStd-Cn18" ;
+    pdo:fontSize "8.0"^^xsd:float ;
+    pdo:index 22 ;
+    cnt:chars """security systems, improper painting or staining, insulated coverings, etc.). •  Units improperly assembled or improperly mulled by others.  •  Failure due to the application of non-Andersen hardware 
+ “Andersen” and all other marks where denoted are trademarks of Andersen Corporation. © 2011 Andersen Corporation. All rights reserved. Printed and effective as of March 2011. (e.g., locksets, trim sets, hinges, panic hardware, closers, etc.).""" .
+
+<urn:document:Window819x759_ProductData.pdf/page_8/chunk_23> a cnt:ContentAsText ;
+    dcterms:isPartOf <urn:document:Window819x759_ProductData.pdf/page_8> ;
+    pdo:boundingBox "36.69350051879883,763.4800415039062,221.33905029296875,772.8080444335938" ;
+    pdo:color 2301728 ;
+    pdo:font "TradeGothicLTStd-Cn18" ;
+    pdo:fontSize "8.0"^^xsd:float ;
+    pdo:index 23 ;
+    cnt:chars "•  Failure to properly install Andersen hardware and/or exterior trim.    4780500   BD     Revised 03/31/11" .
+
+<urn:document:Window819x759_ProductData.pdf/page_8/chunk_3> a cnt:ContentAsText ;
+    dcterms:isPartOf <urn:document:Window819x759_ProductData.pdf/page_8> ;
+    pdo:boundingBox "36.69350051879883,144.59402465820312,53.47993469238281,155.39401245117188" ;
+    pdo:color 2301728 ;
+    pdo:font "TradeGothicLTStd-BdCn20" ;
+    pdo:fontSize "8.954887390136719"^^xsd:float ;
+    pdo:index 3 ;
+    cnt:chars """•  Labor and materials to paint or stain any repaired or replaced product, component, 
+ trim or other carpentry work that may be required.  •  Products not manufactured by Andersen. •  The performance of the low-maintenance exterior glass coating on products with  High-Performance ™  Low-E4 ®  glass.  Performance will vary depending on environmental  conditions. •  Minor warping of wood and clad-wood doors. Andersen may defer actions on any claim 
+ Glass  
+""" .
+
+<urn:document:Window819x759_ProductData.pdf/page_8/chunk_4> a cnt:ContentAsText ;
+    dcterms:isPartOf <urn:document:Window819x759_ProductData.pdf/page_8> ;
+    pdo:boundingBox "36.69350051879883,155.03402709960938,184.2252197265625,165.83401489257812" ;
+    pdo:color 2301728 ;
+    pdo:font "TradeGothicLTStd-BdCn20" ;
+    pdo:fontSize "8.954887390136719"^^xsd:float ;
+    pdo:index 4 ;
+    cnt:chars "Twenty (20) Year Transferable Limited Warranty The glass in Andersen ®  factory glazed window and door units (including dual-pane glass, High- Performance ™  Low-E4 ®  glass, High-Performance ™  Low-E4 ®  Sun glass, High-Performance ™   Low-E4 ®  SmartSun ™  glass, Low-E glass, patterned glass (including: obscure, pebble, fern,  reed and cascade designs), Finelight ™  grilles, divided light grilles and tempered versions " .
+
+<urn:document:Window819x759_ProductData.pdf/page_8/chunk_5> a cnt:ContentAsText ;
+    dcterms:isPartOf <urn:document:Window819x759_ProductData.pdf/page_8> ;
+    pdo:boundingBox "36.693599700927734,200.05001831054688,298.7977294921875,209.37802124023438" ;
+    pdo:color 2301728 ;
+    pdo:font "TradeGothicLTStd-Cn18" ;
+    pdo:fontSize "8.0"^^xsd:float ;
+    pdo:index 5 ;
+    cnt:chars "of these glass options) is warranted to be free from defects in manufacturing, materials  and workmanship for twenty (20) years from the date of purchase from the retailer/dealer.  It is also warranted not to develop, under normal conditions, any material obstruction of  vision resulting from manufacturing defects or as a result of premature failure of the glass  or organic seal for twenty (20) years from the date of purchase from the retailer/dealer. " .
+
+<urn:document:Window819x759_ProductData.pdf/page_8/chunk_6> a cnt:ContentAsText ;
+    dcterms:isPartOf <urn:document:Window819x759_ProductData.pdf/page_8> ;
+    pdo:boundingBox "36.693599700927734,242.55001831054688,298.7897644042969,251.87802124023438" ;
+    pdo:color 2301728 ;
+    pdo:font "TradeGothicLTStd-Cn18" ;
+    pdo:fontSize "8.0"^^xsd:float ;
+    pdo:index 6 ;
+    cnt:chars """Patterned glass (including obscure, pebble, fern, reed and cascade designs) is warranted not 
+ to develop, under normal conditions, any material change in appearance resulting from 
+ manufacturing defects or as a result of premature failure of the glass or organic seal for twenty  (20) years from the date of purchase from the retailer/dealer. This limited warranty on glass  does not apply to special order glazings, Andersen ®  art glass, insulated art glass for Andersen """ .
+
+<urn:document:Window819x759_ProductData.pdf/page_8/chunk_7> a cnt:ContentAsText ;
+    dcterms:isPartOf <urn:document:Window819x759_ProductData.pdf/page_8> ;
+    pdo:boundingBox "36.69350051879883,285.04998779296875,296.1817626953125,294.37799072265625" ;
+    pdo:color 2301728 ;
+    pdo:font "TradeGothicLTStd-Cn18" ;
+    pdo:fontSize "8.0"^^xsd:float ;
+    pdo:index 7 ;
+    cnt:chars """architectural products, impact-resistant glass or glass that is not factory installed by Andersen. for warping for a period of up to twelve (12) months from the date of the claim in order 
+ to permit conditioning and equalization to humidity and temperature conditions. •  Slight glass curvature, minor scratches or other imperfections in the glass that 
+ do not impair structural integrity or significantly obscure normal vision. •  Rattling of grille bars within an air space.""" .
+
+<urn:document:Window819x759_ProductData.pdf/page_8/chunk_8> a cnt:ContentAsText ;
+    dcterms:isPartOf <urn:document:Window819x759_ProductData.pdf/page_8> ;
+    pdo:boundingBox "319.8450012207031,321.75079345703125,439.8536071777344,331.07879638671875" ;
+    pdo:color 2301728 ;
+    pdo:font "TradeGothicLTStd-Cn18" ;
+    pdo:fontSize "8.0"^^xsd:float ;
+    pdo:index 8 ;
+    cnt:chars """•  Tarnish or corrosion to hardware finishes. •  Special glazings. Contact us concerning the limited warranty on special glazings. •  Andersen ®  art glass and decorative insulated art glass, impact-resistant glass, electric  window operators, retractable insect screens and bright brass and satin nickel finishes 
+ on door hardware. Contact us or refer to the specific limited warranties for these products. •  Andersen ®  100 Series windows and doors, storm doors and Renewal by Andersen ®""" .
+
+<urn:document:Window819x759_ProductData.pdf/page_8/chunk_9> a cnt:ContentAsText ;
+    dcterms:isPartOf <urn:document:Window819x759_ProductData.pdf/page_8> ;
+    pdo:boundingBox "550.3035278320312,365.50079345703125,577.6553955078125,374.82879638671875" ;
+    pdo:color 2301728 ;
+    pdo:font "TradeGothicLTStd-Cn18" ;
+    pdo:fontSize "8.0"^^xsd:float ;
+    pdo:index 9 ;
+    cnt:chars """ products  have their own limited warranties and are not covered by this limited warranty.  •  Service trips to provide instruction on product use. In the event a glass failure occurs as a result of a defect in manufacturing, materials or 
+ workmanship within the limited warranty period, Andersen, at its option, will: (1) provide the 
+ appropriate replacement glass product to the Andersen retailer/dealer you specify — labor is """ .
+
+<urn:document:Window819x759_ProductData.pdf/page_9/chunk_0> a cnt:ContentAsText ;
+    dcterms:isPartOf <urn:document:Window819x759_ProductData.pdf/page_9> ;
+    pdo:boundingBox "29.365400314331055,12.695173263549805,191.9983673095703,39.21417236328125" ;
+    pdo:color 2301728 ;
+    pdo:font "FranklinGothic-DemiCnd" ;
+    pdo:fontSize "23.0"^^xsd:float ;
+    pdo:index 0 ;
+    cnt:chars " Ventanas y puertas Lo que esta garantía limitada NO cubre (continuación): Daños provocados por: • Instalación o uso incorrectos, incluido el uso de una puerta no comercial como entrada principal  Andersen Windows, Inc. o salida de cualquier edificio que no sea una unidad residencial de una sola familia, o la  reinstalación de una ventana o puerta Andersen después de que se la haya retirado de un edificio  y se la revendió y/o reinstaló en un edificio diferente. " .
+
+<urn:document:Window819x759_ProductData.pdf/page_9/chunk_1> a cnt:ContentAsText ;
+    dcterms:isPartOf <urn:document:Window819x759_ProductData.pdf/page_9> ;
+    pdo:boundingBox "139.60499572753906,44.39722442626953,305.42095947265625,100.89422607421875" ;
+    pdo:color 2301728 ;
+    pdo:font "FranklinGothic-DemiCnd" ;
+    pdo:fontSize "49.0"^^xsd:float ;
+    pdo:index 1 ;
+    cnt:chars "• Exposición a condiciones que superen las especificaciones de rendimiento publicadas. • Filtraciones de agua que no emanen de un defecto de fabricación, de los materiales o de la mano  de obra. • Condensación. • Mantenimiento inadecuado, como el uso de lavado de ladrillos, paletas de metal, selladores,  lijado o lavado incorrecto. • Fallas en el sellado correcto de las partes de madera expuestas de un producto. Esto incluye,  Garantía  limitada Las ventanas y puertas Andersen ®" .
+
+<urn:document:Window819x759_ProductData.pdf/page_9/chunk_10> a cnt:ContentAsText ;
+    dcterms:isPartOf <urn:document:Window819x759_ProductData.pdf/page_9> ;
+    pdo:boundingBox "319.8445129394531,303.6160888671875,464.5113830566406,312.361083984375" ;
+    pdo:color 2301728 ;
+    pdo:font "TradeGothicLTStd-Cn18" ;
+    pdo:fontSize "7.5"^^xsd:float ;
+    pdo:index 10 ;
+    cnt:chars "• Ruido de las barras de la rejilla en un espacio de aire. • Decoloración o corrosión de los acabados de los herrajes. • Vidrios especiales. Comuníquese con nosotros para obtener información sobre la garantía  limitada de los vidrios especiales. • Vidrios artísticos, vidrios artísticos decorativos aislantes, vidrios resistentes a los golpes,  operadores de ventanas eléctricos, mosquiteros retráctiles y acabados de latón brillante y níquel  satinado en los herrajes de Andersen ®" .
+
+<urn:document:Window819x759_ProductData.pdf/page_9/chunk_11> a cnt:ContentAsText ;
+    dcterms:isPartOf <urn:document:Window819x759_ProductData.pdf/page_9> ;
+    pdo:boundingBox "319.8445129394531,398.7970886230469,492.9295654296875,408.9971008300781" ;
+    pdo:color 2301728 ;
+    pdo:font "TradeGothicLTStd-BdCn20" ;
+    pdo:fontSize "8.5"^^xsd:float ;
+    pdo:index 11 ;
+    cnt:chars ". Comuníquese con nosotros o consulte las garantías  limitadas específicas para estos productos. • Las puertas y ventanas Andersen ®  serie 100, las puertas contra la intemperie y los productos  Renewal de Andersen ®  tienen sus propias garantías limitadas y no están cubiertos por esta  garantía limitada. • Viajes por mantenimiento para proporcionar instrucciones para el uso del producto. Cómo debe registrar su garantía limitada Owner-To-Owner ®" .
+
+<urn:document:Window819x759_ProductData.pdf/page_9/chunk_12> a cnt:ContentAsText ;
+    dcterms:isPartOf <urn:document:Window819x759_ProductData.pdf/page_9> ;
+    pdo:boundingBox "36.692901611328125,302.5262145996094,298.63037109375,311.2712097167969" ;
+    pdo:color 2301728 ;
+    pdo:font "TradeGothicLTStd-Cn18" ;
+    pdo:fontSize "7.5"^^xsd:float ;
+    pdo:index 12 ;
+    cnt:chars "En caso de que se produzca una falla en el vidrio como resultado de un defecto de fabricación, en  los materiales o en la mano de obra dentro del período de la garantía limitada, Andersen podrá, a su  criterio: (1) proporcionar un reemplazo de los productos de vidrio al distribuidor/vendedor de Andersen  que usted indique (no se incluye el costo de mano de obra); o (2) suministrar una reparación autorizada " .
+
+<urn:document:Window819x759_ProductData.pdf/page_9/chunk_13> a cnt:ContentAsText ;
+    dcterms:isPartOf <urn:document:Window819x759_ProductData.pdf/page_9> ;
+    pdo:boundingBox "36.692901611328125,355.95721435546875,151.50238037109375,366.1572265625" ;
+    pdo:color 2301728 ;
+    pdo:font "TradeGothicLTStd-BdCn20" ;
+    pdo:fontSize "8.5"^^xsd:float ;
+    pdo:index 13 ;
+    cnt:chars "de fábrica para el vidrio existente sin costo para usted; o (3) reembolsar el precio de compra o el  precio del distribuidor/vendedor al momento de la compra original, lo que sea menor. Dichas piezas  de reemplazo o las reparaciones están cubiertas por el resto del período de garantía limitada original. Otros componentes (que no sea vidrio) Garantía limitada transferible de diez (10) años Se garantiza que las partes de las puertas y ventanas Andersen ®  que no sean de vidrio (incluidos los " .
+
+<urn:document:Window819x759_ProductData.pdf/page_9/chunk_14> a cnt:ContentAsText ;
+    dcterms:isPartOf <urn:document:Window819x759_ProductData.pdf/page_9> ;
+    pdo:boundingBox "36.692901611328125,381.90631103515625,298.63043212890625,390.65130615234375" ;
+    pdo:color 2301728 ;
+    pdo:font "TradeGothicLTStd-Cn18" ;
+    pdo:fontSize "7.5"^^xsd:float ;
+    pdo:index 14 ;
+    cnt:chars "operadores no eléctricos, las cerraduras, las manijas, los sistemas compensadores, las bisagras, los  picaportes, los mosquiteros, los burletes, los contramarcos exteriores, las hojas y las piezas de los  marcos) no presentan defectos de fabricación, ni de materiales ni mano de obra durante un período  de diez (10) años a partir de la fecha de compra al distribuidor/vendedor. Esta garantía limitada no se " .
+
+<urn:document:Window819x759_ProductData.pdf/page_9/chunk_15> a cnt:ContentAsText ;
+    dcterms:isPartOf <urn:document:Window819x759_ProductData.pdf/page_9> ;
+    pdo:boundingBox "36.692901611328125,409.90631103515625,298.6529235839844,418.65130615234375" ;
+    pdo:color 2301728 ;
+    pdo:font "TradeGothicLTStd-Cn18" ;
+    pdo:fontSize "7.5"^^xsd:float ;
+    pdo:index 15 ;
+    cnt:chars "aplica a los operadores de ventanas eléctricos Andersen, a los mosquiteros retráctiles o a los acabados  de latón brillante o de níquel satinado en los herrajes de las puertas. Las partes de las ventanas  y puertas arquitectónicas de Andersen ®  que no son de vidrio con exteriores de madera y las puertas  comerciales están sujetas a un período de garantía limitada de cinco (5) años, pero idéntico en todo lo  que establece el período de diez (10) años descrito anteriormente." .
+
+<urn:document:Window819x759_ProductData.pdf/page_9/chunk_16> a cnt:ContentAsText ;
+    dcterms:isPartOf <urn:document:Window819x759_ProductData.pdf/page_9> ;
+    pdo:boundingBox "319.8445129394531,408.30609130859375,550.7767944335938,417.05108642578125" ;
+    pdo:color 2301728 ;
+    pdo:font "TradeGothicLTStd-Cn18" ;
+    pdo:fontSize "7.5"^^xsd:float ;
+    pdo:index 16 ;
+    cnt:chars """Andersen ofrece un registro rápido y sencillo de su garantía a través de nuestro sitio web. 
+ Visite  www.andersenwindows.com/warranty  y envíe su información de garantía en línea.  Al registrarse, acelerará cualquier servicio de garantía que  pueda desear realizar en el futuro. Además, podrá recibir  actualizaciones de información de productos, notificaciones  de seguridad y ofertas especiales de nuevos productos,  así como también de información acerca de las mejoras """ .
+
+<urn:document:Window819x759_ProductData.pdf/page_9/chunk_17> a cnt:ContentAsText ;
+    dcterms:isPartOf <urn:document:Window819x759_ProductData.pdf/page_9> ;
+    pdo:boundingBox "319.8445129394531,490.4870910644531,383.27130126953125,500.6871032714844" ;
+    pdo:color 2301728 ;
+    pdo:font "TradeGothicLTStd-BdCn20" ;
+    pdo:fontSize "8.5"^^xsd:float ;
+    pdo:index 17 ;
+    cnt:chars "realizadas a las puertas y ventanas que usted ha registrado.  Toda la información de garantía se tratará de manera  confidencial y no se venderá ni comercializará a ninguna  persona u organización ajena a Andersen y a la red de distribuidores de Andersen. Cómo obtener ayuda  Para obtener más información o para realizar un reclamo dentro del plazo de cobertura de la  garantía limitada, comuníquese con el distribuidor/vendedor de Andersen que le proporcionó su  producto Andersen ®" .
+
+<urn:document:Window819x759_ProductData.pdf/page_9/chunk_18> a cnt:ContentAsText ;
+    dcterms:isPartOf <urn:document:Window819x759_ProductData.pdf/page_9> ;
+    pdo:boundingBox "370.7572937011719,513.99609375,573.931396484375,522.7410888671875" ;
+    pdo:color 2301728 ;
+    pdo:font "TradeGothicLTStd-Cn18" ;
+    pdo:fontSize "7.5"^^xsd:float ;
+    pdo:index 18 ;
+    cnt:chars ". Si no está disponible o si usted no lo conoce, puede comunicarse con nosotros: En caso de que algún componente que no sea vidrio falle como resultado de un defecto de fabricación,  en los materiales o en la mano de obra dentro del período de cobertura de la garantía limitada,  Andersen podrá, a su criterio: (1) proporcionar un reemplazo de las piezas al distribuidor/vendedor de  Andersen que usted indique (no se incluye el costo de mano de obra); o (2) suministrar una reparación " .
+
+<urn:document:Window819x759_ProductData.pdf/page_9/chunk_19> a cnt:ContentAsText ;
+    dcterms:isPartOf <urn:document:Window819x759_ProductData.pdf/page_9> ;
+    pdo:boundingBox "36.692901611328125,509.8373107910156,146.07940673828125,520.0372924804688" ;
+    pdo:color 2301728 ;
+    pdo:font "TradeGothicLTStd-BdCn20" ;
+    pdo:fontSize "8.5"^^xsd:float ;
+    pdo:index 19 ;
+    cnt:chars "autorizada de fábrica para el componente existente sin costo para usted; o (3) reembolsar el precio de  compra original o el precio del distribuidor/vendedor al momento de la compra original, el que resulte  menor. Dichas piezas de reemplazo o reparaciones tienen garantía por el resto del período de garantía  limitada original. Condiciones generales y exclusiones La garantía limitada estipulada en este documento constituye la única garantía expresa (ya sea escrita " .
+
+<urn:document:Window819x759_ProductData.pdf/page_9/chunk_2> a cnt:ContentAsText ;
+    dcterms:isPartOf <urn:document:Window819x759_ProductData.pdf/page_9> ;
+    pdo:boundingBox "164.1739044189453,128.9585723876953,296.7839660644531,139.49618530273438" ;
+    pdo:color 2301728 ;
+    pdo:font "FranklinGothic-Demi" ;
+    pdo:fontSize "8.899999618530273"^^xsd:float ;
+    pdo:index 2 ;
+    cnt:chars " cuentan con dos tipos de garantía. entre otras, las maderas expuestas de todos los costados del panel de la puerta (por ejemplo: el  exterior, el interior, la parte superior, la parte inferior y ambos lados), el marco de una puerta y las  rejillas de madera. • Químicos o contaminantes aéreos, como la sal o la lluvia ácida. • Entrega a cargo de terceros. • Accidentes. • Casos de fuerza mayor. • Uso y desgaste normal. Otros elementos que se excluyen de esta garantía limitada:" .
+
+<urn:document:Window819x759_ProductData.pdf/page_9/chunk_20> a cnt:ContentAsText ;
+    dcterms:isPartOf <urn:document:Window819x759_ProductData.pdf/page_9> ;
+    pdo:boundingBox "36.692901611328125,526.3463134765625,196.50308227539062,535.09130859375" ;
+    pdo:color 2301728 ;
+    pdo:font "TradeGothicLTStd-Cn18" ;
+    pdo:fontSize "7.5"^^xsd:float ;
+    pdo:index 20 ;
+    cnt:chars "o verbal) correspondiente a las puertas y ventanas Andersen ® , y nadie está autorizado a modificar  o ampliar esta garantía limitada. Todos los reclamos de esta garantía deben realizarse durante el  período que cubre esta garantía. Andersen Windows, Inc. / Andersen Service Center 100 Fourth Avenue North Bayport, MN 55003-1096 También puede comunicarse a través de la sección de atención (Service) de nuestra página web en  www.andersenwindows.com  o llamando al 1-888-888-7020." .
+
+<urn:document:Window819x759_ProductData.pdf/page_9/chunk_21> a cnt:ContentAsText ;
+    dcterms:isPartOf <urn:document:Window819x759_ProductData.pdf/page_9> ;
+    pdo:boundingBox "319.8445129394531,578.177001953125,576.9857788085938,588.376953125" ;
+    pdo:color 2301728 ;
+    pdo:font "TradeGothicLTStd-BdCn20" ;
+    pdo:fontSize "8.5"^^xsd:float ;
+    pdo:index 21 ;
+    cnt:chars "Usted puede ayudarnos a asistirlo más rápidamente si brinda la siguiente información: • Una descripción del producto, incluidos: el color exterior, el tipo y tamaño de la unidad y las  TODA GARANTÍA IMPLÍCITA, INCLUIDA LA DE COMERCIABILIDAD Y APTITUD PARA UN FIN  DETERMINADO, ESTÁN LIMITADAS AL RÉGIMEN DE PRESCRIPCIÓN APLICABLE, PERO EN NINGÚN  CASO SE EXTENDERÁN MÁS ALLÁ DEL PERÍODO DE LAS GARANTÍAS LIMITADAS ESTABLECIDAS  ANTERIORMENTE. ANDERSEN EXCLUYE LOS DAÑOS INCIDENTALES O INDIRECTOS Y NO " .
+
+<urn:document:Window819x759_ProductData.pdf/page_9/chunk_22> a cnt:ContentAsText ;
+    dcterms:isPartOf <urn:document:Window819x759_ProductData.pdf/page_9> ;
+    pdo:boundingBox "36.692901611328125,586.7593383789062,298.7809753417969,596.3593139648438" ;
+    pdo:color 2301728 ;
+    pdo:font "TradeGothicLTStd-BdCn20" ;
+    pdo:fontSize "8.0"^^xsd:float ;
+    pdo:index 22 ;
+    cnt:chars "PAGARÁ POR ELLOS, YA SEA SE DESPRENDAN DEL CONTRATO, SEAN DE RESPONSABILIDAD  EXTRACONTRACTUAL O DE ALGÚN OTRO TIPO. EN TODOS LOS CASOS, LA RESPONSABILIDAD DE  ANDERSEN QUEDARÁ LIMITADA AL REEMPLAZO O AL REEMBOLSO DEL PRECIO DE COMPRA REAL  DEL PRODUCTO DEFECTUOSO. Algunos estados no permiten la exclusión o la limitación de los daños incidentales o indirectos, o la  limitación de la duración de una garantía implícita, de manera que las limitaciones o exclusiones " .
+
+<urn:document:Window819x759_ProductData.pdf/page_9/chunk_23> a cnt:ContentAsText ;
+    dcterms:isPartOf <urn:document:Window819x759_ProductData.pdf/page_9> ;
+    pdo:boundingBox "36.692901611328125,637.8463134765625,147.32550048828125,646.59130859375" ;
+    pdo:color 2301728 ;
+    pdo:font "TradeGothicLTStd-Cn18" ;
+    pdo:fontSize "7.5"^^xsd:float ;
+    pdo:index 23 ;
+    cnt:chars "anteriores pueden no aplicarse en su caso.  medidas del vidrio interior visible. • La información del logo del vidrio que aparece grabado en la esquina interior del vidrio. • Una descripción de los problemas del producto. • La documentación de la fecha de compra, si la tiene. • Su nombre y dirección (con código postal) donde está instalado el producto y números de teléfono. Si el período de la garantía limitada ha vencido o en caso de reparaciones que la garantía limitada " .
+
+<urn:document:Window819x759_ProductData.pdf/page_9/chunk_24> a cnt:ContentAsText ;
+    dcterms:isPartOf <urn:document:Window819x759_ProductData.pdf/page_9> ;
+    pdo:boundingBox "371.49951171875,682.7542114257812,530.3394165039062,691.898193359375" ;
+    pdo:color 2301728 ;
+    pdo:font "ITCFranklinGothicStd-BkC" ;
+    pdo:fontSize "8.0"^^xsd:float ;
+    pdo:index 24 ;
+    cnt:chars "no cubre, puede comprar las piezas de reemplazo. En caso de que la cobertura de la garantía no esté  clara, Andersen podrá cobrar un gasto por inspección para cualquier inspección de producto en el  lugar donde está instalado. Si el inspector determina que el producto Andersen ®  tiene un defecto  que está cubierto por esta garantía limitada, no se cobrará el gasto por inspección. Para obtener información específica sobre la garantía  fuera de los Estados Unidos, comuníquese con su " .
+
+<urn:document:Window819x759_ProductData.pdf/page_9/chunk_25> a cnt:ContentAsText ;
+    dcterms:isPartOf <urn:document:Window819x759_ProductData.pdf/page_9> ;
+    pdo:boundingBox "36.692901611328125,674.77734375,152.30987548828125,684.977294921875" ;
+    pdo:color 2301728 ;
+    pdo:font "TradeGothicLTStd-BdCn20" ;
+    pdo:fontSize "8.5"^^xsd:float ;
+    pdo:index 25 ;
+    cnt:chars "distribuidor local o escriba a: Esta garantía limitada sólo es válida para los Estados Unidos (para los cincuenta estados y el Distrito  de Columbia). Esta garantía limitada le confiere derechos legales específicos, y usted puede también  disponer de otros derechos que varían según cada estado. Lo que esta garantía limitada NO cubre Fallas o daños del producto ocasionados por una instalación o una modificación  incorrectas, incluidos:" .
+
+<urn:document:Window819x759_ProductData.pdf/page_9/chunk_26> a cnt:ContentAsText ;
+    dcterms:isPartOf <urn:document:Window819x759_ProductData.pdf/page_9> ;
+    pdo:boundingBox "389.49951171875,708.9142456054688,520.1634521484375,718.0582275390625" ;
+    pdo:color 2301728 ;
+    pdo:font "ITCFranklinGothicStd-BkC" ;
+    pdo:fontSize "8.0"^^xsd:float ;
+    pdo:index 26 ;
+    cnt:chars "• Ajustes o correcciones ocasionadas por una instalación incorrecta. • Fallas ocasionadas por modificaciones del producto o por el tonalizado de vidrios (por ejemplo:  Andersen Corporation /International Division 100 Fourth Avenue North Bayport, MN 55003-1096 USA tinte de vidrios, sistemas de seguridad, pintura o tintura incorrectas, cubiertas aislantes, etc.). • Unidades ensambladas o unidas incorrectamente colocadas por terceros." .
+
+<urn:document:Window819x759_ProductData.pdf/page_9/chunk_27> a cnt:ContentAsText ;
+    dcterms:isPartOf <urn:document:Window819x759_ProductData.pdf/page_9> ;
+    pdo:boundingBox "36.692901611328125,730.7863159179688,275.1180725097656,739.5313110351562" ;
+    pdo:color 2301728 ;
+    pdo:font "TradeGothicLTStd-Cn18" ;
+    pdo:fontSize "7.5"^^xsd:float ;
+    pdo:index 27 ;
+    cnt:chars "• Fallas ocasionadas por la aplicación de otros herrajes que no sean Andersen (por ejemplo:  cerraduras, contramarcos, bisagras, herrajes de emergencia, cierres, etc.). • Fallas en la instalación correcta de los herrajes de Andersen y/o contramarco exterior. “Andersen” y las demás marcas que aparezcan son marcas registradas de Andersen Corporation. ©2011 Andersen Corporation. Todos los derechos reservados. Impreso y válido desde marzo de 2011." .
+
+<urn:document:Window819x759_ProductData.pdf/page_9/chunk_3> a cnt:ContentAsText ;
+    dcterms:isPartOf <urn:document:Window819x759_ProductData.pdf/page_9> ;
+    pdo:boundingBox "319.8445129394531,191.1160888671875,554.67578125,199.861083984375" ;
+    pdo:color 2301728 ;
+    pdo:font "TradeGothicLTStd-Cn18" ;
+    pdo:fontSize "7.5"^^xsd:float ;
+    pdo:index 3 ;
+    cnt:chars "• Mano de obra para reemplazar hojas o paneles de la puerta, vidrios u otros componentes. • Mano de obra y otros costos relacionados con la extracción y eliminación de un producto  defectuoso. • Mano de obra y materiales para pintar o teñir cualquier producto, componente, contramarco  u otro elemento de carpintería reparado o reemplazado que se pueda requerir. • Productos no fabricados por Andersen." .
+
+<urn:document:Window819x759_ProductData.pdf/page_9/chunk_4> a cnt:ContentAsText ;
+    dcterms:isPartOf <urn:document:Window819x759_ProductData.pdf/page_9> ;
+    pdo:boundingBox "319.8445129394531,236.1160888671875,576.4407348632812,244.861083984375" ;
+    pdo:color 2301728 ;
+    pdo:font "TradeGothicLTStd-Cn18" ;
+    pdo:fontSize "7.5"^^xsd:float ;
+    pdo:index 4 ;
+    cnt:chars "• El rendimiento del recubrimiento de vidrio exterior de bajo mantenimiento en productos con vidrio  High-Performance™ de baja emisividad Low-E4 ® . El rendimiento variará según las condiciones  ambientales. • Leves arqueamientos en puertas de madera y con revestimiento de madera. Andersen puede  demorar las acciones o los reclamos por arqueamiento durante un período de hasta doce (12)  meses a partir de la fecha del reclamo para permitir el acondicionamiento y la compensación de " .
+
+<urn:document:Window819x759_ProductData.pdf/page_9/chunk_5> a cnt:ContentAsText ;
+    dcterms:isPartOf <urn:document:Window819x759_ProductData.pdf/page_9> ;
+    pdo:boundingBox "36.69300079345703,146.07717895507812,53.982017517089844,156.2771759033203" ;
+    pdo:color 2301728 ;
+    pdo:font "TradeGothicLTStd-BdCn20" ;
+    pdo:fontSize "8.5"^^xsd:float ;
+    pdo:index 5 ;
+    cnt:chars "los niveles de humedad y temperatura. • Ligera curvatura del vidrio, pequeños rayones u otras imperfecciones en el vidrio que no afectan  Vidrio Garantía limitada transferible de veinte (20) años Se garantiza que el vidrio aplicado en fábrica a todas las puertas y ventanas de Andersen ®  (incluido  el vidrio de panel doble, vidrio High-Performance ™  (alto rendimiento) de baja emisividad Low-E4 ® ,  vidrio High-Performance ™  de baja emisividad Low-E4 ®  Sun, vidrio High-Performance ™  de baja " .
+
+<urn:document:Window819x759_ProductData.pdf/page_9/chunk_6> a cnt:ContentAsText ;
+    dcterms:isPartOf <urn:document:Window819x759_ProductData.pdf/page_9> ;
+    pdo:boundingBox "36.692901611328125,186.02618408203125,85.53292846679688,194.77117919921875" ;
+    pdo:color 2301728 ;
+    pdo:font "TradeGothicLTStd-Cn18" ;
+    pdo:fontSize "7.5"^^xsd:float ;
+    pdo:index 6 ;
+    cnt:chars "emisividad Low-E4 ®  SmartSun ™ , vidrio de baja emisividad, vidrio con diseño (incluidos: los diseños  oscuros, de piedras, de hojas de helecho, acanalados y tipo cascada), las rejillas Finelight ™ , vidrio  con rejilla exterior Divided Light y las versiones en vidrio atemperado de todas estas opciones están  garantizados de estar libres de defectos de fabricación, tanto en materiales como en mano de obra " .
+
+<urn:document:Window819x759_ProductData.pdf/page_9/chunk_7> a cnt:ContentAsText ;
+    dcterms:isPartOf <urn:document:Window819x759_ProductData.pdf/page_9> ;
+    pdo:boundingBox "36.692901611328125,214.02618408203125,298.63787841796875,222.77117919921875" ;
+    pdo:color 2301728 ;
+    pdo:font "TradeGothicLTStd-Cn18" ;
+    pdo:fontSize "7.5"^^xsd:float ;
+    pdo:index 7 ;
+    cnt:chars "por veinte (20) años a partir de la fecha de compra al distribuidor/vendedor. También se garantiza  que no desarrollarán, bajo condiciones normales, obstrucciones materiales a la visión como resultado  de defectos de fabricación o como resultado de una falla prematura del vidrio o del sellador orgánico  durante veinte (20) años a partir de la fecha de compra al distribuidor/vendedor. Los vidrios con diseño " .
+
+<urn:document:Window819x759_ProductData.pdf/page_9/chunk_8> a cnt:ContentAsText ;
+    dcterms:isPartOf <urn:document:Window819x759_ProductData.pdf/page_9> ;
+    pdo:boundingBox "36.692901611328125,242.02618408203125,298.64532470703125,250.77117919921875" ;
+    pdo:color 2301728 ;
+    pdo:font "TradeGothicLTStd-Cn18" ;
+    pdo:fontSize "7.5"^^xsd:float ;
+    pdo:index 8 ;
+    cnt:chars "(incluidos los diseños oscuros, de piedras, de hojas de helecho, acanalados y tipo cascada) también  cuentan con la garantía de que no desarrollarán, bajo condiciones normales, ningún cambio material  en su apariencia como resultado de defectos de fabricación o como resultado de una falla prematura  del vidrio o del sellador orgánico durante veinte (20) años a partir de la fecha de compra al distribuidor/" .
+
+<urn:document:Window819x759_ProductData.pdf/page_9/chunk_9> a cnt:ContentAsText ;
+    dcterms:isPartOf <urn:document:Window819x759_ProductData.pdf/page_9> ;
+    pdo:boundingBox "36.692901611328125,270.02618408203125,291.9853210449219,278.77117919921875" ;
+    pdo:color 2301728 ;
+    pdo:font "TradeGothicLTStd-Cn18" ;
+    pdo:fontSize "7.5"^^xsd:float ;
+    pdo:index 9 ;
+    cnt:chars "vendedor. Esta garantía limitada en el vidrio no se aplica a los pedidos de vidrios especiales Andersen ® ,  tales como el utilizado para vidrio decorativo Andersen, vidrios decorativos aislantes utilizados en los  productos de la línea Arquitectónica Andersen, y a los vidrios con resistencia al impacto o en vidrios  que no sean instalados en la fábrica por Andersen. la integridad estructural ni entorpecen considerablemente la visión normal." .
+
+<urn:document:Window819x759_ProductData.pdf/page_4> a fabio:Page ;
+    dcterms:isPartOf <urn:document:Window819x759_ProductData.pdf> ;
+    pdo:height "792.0"^^xsd:float ;
+    pdo:index 4 ;
+    pdo:rotation 0 ;
+    pdo:width "612.0"^^xsd:float .
+
+<urn:document:Window819x759_ProductData.pdf/page_7> a fabio:Page ;
+    dcterms:isPartOf <urn:document:Window819x759_ProductData.pdf> ;
+    pdo:height "792.0"^^xsd:float ;
+    pdo:index 7 ;
+    pdo:rotation 0 ;
+    pdo:width "612.0"^^xsd:float .
+
+<urn:document:Window819x759_ProductData.pdf/page_0> a fabio:Page ;
+    dcterms:isPartOf <urn:document:Window819x759_ProductData.pdf> ;
+    pdo:height "792.0"^^xsd:float ;
+    pdo:index 0 ;
+    pdo:rotation 0 ;
+    pdo:width "612.0"^^xsd:float .
+
+<urn:document:Window819x759_ProductData.pdf/page_1> a fabio:Page ;
+    dcterms:isPartOf <urn:document:Window819x759_ProductData.pdf> ;
+    pdo:height "792.0"^^xsd:float ;
+    pdo:index 1 ;
+    pdo:rotation 0 ;
+    pdo:width "612.0"^^xsd:float .
+
+<urn:document:Window819x759_ProductData.pdf/page_2> a fabio:Page ;
+    dcterms:isPartOf <urn:document:Window819x759_ProductData.pdf> ;
+    pdo:height "792.0"^^xsd:float ;
+    pdo:index 2 ;
+    pdo:rotation 0 ;
+    pdo:width "612.0"^^xsd:float .
+
+<urn:document:Window819x759_ProductData.pdf/page_3> a fabio:Page ;
+    dcterms:isPartOf <urn:document:Window819x759_ProductData.pdf> ;
+    pdo:height "792.0"^^xsd:float ;
+    pdo:index 3 ;
+    pdo:rotation 0 ;
+    pdo:width "612.0"^^xsd:float .
+
+<urn:document:Window819x759_ProductData.pdf/page_5> a fabio:Page ;
+    dcterms:isPartOf <urn:document:Window819x759_ProductData.pdf> ;
+    pdo:height "792.0"^^xsd:float ;
+    pdo:index 5 ;
+    pdo:rotation 0 ;
+    pdo:width "612.0"^^xsd:float .
+
+<urn:document:Window819x759_ProductData.pdf/page_6> a fabio:Page ;
+    dcterms:isPartOf <urn:document:Window819x759_ProductData.pdf> ;
+    pdo:height "792.0"^^xsd:float ;
+    pdo:index 6 ;
+    pdo:rotation 0 ;
+    pdo:width "612.0"^^xsd:float .
+
+<urn:document:Window819x759_ProductData.pdf> a fabio:DigitalDocument ;
+    dcterms:created "D:20110908094322-05'00'" ;
+    dcterms:hasFormat "application/pdf" ;
+    dcterms:modified "D:20110908094415-05'00'" ;
+    dcterms:title "A-Series Picture Windows | Andersen Windows",
+        "Window819x759_ProductData.pdf" ;
+    pdo:pageCount 10 ;
+    prov:wasGeneratedBy "Adobe Acrobat Pro 9.4.5" .
+
+<urn:document:Window819x759_ProductData.pdf/page_8> a fabio:Page ;
+    dcterms:isPartOf <urn:document:Window819x759_ProductData.pdf> ;
+    pdo:height "792.0"^^xsd:float ;
+    pdo:index 8 ;
+    pdo:rotation 0 ;
+    pdo:width "612.0"^^xsd:float .
+
+<urn:document:Window819x759_ProductData.pdf/page_9> a fabio:Page ;
+    dcterms:isPartOf <urn:document:Window819x759_ProductData.pdf> ;
+    pdo:height "792.0"^^xsd:float ;
+    pdo:index 9 ;
+    pdo:rotation 0 ;
+    pdo:width "612.0"^^xsd:float .
+

@@ -1,0 +1,22 @@
+[
+  {
+    "question": "List all IfcWall instances and their rdfs:labels",
+    "sparql": "PREFIX ifc: <http://ifcowl.openbimstandards.org/IFC2X3#>\nPREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>\n\nSELECT ?wall ?label WHERE {\n  ?wall rdf:type ifc:IfcWall .\n  OPTIONAL { ?wall rdfs:label ?label . }\n}\nLIMIT 10"
+  },
+  {
+    "question": "How many IfcDoor instances are there?",
+    "sparql": "PREFIX ifc: <http://ifcowl.openbimstandards.org/IFC2X3#>\nPREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>\n\nSELECT (COUNT(?door) AS ?count) WHERE {\n  ?door rdf:type ifc:IfcDoor .\n}"
+  },
+  {
+    "question": "What is the Mark for the IfcWindow with label 'Window-01'?",
+    "sparql": "PREFIX ifc: <http://ifcowl.openbimstandards.org/IFC2X3#>\nPREFIX pset: <http://ifcowl.openbimstandards.org/IFC2X3/PropertySet#>\nPREFIX prop: <http://example.org/property#>\nPREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>\nPREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>\n\nSELECT ?mark WHERE {\n  ?window rdfs:label \"Window-01\" .\n  ?window rdf:type ifc:IfcWindow .\n  # --- Path using observed structure ---\n  ?window ifc:hasPropertySet ?pset .\n  ?pset rdf:type pset:Identity_Data . # Assuming Mark is in Identity_Data\n  ?pset prop:Mark ?valueNode .        # Link to the value node\n  ?valueNode rdf:value ?mark .         # Get the actual literal value\n}\nLIMIT 1"
+  },
+  {
+    "question": "What is the Height of the IfcDoor with label 'Entrance Door'?",
+    "sparql": "PREFIX ifc: <http://ifcowl.openbimstandards.org/IFC2X3#>\nPREFIX pset: <http://ifcowl.openbimstandards.org/IFC2X3/PropertySet#>\nPREFIX prop: <http://example.org/property#>\nPREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>\nPREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>\n\nSELECT ?height WHERE {\n  ?door rdfs:label \"Entrance Door\" .\n  ?door rdf:type ifc:IfcDoor .\n  # --- Path using observed structure ---\n  ?door ifc:hasPropertySet ?pset .\n  ?pset rdf:type pset:Dimensions . # Assuming Height is in Dimensions\n  ?pset prop:Height ?valueNode .   # Link to the value node (might contain units)\n  ?valueNode rdf:value ?height .    # Get the actual numeric/literal value\n}\nLIMIT 1"
+  },
+  {
+    "question": "What is the Area of the space labeled 'A103'?",
+    "sparql": "PREFIX ifc: <http://ifcowl.openbimstandards.org/IFC2X3#>\nPREFIX pset: <http://ifcowl.openbimstandards.org/IFC2X3/PropertySet#>\nPREFIX prop: <http://example.org/property#>\nPREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>\nPREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>\n\nSELECT ?area WHERE {\n  ?space rdfs:label \"A103\" .\n  ?space rdf:type ifc:IfcSpace .\n  # --- Correct path using PSet_Revit_Dimensions and prop:Area (based on provided TTL) ---\n  ?space ifc:hasPropertySet ?pset .\n  ?pset rdf:type pset:PSet_Revit_Dimensions . # Use the correct PSet from TTL data\n  ?pset prop:Area ?valueNode .             # Use the correct property name from TTL data\n  ?valueNode rdf:value ?area .             # Get the actual literal value\n}"
+  }
+]

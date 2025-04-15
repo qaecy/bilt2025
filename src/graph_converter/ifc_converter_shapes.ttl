@@ -1,0 +1,71 @@
+@prefix sh: <http://www.w3.org/ns/shacl#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix bot: <https://w3id.org/bot#> .
+@prefix ifc: <http://ifcowl.openbimstandards.org/IFC2X3#> .
+@prefix inst: <http://example.org/instance#> .
+@prefix prop: <http://example.org/property#> .
+@prefix qudt: <http://qudt.org/schema/qudt/> .
+
+# Basic IFC element validation
+ifc:ElementShape a sh:NodeShape ;
+    sh:targetClass ifc:IfcProduct ;
+    sh:property [
+        sh:path ifc:globalId ;
+        sh:minCount 1 ;
+        sh:datatype xsd:string ;
+    ] .
+
+# Basic property validation
+ifc:PropertyShape a sh:NodeShape ;
+    sh:targetClass ifc:IfcProperty ;
+    sh:property [
+        sh:path rdf:value ;
+        sh:minCount 1 ;
+        # Allow any literal type
+        sh:nodeKind sh:Literal ;
+    ] .
+
+# Unit validation
+ifc:UnitShape a sh:NodeShape ;
+    sh:targetClass ifc:IfcUnit ;
+    sh:property [
+        sh:path ifc:unitType ;
+        sh:minCount 1 ;
+        sh:in (
+            "LENGTHUNIT" "AREAUNIT" "VOLUMEUNIT" 
+            "MASSUNIT" "TIMEUNIT" "THERMODYNAMICTEMPERATUREUNIT"
+            "PRESSUREUNIT"
+        ) ;
+    ] .
+
+# BOT validation (more lenient)
+bot:BuildingShape a sh:NodeShape ;
+    sh:targetClass bot:Building ;
+    sh:property [
+        sh:path bot:hasStorey ;
+        sh:minCount 0 ;  # Make this optional
+        sh:class bot:Storey ;
+    ] ;
+    # Add this as a warning instead of violation
+    sh:property [
+        sh:path bot:hasStorey ;
+        sh:minCount 1 ;
+        sh:message "Building should have at least one storey" ;
+        sh:severity sh:Warning ;
+    ] .
+
+# Property value validation
+prop:ValueShape a sh:NodeShape ;
+    sh:targetClass prop:Value ;
+    sh:property [
+        sh:path rdf:value ;
+        sh:minCount 1 ;
+        sh:or (
+            [ sh:datatype xsd:string ]
+            [ sh:datatype xsd:decimal ]
+            [ sh:datatype xsd:integer ]
+            [ sh:datatype xsd:boolean ]
+        ) ;
+    ] . 

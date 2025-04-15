@@ -1,0 +1,35 @@
+# Ignore everything in data directory
+data/
+data/*
+
+# But keep these specific paths in data
+!data/
+!data/embeddings/
+!data/graph/
+!data/raw/
+!data/embeddings/buildingsmart_duplex/
+!data/embeddings/buildingsmart_duplex/**
+!data/graph/buildingsmart_duplex/
+!data/graph/buildingsmart_duplex/**
+!data/graph/buildingsmart_duplex_tbox.ttl
+!data/raw/buildingsmart_duplex/
+!data/raw/buildingsmart_duplex/**
+
+# Ignore everything else in embeddings directory
+data/embeddings/*
+!data/embeddings/buildingsmart_duplex/
+!data/embeddings/buildingsmart_duplex/**
+
+# Ignore everything else in graph directory
+data/graph/*
+!data/graph/buildingsmart_duplex/
+!data/graph/buildingsmart_duplex_tbox.ttl
+!data/graph/reduced_schema.txt
+!data/graph/few_shot_examples.json
+
+# Ignore everything else in raw directory
+data/raw/*
+!data/raw/buildingsmart_duplex/
+
+.DS_Store
+__pycache__

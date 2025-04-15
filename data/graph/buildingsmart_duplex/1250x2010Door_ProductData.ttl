@@ -1,0 +1,43 @@
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix fabio: <http://purl.org/spar/fabio/> .
+@prefix pdo: <http://www.semanticweb.org/ontologies/pdo#> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<urn:document:1250x2010Door_ProductData.pdf/page_0> a fabio:Page ;
+    dcterms:isPartOf <urn:document:1250x2010Door_ProductData.pdf> ;
+    pdo:height "792.0"^^xsd:float ;
+    pdo:index 0 ;
+    pdo:rotation 90 ;
+    pdo:width "612.0"^^xsd:float .
+
+<urn:document:1250x2010Door_ProductData.pdf/page_1> a fabio:Page ;
+    dcterms:isPartOf <urn:document:1250x2010Door_ProductData.pdf> ;
+    pdo:height "792.0"^^xsd:float ;
+    pdo:index 1 ;
+    pdo:rotation 90 ;
+    pdo:width "612.0"^^xsd:float .
+
+<urn:document:1250x2010Door_ProductData.pdf/page_2> a fabio:Page ;
+    dcterms:isPartOf <urn:document:1250x2010Door_ProductData.pdf> ;
+    pdo:height "792.0"^^xsd:float ;
+    pdo:index 2 ;
+    pdo:rotation 90 ;
+    pdo:width "612.0"^^xsd:float .
+
+<urn:document:1250x2010Door_ProductData.pdf/page_3> a fabio:Page ;
+    dcterms:isPartOf <urn:document:1250x2010Door_ProductData.pdf> ;
+    pdo:height "792.0"^^xsd:float ;
+    pdo:index 3 ;
+    pdo:rotation 90 ;
+    pdo:width "612.0"^^xsd:float .
+
+<urn:document:1250x2010Door_ProductData.pdf> a fabio:DigitalDocument ;
+    dcterms:created "D:20110908082147-05'00'" ;
+    dcterms:hasFormat "application/pdf" ;
+    dcterms:modified "D:20110908082147-05'00'" ;
+    dcterms:title "1250x2010Door_ProductData.pdf",
+        "Scanned Document" ;
+    pdo:pageCount 4 ;
+    prov:wasGeneratedBy "Lexmark X940e" .
+

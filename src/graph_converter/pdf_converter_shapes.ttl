@@ -1,0 +1,64 @@
+@prefix sh: <http://www.w3.org/ns/shacl#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix fabio: <http://purl.org/spar/fabio/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix cnt: <http://www.w3.org/2011/content#> .
+@prefix pdo: <http://www.semanticweb.org/ontologies/pdo#> .
+@prefix : <http://example.org/shapes/> .
+
+# Shape for PDF Document
+:DocumentShape
+    a sh:NodeShape ;
+    sh:targetClass fabio:DigitalDocument ;
+    sh:property [
+        sh:path dcterms:title ;
+        sh:minCount 1 ;
+        sh:datatype xsd:string ;
+    ] ;
+    sh:property [
+        sh:path dcterms:hasFormat ;
+        sh:hasValue "application/pdf" ;
+    ] ;
+    sh:property [
+        sh:path pdo:pageCount ;
+        sh:minCount 1 ;
+        sh:datatype xsd:integer ;
+        sh:minInclusive 1 ;
+    ] .
+
+# Shape for PDF Pages
+:PageShape
+    a sh:NodeShape ;
+    sh:targetClass fabio:Page ;
+    sh:property [
+        sh:path dcterms:isPartOf ;
+        sh:minCount 1 ;
+        sh:class fabio:DigitalDocument ;
+    ] ;
+    sh:property [
+        sh:path pdo:width ;
+        sh:datatype xsd:float ;
+        sh:minCount 1 ;
+    ] ;
+    sh:property [
+        sh:path pdo:height ;
+        sh:datatype xsd:float ;
+        sh:minCount 1 ;
+    ] .
+
+# Shape for Text Chunks
+:ChunkShape
+    a sh:NodeShape ;
+    sh:targetClass cnt:ContentAsText ;
+    sh:property [
+        sh:path cnt:chars ;
+        sh:minCount 1 ;
+        sh:datatype xsd:string ;
+    ] ;
+    sh:property [
+        sh:path dcterms:isPartOf ;
+        sh:minCount 1 ;
+        sh:class fabio:Page ;
+    ] .

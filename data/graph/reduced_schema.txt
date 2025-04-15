@@ -1,0 +1,65 @@
+# Prefixes
+PREFIX ifc: <http://ifcowl.openbimstandards.org/IFC2X3#>
+PREFIX pset: <http://ifcowl.openbimstandards.org/IFC2X3/PropertySet#>
+PREFIX prop: <http://example.org/property#>
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX owl: <http://www.w3.org/2002/07/owl#>
+PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
+
+# Key Classes
+# Core IFC Elements
+ifc:IfcWall
+ifc:IfcDoor
+ifc:IfcWindow
+ifc:IfcSlab
+ifc:IfcBeam
+ifc:IfcColumn
+ifc:IfcStair
+ifc:IfcSpace
+ifc:IfcBuilding
+ifc:IfcSite
+# Common Property Set Containers
+pset:Identity_Data
+pset:Dimensions
+pset:Materials_and_Finishes
+pset:Pset_WallCommon
+pset:Pset_DoorCommon
+pset:Pset_WindowCommon
+pset:Pset_SpaceCommon
+pset:PSet_Revit_Dimensions
+# Other Key Classes
+ifc:IfcMaterial
+owl:Class
+owl:ObjectProperty
+owl:DatatypeProperty
+
+# Key Properties
+# RDF/RDFS/OWL Basics
+rdf:type
+rdfs:label
+rdfs:subClassOf
+rdfs:domain
+rdfs:range
+# Core IFC Identification/Attributes
+ifc:Name
+ifc:Description
+ifc:GlobalId
+# Common Properties (likely found via Psets)
+prop:Name
+prop:Description
+prop:Mark
+prop:Type_Mark
+prop:Width
+prop:Height
+prop:Depth
+prop:Length
+prop:Thickness
+prop:Area
+prop:Volume
+prop:Material
+prop:Finish
+prop:FireRating
+prop:IsExternal
+prop:LoadBearing
+prop:GrossArea

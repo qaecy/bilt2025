@@ -1,0 +1,47 @@
+@prefix cnt: <http://www.w3.org/2011/content#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix fabio: <http://purl.org/spar/fabio/> .
+@prefix pdo: <http://www.semanticweb.org/ontologies/pdo#> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<urn:document:LargeCoffeeTeble_ProductInfo.pdf/page_0/chunk_0> a cnt:ContentAsText ;
+    dcterms:isPartOf <urn:document:LargeCoffeeTeble_ProductInfo.pdf/page_0> ;
+    pdo:boundingBox "29.346460342407227,89.57232666015625,395.4830322265625,109.59735107421875" ;
+    pdo:color 3368601 ;
+    pdo:font "Helvetica-Bold" ;
+    pdo:fontSize "14.542499542236328"^^xsd:float ;
+    pdo:index 0 ;
+    cnt:chars "     36\" x 22\" Coffee Table - Legare Furniture - OTEM-110 Item:  LEGARE-OTEM-110 URL:   www.everythingfurniture.com/legare-coffee-table-1.html Regular price: $139.00 Shipping: + $27.45 Add to cart Delivered for:  $166.45 IN STOCK:  Usually ships in  1-3 business days , furniture delivery can typically be expected in  1-2 business weeks  from order date. Ships from Fort Worth, TX. View enlarged image                  Product information" .
+
+<urn:document:LargeCoffeeTeble_ProductInfo.pdf/page_0/chunk_1> a cnt:ContentAsText ;
+    dcterms:isPartOf <urn:document:LargeCoffeeTeble_ProductInfo.pdf/page_0> ;
+    pdo:boundingBox "29.346460342407227,410.07025146484375,546.3983154296875,424.49725341796875" ;
+    pdo:font "Helvetica" ;
+    pdo:fontSize "10.5"^^xsd:float ;
+    pdo:index 1 ;
+    cnt:chars "Modern two-level design with storage for magazines and keepsakes underneath. Easy assembly and reversible surfaces let you rejuvenate the look should a surface get damaged. OTEM-110 Features: • Amazingly simple 2 minute tool-free assembly • Made from high quality, eco-friendly 15mm composite wood w/ genuine wood veneers • Modern curvilinear design ideally appeals to young, nomadic urban lifestyles • Storage for magazines and keepsakes • Reversible surfaces Finish: Espresso Dimensions:" .
+
+<urn:document:LargeCoffeeTeble_ProductInfo.pdf/page_0/chunk_2> a cnt:ContentAsText ;
+    dcterms:isPartOf <urn:document:LargeCoffeeTeble_ProductInfo.pdf/page_0> ;
+    pdo:boundingBox "29.346460342407227,647.2423095703125,176.40023803710938,667.267333984375" ;
+    pdo:font "Helvetica-Bold" ;
+    pdo:fontSize "14.542499542236328"^^xsd:float ;
+    pdo:index 2 ;
+    cnt:chars "22\"(W) x 36\"(D) x 18\"(H) Warranty information This product is covered under a limited 10-year manufacturer's warranty. Additional warranty information included in packaging. Please call us if you have any questions or concerns regarding this product's warranty." .
+
+<urn:document:LargeCoffeeTeble_ProductInfo.pdf> a fabio:DigitalDocument ;
+    dcterms:created "D:20100206031600+08'00'" ;
+    dcterms:hasFormat "application/pdf" ;
+    dcterms:title "36\" x 22\" Coffee Table - Legare Furniture - OTEM-110",
+        "LargeCoffeeTeble_ProductInfo.pdf" ;
+    pdo:pageCount 1 ;
+    prov:wasGeneratedBy "pisa HTML to PDF <http://www.htmltopdf.org>" .
+
+<urn:document:LargeCoffeeTeble_ProductInfo.pdf/page_0> a fabio:Page ;
+    dcterms:isPartOf <urn:document:LargeCoffeeTeble_ProductInfo.pdf> ;
+    pdo:height "841.8897705078125"^^xsd:float ;
+    pdo:index 0 ;
+    pdo:rotation 0 ;
+    pdo:width "595.2755737304688"^^xsd:float .
+

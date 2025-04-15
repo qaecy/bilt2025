@@ -1,0 +1,99 @@
+@prefix cnt: <http://www.w3.org/2011/content#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix fabio: <http://purl.org/spar/fabio/> .
+@prefix pdo: <http://www.semanticweb.org/ontologies/pdo#> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<urn:document:SmallCoffeeTable-ProductData.pdf/page_0/chunk_0> a cnt:ContentAsText ;
+    dcterms:isPartOf <urn:document:SmallCoffeeTable-ProductData.pdf/page_0> ;
+    pdo:boundingBox "386.2757873535156,165.536376953125,473.7105407714844,193.5081024169922" ;
+    pdo:font "Verdana-Bold" ;
+    pdo:fontSize "23.155399322509766"^^xsd:float ;
+    pdo:index 0 ;
+    cnt:chars " HEMNES Side table - black-brown - IKEA My account Visit our Mobile Site!   My shopping cart Join our email list Search My shopping list Información en español Welcome! Ask Anna!   All New Offers! Living room Bedroom Kitchen & Appliances Children's IKEA Textiles & Rugs Departments Home  /  Living room  /  Coffee & side tables  /  Side tables HEMNES Side table, black-brown $89.99 The price reflects selected options Article Number: 201.762.82 Solid wood; gives a natural feel. Separate" .
+
+<urn:document:SmallCoffeeTable-ProductData.pdf/page_0/chunk_1> a cnt:ContentAsText ;
+    dcterms:isPartOf <urn:document:SmallCoffeeTable-ProductData.pdf/page_0> ;
+    pdo:boundingBox "384.34619140625,379.7242126464844,399.960693359375,401.48004150390625" ;
+    pdo:color 13487565 ;
+    pdo:font "Verdana-Bold" ;
+    pdo:fontSize "18.00979995727539"^^xsd:float ;
+    pdo:index 1 ;
+    cnt:chars "shelf for storing magazines, etc. Keeps your things organized and the table top clear.  Read more Color black-brown black-brown Save to list 1        Sorry, this product is not for sale on our website, check if it is available in your local store. Complementary Products + View all complementary products Buy at your local store Ok Choose Choose       Color More Models Store selection may vary and prices may differ from those online. Assembly instructions HEMNES Side table   (PDF) Show all" .
+
+<urn:document:SmallCoffeeTable-ProductData.pdf/page_0/chunk_2> a cnt:ContentAsText ;
+    dcterms:isPartOf <urn:document:SmallCoffeeTable-ProductData.pdf/page_0> ;
+    pdo:boundingBox "200.38909912109375,597.771240234375,264.1257629394531,608.64013671875" ;
+    pdo:color 3158064 ;
+    pdo:font "Verdana" ;
+    pdo:fontSize "9.004899978637695"^^xsd:float ;
+    pdo:index 2 ;
+    cnt:chars " (5 more)     Matching Products       Complementary Products      Product information   Good to know More HEMNES living room series HEMNES Side table $89.99 Coordinates with other furniture in the HEMNES series. Care instructions Go to HEMNES living room series Package measurement and weight Wipe clean using a damp cloth and a mild cleaner. Wipe dry with a clean cloth. More Side tables Product description Solid pine, Stain, Clear acrylic lacquer Packages:: 1 Article Number: 201.762.82 " .
+
+<urn:document:SmallCoffeeTable-ProductData.pdf/page_0/chunk_3> a cnt:ContentAsText ;
+    dcterms:isPartOf <urn:document:SmallCoffeeTable-ProductData.pdf/page_0> ;
+    pdo:boundingBox "5.0,779.0225219726562,278.8059387207031,788.6011962890625" ;
+    pdo:font "Tahoma" ;
+    pdo:fontSize "7.718500137329102"^^xsd:float ;
+    pdo:index 3 ;
+    cnt:chars "Width: 22 1/4\"  Height: 2 7/8\"  Length: 24 1/4\"  Weight: 19lb  Quantity: 1  http://www.ikea.com/us/en/catalog/products/20176282[9/9/2011 11:11:18 AM]" .
+
+<urn:document:SmallCoffeeTable-ProductData.pdf/page_1/chunk_0> a cnt:ContentAsText ;
+    dcterms:isPartOf <urn:document:SmallCoffeeTable-ProductData.pdf/page_1> ;
+    pdo:boundingBox "382.4165954589844,83.20597839355469,445.8111267089844,94.07489013671875" ;
+    pdo:color 3158064 ;
+    pdo:font "Verdana" ;
+    pdo:fontSize "9.004899978637695"^^xsd:float ;
+    pdo:index 0 ;
+    cnt:chars " HEMNES Side table - black-brown - IKEA Go to Side tables Find the Style Article Number: 201.762.82  Width: 57 cm  Height: 7 cm  Length: 62 cm Weight: 8.6 kg  Quantity: 1  Show matching products Key features - Solid wood; gives a natural feel. - Separate shelf for storing magazines, etc. Keeps your things organized and the table top clear. Designer thoughts \"My idea when I designed HEMNES was to make a simple, beautiful and rustic series for the living room with a finish that brings" .
+
+<urn:document:SmallCoffeeTable-ProductData.pdf/page_1/chunk_1> a cnt:ContentAsText ;
+    dcterms:isPartOf <urn:document:SmallCoffeeTable-ProductData.pdf/page_1> ;
+    pdo:boundingBox "23.507299423217773,353.9959716796875,112.37665557861328,364.8648986816406" ;
+    pdo:color 3158064 ;
+    pdo:font "Verdana" ;
+    pdo:fontSize "9.004899978637695"^^xsd:float ;
+    pdo:index 1 ;
+    cnt:chars "out the genuine wood feeling. I also wanted the furniture to be functional, with practical storage, and work both alone and together in different combinations. Another good thing is that the series is available in several finishes, so you can create your own style at home - warm and cozy or perhaps timeless with a nautical appeal.\" Designer Carina Bengs   Product dimensions Length: 21 5/8 \" Width: 21 5/8 \" Height: 19 5/8 \" Length: 55 cm Width: 55 cm Height: 50 cm This product requires assembly" .
+
+<urn:document:SmallCoffeeTable-ProductData.pdf/page_1/chunk_2> a cnt:ContentAsText ;
+    dcterms:isPartOf <urn:document:SmallCoffeeTable-ProductData.pdf/page_1> ;
+    pdo:boundingBox "62.74290084838867,499.3606262207031,91.90728759765625,507.9005126953125" ;
+    pdo:color 3381757 ;
+    pdo:font "Verdana" ;
+    pdo:fontSize "7.075300216674805"^^xsd:float ;
+    pdo:index 2 ;
+    cnt:chars "Download assembly instructions. Delivery Get all your options with our delivery service. IKEA Gift Card Our flattest pack so far! Click for details. Assembly service In need of some assembly assistance? Help is at hand. IKEA Catalog & Brochures Request View Careers at IKEA Search careers Your career at IKEA Coworker stories Work areas About IKEA People & the Environment IKEA Foundation IKEA News Room Our Code of Conduct Customer Service Contact Us FAQ Return Policy Children's Product Registration" .
+
+<urn:document:SmallCoffeeTable-ProductData.pdf/page_1/chunk_3> a cnt:ContentAsText ;
+    dcterms:isPartOf <urn:document:SmallCoffeeTable-ProductData.pdf/page_1> ;
+    pdo:boundingBox "5.0,779.0225219726562,278.8059387207031,788.6011962890625" ;
+    pdo:font "Tahoma" ;
+    pdo:fontSize "7.718500137329102"^^xsd:float ;
+    pdo:index 3 ;
+    cnt:chars "All IKEA Services The IKEA Store Find an IKEA Store IKEA Food & Restaurant IKEA Business IKEA Gift Card View your IKEA Credit Card Account © Inter IKEA Systems B.V. 1999 - 2011 |  Privacy Policy http://www.ikea.com/us/en/catalog/products/20176282[9/9/2011 11:11:18 AM]" .
+
+<urn:document:SmallCoffeeTable-ProductData.pdf> a fabio:DigitalDocument ;
+    dcterms:created "D:20110909111113-05'00'" ;
+    dcterms:hasFormat "application/pdf" ;
+    dcterms:modified "D:20110909111120-05'00'" ;
+    dcterms:title "HEMNES Side table - black-brown - IKEA",
+        "SmallCoffeeTable-ProductData.pdf" ;
+    pdo:pageCount 2 ;
+    prov:wasGeneratedBy "Acrobat Web Capture 9.0" .
+
+<urn:document:SmallCoffeeTable-ProductData.pdf/page_0> a fabio:Page ;
+    dcterms:isPartOf <urn:document:SmallCoffeeTable-ProductData.pdf> ;
+    pdo:height "792.0"^^xsd:float ;
+    pdo:index 0 ;
+    pdo:rotation 0 ;
+    pdo:width "612.0"^^xsd:float .
+
+<urn:document:SmallCoffeeTable-ProductData.pdf/page_1> a fabio:Page ;
+    dcterms:isPartOf <urn:document:SmallCoffeeTable-ProductData.pdf> ;
+    pdo:height "792.0"^^xsd:float ;
+    pdo:index 1 ;
+    pdo:rotation 0 ;
+    pdo:width "612.0"^^xsd:float .
+

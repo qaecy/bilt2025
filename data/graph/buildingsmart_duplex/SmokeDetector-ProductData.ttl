@@ -1,0 +1,193 @@
+@prefix cnt: <http://www.w3.org/2011/content#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix fabio: <http://purl.org/spar/fabio/> .
+@prefix pdo: <http://www.semanticweb.org/ontologies/pdo#> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<urn:document:SmokeDetector-ProductData.pdf/page_0/chunk_0> a cnt:ContentAsText ;
+    dcterms:isPartOf <urn:document:SmokeDetector-ProductData.pdf/page_0> ;
+    pdo:boundingBox "216.0,100.2557144165039,409.49822998046875,127.62811279296875" ;
+    pdo:color 2301728 ;
+    pdo:font "Univers-ExtraBlack" ;
+    pdo:fontSize "27.372400283813477"^^xsd:float ;
+    pdo:index 0 ;
+    cnt:chars " 120V AC Direct Wire 9V DC Battery Powered 120V AC Direct Wire with Battery Back-up Smoke Alarm Description Photoelectric Smoke alarms The FireX ®   480(C), 484(C), and 4480 are photoelectric smoke alarms. These units have an 85 deci- bel horn, test button, and lighted power/alarm LED indicators. The 4480 and 484(C) AC smoke alarms can be interconnected with FireX ionization as well as photoelectric smoke alarms for the best smoke detection system. Items: 4480 480 480C (Canada) 484 484C (Canada)" .
+
+<urn:document:SmokeDetector-ProductData.pdf/page_0/chunk_1> a cnt:ContentAsText ;
+    dcterms:isPartOf <urn:document:SmokeDetector-ProductData.pdf/page_0> ;
+    pdo:boundingBox "54.0,306.84320068359375,153.29641723632812,318.84320068359375" ;
+    pdo:color 16777215 ;
+    pdo:font "HelveticaNeue-Bold" ;
+    pdo:fontSize "12.0"^^xsd:float ;
+    pdo:index 1 ;
+    cnt:chars "Why Install a FireX ® Smoke Alarm? 4480 120V AC Direct Wire with Battery Back-up  for single or multiple station use. The 4480 is interconnectable with up to 12 FireX AC/DC smoke alarms and 6 FireX heat or carbon monoxide alarms for a total of not more than 18 FireX devices. This unit has two separate lighted LEDS – green power-on LED confirms constant AC power and the red LED displays alarm/battery status. 484 120V AC Direct Wire" .
+
+<urn:document:SmokeDetector-ProductData.pdf/page_0/chunk_2> a cnt:ContentAsText ;
+    dcterms:isPartOf <urn:document:SmokeDetector-ProductData.pdf/page_0> ;
+    pdo:boundingBox "327.5699157714844,348.83746337890625,588.4249267578125,358.83746337890625" ;
+    pdo:color 2301728 ;
+    pdo:font "HelveticaNeue-Condensed" ;
+    pdo:fontSize "10.0"^^xsd:float ;
+    pdo:index 2 ;
+    cnt:chars " for single or multiple station use. The 484 is interconnectable with up to 12 FireX AC smoke alarms. A green lighted LED blinks once per minute to confirm constant AC power and once per second when in alarm. 480 9V DC Battery Powered  with a green lighted LED that “blinks” once per minute to confirm DC power and once per second in alarm. Alarm features a 30 day low battery indicator. FireX photoelectric smoke alarms respond to slow burning, visible smoke caused by smoldering fires." .
+
+<urn:document:SmokeDetector-ProductData.pdf/page_0/chunk_3> a cnt:ContentAsText ;
+    dcterms:isPartOf <urn:document:SmokeDetector-ProductData.pdf/page_0> ;
+    pdo:boundingBox "53.999900817871094,382.18243408203125,176.21388244628906,392.18243408203125" ;
+    pdo:color 2301728 ;
+    pdo:font "HelveticaNeue-Condensed" ;
+    pdo:fontSize "10.0"^^xsd:float ;
+    pdo:index 3 ;
+    cnt:chars "Designed for use in kitchens and furnace rooms, they reduce nuisance alarms caused by cooking fumes or high humidity. These FireX smoke alarms should be placed in single-family households or in each individual living unit of multiple-family buildings. All smoke alarms should be replaced every 10 years. With state-of-the-art production testing equipment and installer focused innovations, FireX products have earned their reputation as the most preferred alarms among contractors. 480 484 4480" .
+
+<urn:document:SmokeDetector-ProductData.pdf/page_0/chunk_4> a cnt:ContentAsText ;
+    dcterms:isPartOf <urn:document:SmokeDetector-ProductData.pdf/page_0> ;
+    pdo:boundingBox "220.46400451660156,603.7595825195312,346.2118225097656,615.7595825195312" ;
+    pdo:color 16777215 ;
+    pdo:font "HelveticaNeue-Bold" ;
+    pdo:fontSize "12.0"^^xsd:float ;
+    pdo:index 4 ;
+    cnt:chars "Features and Benefits Advanced photoelectric design –  Fast detection of slow, smoldering fires. Installation design and features similar to other FireX smoke alarms –  Contractor familiarity with installation. Interconnects with most FireX smoke, carbon monoxide and heat alarms –  Compatible with other contractor preferred FireX products (except item 480). Lighted Power/Alarm LED –  Confirms unit is receiving power and provides visual indication of ini- tiating alarm in interconnected systems." .
+
+<urn:document:SmokeDetector-ProductData.pdf/page_0/chunk_5> a cnt:ContentAsText ;
+    dcterms:isPartOf <urn:document:SmokeDetector-ProductData.pdf/page_0> ;
+    pdo:boundingBox "138.2738037109375,745.7500610351562,157.7338104248047,780.7500610351562" ;
+    pdo:color 2301728 ;
+    pdo:font "HelveticaNeue-Bold" ;
+    pdo:fontSize "35.0"^^xsd:float ;
+    pdo:index 5 ;
+    cnt:chars "An ISO 9001 – 2000 Certified Company Incorporates FireX installer-focused innovations –  Fastest and easiest installation available. T I S N I C A L G L F I O F O E R T N Factory sealed housing –  Prevents tampering and provides outstanding durability. A I T A S L S A T A H T S E R A F I M R E S E E C I R V Year Limited Warranty 5" .
+
+<urn:document:SmokeDetector-ProductData.pdf/page_1/chunk_0> a cnt:ContentAsText ;
+    dcterms:isPartOf <urn:document:SmokeDetector-ProductData.pdf/page_1> ;
+    pdo:boundingBox "297.0,69.40946197509766,417.9374694824219,86.51736450195312" ;
+    pdo:color 2301728 ;
+    pdo:font "Univers-ExtraBlack" ;
+    pdo:fontSize "17.107900619506836"^^xsd:float ;
+    pdo:index 0 ;
+    cnt:chars " 120V AC Direct Wire 9V DC Battery Powered 120V AC Direct Wire with Battery Back-up Smoke Alarm Photoelectric Smoke Alarms Architectural Specifications Technical Specifications 4480 484 484C 480(C) Product Weight 8 oz. 5.5 oz. 4.2 oz. Operating Temperature 40°F to 100°F (4°C to 38°C) The 4480 shall be 1-3/8” high and 5” wide, powered by a 120V AC, 60 Hz source with a 9 volt battery back-up. Nominal sensitivity shall be measured by U.L. at obs." .
+
+<urn:document:SmokeDetector-ProductData.pdf/page_1/chunk_1> a cnt:ContentAsText ;
+    dcterms:isPartOf <urn:document:SmokeDetector-ProductData.pdf/page_1> ;
+    pdo:boundingBox "18.0,191.55235290527344,276.72125244140625,200.55235290527344" ;
+    pdo:color 2301728 ;
+    pdo:font "HelveticaNeue-Condensed" ;
+    pdo:fontSize "9.0"^^xsd:float ;
+    pdo:index 1 ;
+    cnt:chars "2.3 ± .95%/ft.A green continuous power on indicator shall be a built-in light emit- ting diode (LED) in the standby condition; a second red blinking LED shall indicate that a sufficient 9-volt battery back-up is present; when activated, the initiating alarm red LED shall flash while the interconnected alarms remain extinguished.A 7 day low battery signal shall be included. Interconnect Quantity Up to 18 FireX alarms, up to 12 of which can be smoke alarms. FireX smoke alarm items 12000" .
+
+<urn:document:SmokeDetector-ProductData.pdf/page_1/chunk_10> a cnt:ContentAsText ;
+    dcterms:isPartOf <urn:document:SmokeDetector-ProductData.pdf/page_1> ;
+    pdo:boundingBox "437.1137390136719,648.1881103515625,489.8717346191406,657.1881103515625" ;
+    pdo:color 2301728 ;
+    pdo:font "HelveticaNeue-BoldCond" ;
+    pdo:fontSize "9.0"^^xsd:float ;
+    pdo:index 10 ;
+    cnt:chars "Agency Listing Packaging 4480 PAD UL carton 480 PB UL carton 480C PB CUL carton 484 PG UL carton 484C PG ULC carton For Technical Service Telephone 1.800.445.8299 Facsimile 1.630.260.7243 technicalservice@invensys.com 191 E. North Avenue Carol Stream  Illinois 60188 USA Customer Service Telephone 1.800.951.5526 Customer Service Facsimile 1.630.260.7299 iccacustomerservice@invensys.com www.FireXsafety.com ©2007 Invensys Controls 3505 Laird Road  Unit #14 Mississauga  Ontario  L5L 5Y7  Canada" .
+
+<urn:document:SmokeDetector-ProductData.pdf/page_1/chunk_11> a cnt:ContentAsText ;
+    dcterms:isPartOf <urn:document:SmokeDetector-ProductData.pdf/page_1> ;
+    pdo:boundingBox "148.5360107421875,751.8826904296875,262.59423828125,757.8826904296875" ;
+    pdo:color 2301728 ;
+    pdo:font "InvensysAndale-Regular" ;
+    pdo:fontSize "6.0"^^xsd:float ;
+    pdo:index 11 ;
+    cnt:chars "Customer Service Telephone 1.800.387.7978 Customer Service Facsimile 1.905.828.1265 iccacustomerservice@invensys.com Invensys ®   and FireX ®   are trademarks of Invensys plc., its subsidiaries or affiliated companies. 5/07 – 150-1358F" .
+
+<urn:document:SmokeDetector-ProductData.pdf/page_1/chunk_2> a cnt:ContentAsText ;
+    dcterms:isPartOf <urn:document:SmokeDetector-ProductData.pdf/page_1> ;
+    pdo:boundingBox "303.5,274.35516357421875,331.24322509765625,281.85516357421875" ;
+    pdo:color 2301728 ;
+    pdo:font "HelveticaNeue-BoldCond" ;
+    pdo:fontSize "7.5"^^xsd:float ;
+    pdo:index 2 ;
+    cnt:chars "(model FADCM), 5000 and 4618 (model FADC), 4518 (model ADC), 4418 (model AD), 4580 (model FAPD), 4480 (model PAD), 4671 (model TPCI), 484 (model PG), 406 (model G), FireX heat alarm 5700 (model ADH), FireX CO alarm 10000 (model COE). Up to 18 FireX alarms, up to 12 of which can be smoke alarms. FireX smoke alarm items 12000C (model FADCM), 12400C (model GCM), 4518C (model ADC), 4671C (model TPCI), 418C and 406C (model G- 18), FireX CO alarms 10000C (model COE), 10400C (model COEA). Electrical" .
+
+<urn:document:SmokeDetector-ProductData.pdf/page_1/chunk_3> a cnt:ContentAsText ;
+    dcterms:isPartOf <urn:document:SmokeDetector-ProductData.pdf/page_1> ;
+    pdo:boundingBox "18.0,249.15232849121094,271.5588684082031,258.15234375" ;
+    pdo:color 2301728 ;
+    pdo:font "HelveticaNeue-Condensed" ;
+    pdo:fontSize "9.0"^^xsd:float ;
+    pdo:index 3 ;
+    cnt:chars "Rating 120V AC, 60 Hz, 50mA max. 9V DC battery 120V AC, 60 Hz, 50mA max. with 9V DC battery back-up The 484(C) shall be 1-3/16” high and 4-7/8” wide powered by a 120V AC, 60 Hz source. Nominal sensitivity shall be measured by U.L. at obs. 2.2 ± 1.2%/ft. and by U.L.C. at obs. 2.2 ± .75%/ft.A power-on indicator shall be a built-in LED which blinks once per minute in the standby condition; when activated, the initiating alarm LED shall flash while the interconnected alarms remain extinguished." .
+
+<urn:document:SmokeDetector-ProductData.pdf/page_1/chunk_4> a cnt:ContentAsText ;
+    dcterms:isPartOf <urn:document:SmokeDetector-ProductData.pdf/page_1> ;
+    pdo:boundingBox "18.0,306.7522888183594,278.47271728515625,315.7522888183594" ;
+    pdo:color 2301728 ;
+    pdo:font "HelveticaNeue-Condensed" ;
+    pdo:fontSize "9.0"^^xsd:float ;
+    pdo:index 4 ;
+    cnt:chars "Alarm Point 2.3±0.95%/ft. obs. The 4480 and the 484(C) shall be rated at no more than 0.5W in standby and have 100% solid state alarm circuits over an input range of 100-130V AC.The alarm shall mount to a single gang box, 4” octagon junction box, or a square-to-round drywall ring without screw removal. It shall have a Quick Connect wiring harness. 2.2±1.2%/ft. obscuration (US) 2.2±.75%/ft. obscuration (Canada) Horn Output 85 decibels at 10 feet Listing UL 217 UL 217 ULC S531 UL 217 Detection Type" .
+
+<urn:document:SmokeDetector-ProductData.pdf/page_1/chunk_5> a cnt:ContentAsText ;
+    dcterms:isPartOf <urn:document:SmokeDetector-ProductData.pdf/page_1> ;
+    pdo:boundingBox "18.0,353.55224609375,260.3133850097656,362.55224609375" ;
+    pdo:color 2301728 ;
+    pdo:font "HelveticaNeue-Condensed" ;
+    pdo:fontSize "9.0"^^xsd:float ;
+    pdo:index 5 ;
+    cnt:chars "Photoelectric Humidity Range 10% to 93% relative humidity * Heat alarm item. Interconnectable up to 12 FireX AC/DC smoke alarms and 6 FireX heat alarms. The 480(C) shall be 1” high and 4” wide powered by a 9V DC battery source. Nominal sensitivity shall be measured by U.L. at obs. 2.2 ± 1.2%/ft. and by  U.L.C. at obs. 2.2 ± .75%/ft. 100% solid state alarm circuits over an input range of 6.8-10V DC.A power-on indicator shall be a built-in LED which blinks once per" .
+
+<urn:document:SmokeDetector-ProductData.pdf/page_1/chunk_6> a cnt:ContentAsText ;
+    dcterms:isPartOf <urn:document:SmokeDetector-ProductData.pdf/page_1> ;
+    pdo:boundingBox "301.4639892578125,399.6252136230469,364.49749755859375,411.6252136230469" ;
+    pdo:color 16777215 ;
+    pdo:font "HelveticaNeue-Bold" ;
+    pdo:fontSize "12.0"^^xsd:float ;
+    pdo:index 6 ;
+    cnt:chars "minute in the standby condition and a 30 day low battery signal shall be included. Installation All FireX photoelectric smoke alarms shall have a photoelectric sensor. Operating temperature range shall be between 40° and 100°F (4°-38°C) and relative humid- ity range between 10%-93%.The test switch shall electronically activate the chamber to simulate smoke and check for proper operation.The electric horn shall have a level of 85 decibels at 10 feet and all units have a separate mounting" .
+
+<urn:document:SmokeDetector-ProductData.pdf/page_1/chunk_7> a cnt:ContentAsText ;
+    dcterms:isPartOf <urn:document:SmokeDetector-ProductData.pdf/page_1> ;
+    pdo:boundingBox "17.999900817871094,498.82080078125,152.89669799804688,510.82080078125" ;
+    pdo:color 16777215 ;
+    pdo:font "HelveticaNeue-Bold" ;
+    pdo:fontSize "12.0"^^xsd:float ;
+    pdo:index 7 ;
+    cnt:chars "bracket. Items 4480, 484, 480 shall meet the requirements of U.L. 217 and items 484(C) and 480(C) shall meet the requirements of U.L.C. S531. Shipping Specifications This smoke alarm should be installed in accordance with NFPA’s Standard 72 (National Fire Protection Association, Batterymarch Park, Quincy, MA 02269) and any local codes that apply. For the AC and AC/DC direct wire smoke alarms, use #18 AWG minimum solid or stranded wire. When inter-" .
+
+<urn:document:SmokeDetector-ProductData.pdf/page_1/chunk_8> a cnt:ContentAsText ;
+    dcterms:isPartOf <urn:document:SmokeDetector-ProductData.pdf/page_1> ;
+    pdo:boundingBox "301.5,462.7652893066406,546.131591796875,471.7652893066406" ;
+    pdo:color 2301728 ;
+    pdo:font "HelveticaNeue-Condensed" ;
+    pdo:fontSize "9.0"^^xsd:float ;
+    pdo:index 8 ;
+    cnt:chars "connecting, maximum wire length between any two is 1,500 feet for #18 AWG or 4,000 feet for #14 AWG (20 OHMS loop resistance). DO NOT con- nect to any other type or model of heat or smoke alarm. Connect smoke and heat alarms to a single AC branch circuit. If local codes do not permit, be sure the neutral wire is common to both phases. 4480 / 484 / 484C 480 / 480C Individual Carton 5-1/8\" x 5-1/8\" x 1-1/2\" 4-1/8\" x 4-1/8\" x 1-1/2\" Dimensions 13cm x 13cm x 3.8cm 10.5cm x 10.5cm x 3.8cm" .
+
+<urn:document:SmokeDetector-ProductData.pdf/page_1/chunk_9> a cnt:ContentAsText ;
+    dcterms:isPartOf <urn:document:SmokeDetector-ProductData.pdf/page_1> ;
+    pdo:boundingBox "301.4639892578125,628.122802734375,382.2336730957031,640.122802734375" ;
+    pdo:color 16777215 ;
+    pdo:font "HelveticaNeue-Bold" ;
+    pdo:fontSize "12.0"^^xsd:float ;
+    pdo:index 9 ;
+    cnt:chars "Master Carton 12 12 Quantity WHITE WHITE WHITE TO NEUTRAL YELLOW YELLOW BLACK BLACK BLACK Master Carton 10-3/4\" x 10-1/2\" x 5-3/4\" 9-3/8\" x 8-3/4\" x 4-7/8\" Dimensions 27.3cm x 26.7cm x 14.6cm 23.8cm x 22.2cm x 12.4cm TO 120 VAC Master Carton 4480 - 6.4 lbs. / 2.9 kg. 480(C) - 3.5 lbs. / 1.6 kg. Weight 484(C) - 4.5 lbs. / 2 kg. Ordering Data Pallet Quantity 864 2160 Pallet Dimensions 40\"L x 48\"W x 40.5\"D 48\"L x 40\"W x 48.3\"D 102cm x 122cm x 103cm 122cm x 102cm x 123cm Item No. Model No." .
+
+<urn:document:SmokeDetector-ProductData.pdf> a fabio:DigitalDocument ;
+    dcterms:created "D:20070703140615-05'00'" ;
+    dcterms:creator "Lisa Mosillo" ;
+    dcterms:hasFormat "application/pdf" ;
+    dcterms:modified "D:20070703140615-05'00'" ;
+    dcterms:title "150-1358F",
+        "SmokeDetector-ProductData.pdf" ;
+    pdo:pageCount 2 ;
+    prov:wasGeneratedBy "Acrobat Distiller 7.0.5 for Macintosh" .
+
+<urn:document:SmokeDetector-ProductData.pdf/page_0> a fabio:Page ;
+    dcterms:isPartOf <urn:document:SmokeDetector-ProductData.pdf> ;
+    pdo:height "792.0"^^xsd:float ;
+    pdo:index 0 ;
+    pdo:rotation 0 ;
+    pdo:width "612.0"^^xsd:float .
+
+<urn:document:SmokeDetector-ProductData.pdf/page_1> a fabio:Page ;
+    dcterms:isPartOf <urn:document:SmokeDetector-ProductData.pdf> ;
+    pdo:height "792.0"^^xsd:float ;
+    pdo:index 1 ;
+    pdo:rotation 0 ;
+    pdo:width "612.0"^^xsd:float .
+

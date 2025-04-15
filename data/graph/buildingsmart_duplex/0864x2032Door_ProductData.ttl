@@ -1,0 +1,86 @@
+@prefix cnt: <http://www.w3.org/2011/content#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix fabio: <http://purl.org/spar/fabio/> .
+@prefix pdo: <http://www.semanticweb.org/ontologies/pdo#> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<urn:document:0864x2032Door_ProductData.pdf/page_0/chunk_0> a cnt:ContentAsText ;
+    dcterms:isPartOf <urn:document:0864x2032Door_ProductData.pdf/page_0> ;
+    pdo:boundingBox "35.71989822387695,14.369596481323242,385.9438781738281,30.62359619140625" ;
+    pdo:font "FrutigerLTStd-Light" ;
+    pdo:fontSize "14.0"^^xsd:float ;
+    pdo:index 0 ;
+    cnt:chars " design-pro FIBERGLASS door specifications Mahogany Width Height No. of Panels Thickness Panel Width Outer Stiles Center Mullion Top Rail Lock Rail Bottom Rail Surface Flush 3'0\" 6'8\" N/A 1-3/4\" N/A N/A N/A N/A N/A  N/A Mahogany 3'6\" 8'0 N/A 1-3/4\" N/A N/A N/A N/A N/A N/A Mahogany 2-Panel Continental 3'0\" 6'8\" 2 1-3/4\" 23\" 6-3/8\" N/A 4-7/8\" 6-1/2\" 9-1/8\" Mahogany 3'0\" 8'0\" 2 1-3/4\" 23\" 6-3/8\" N/A 6-1/8\" 8\" 11-3/8\" Mahogany 1-Panel 3/4 Lite 3'0\" 6'8\" 1 1-3/4\" 23\" 6-3/8\" N/A 4-7/8\" 5-1/2\" 9-1/8\"" .
+
+<urn:document:0864x2032Door_ProductData.pdf/page_0/chunk_1> a cnt:ContentAsText ;
+    dcterms:isPartOf <urn:document:0864x2032Door_ProductData.pdf/page_0> ;
+    pdo:boundingBox "40.153900146484375,284.79998779296875,55.45389938354492,293.6875" ;
+    pdo:color 16777215 ;
+    pdo:font "FrutigerLTStd-Bold" ;
+    pdo:fontSize "7.5"^^xsd:float ;
+    pdo:index 1 ;
+    cnt:chars "Mahogany 1-Panel 1/2 Lite  3'0\" 6\"8\" 1 1-3/4\" 23\" 6-3/8\" N/A 4-7/8\" 6-3/8\" 9-1/4\" Mahogany Full Lite 3'0\" 6'8\" N/A 1-3/4\" N/A 6-3/8\" N/A 4-7/8\" N/A 9-1/8\" Mahogany 3'0\" 8'0\" N/A 1-3/4\" N/A 6-3/8\" N/A 4-7/8\" N/A 9-1/8\" Mahogany Full Lite Oval 3'0\" 6'8\" N/A 1-3/4\" N/A 6-3/8\" N/A 4-7/8\" n 9-1/8\" Mahogany Oak Width Height No. of Panels Thickness Panel Width Outer Stiles Center Mullion Top Rail Lock Rail Bottom Rail Surface Flush 2'8\", 2'10\", 3'0\" 6'8\" N/A 1-3/4\" N/A N/A N/A N/A N/A N/A Oak 3'0\" 8'0\"" .
+
+<urn:document:0864x2032Door_ProductData.pdf/page_0/chunk_2> a cnt:ContentAsText ;
+    dcterms:isPartOf <urn:document:0864x2032Door_ProductData.pdf/page_0> ;
+    pdo:boundingBox "132.67303466796875,340.3299865722656,143.15103149414062,347.8764953613281" ;
+    pdo:font "FrutigerLTStd-Light" ;
+    pdo:fontSize "6.5"^^xsd:float ;
+    pdo:index 2 ;
+    cnt:chars "N/A 1-3/4\" N/A N/A N/A N/A N/A N/A Oak 6-Panel 2'6\" 6'8 6 1-3/4\" 8-5/16\" 4-3/8\" 4-3/8\" 4-7/8\" 6-1/2\" 9-1/4\" Oak 2'8, 2'10\", 3'0\" 6'8\" 6 1-3/4\" 9\" 4-3/8\", 5-3/8\",  6-3/8\" 5\" 4-7/8\" 6-1/2\" 9-1/4\" Oak 3'0\" 8'0\" 6 1-3/4\" 9\" 6-3/8\" 5\" 4-7/8\" 8\" 12-5/8\" Oak 4-Panel Blank Top (w/ CAMBER LITE or Sunburst) 6-1/2\" 9-1/4\" Oak 3'0\" 6'8\" 4 1-3/4\" 9\" 6-3/8\" 5\" 20-1/4\";  4-7/8\" w/ cut out 2-Panel 1/2 Lite 2'6\", 2'8\", 2'10\",  3'0\" 6'8\" 2 1-3/4\" 9\" 4-3/8\", 5-3/8\",  6-3/8\" 5\" 4-7/8\" 6-3/8\" 9-1/4\" Oak 4-Panel Flat" .
+
+<urn:document:0864x2032Door_ProductData.pdf/page_0/chunk_3> a cnt:ContentAsText ;
+    dcterms:isPartOf <urn:document:0864x2032Door_ProductData.pdf/page_0> ;
+    pdo:boundingBox "40.15203857421875,505.0774841308594,52.8010368347168,512.6240234375" ;
+    pdo:font "FrutigerLTStd-Light" ;
+    pdo:fontSize "6.5"^^xsd:float ;
+    pdo:index 3 ;
+    cnt:chars "3'0\" 6'8\" 4 1-3/4\" 9\" 6-3/8\" 5\" 4-3/4\" 6-1/2\" 9-1/4\" Oak 3-Panel Oval 3'0\" 6'8\" 3 1-3/4\" 10\" 6-3/8\" 3\" 4-1/8\" 3-1/2\" 7-3/8\" Oak 8-Panel Center Arch 3'0\" 6'8\" 8 1-3/4\" varies 6-3/8\" N/A 4-7/8\" N/A 8-3/4\" Oak 9-Panel  3'0\" 6'8\" 9 1-3/4\" 5-1/4\",  8-1/2\" 6-3/8\" N/A 4-7/8\" N/A 8-1/8\" Oak Full Lite N/A 4-7/8\" N/A 9-1/8\" Oak 2'6\", 2'8\", 2'10\",  3'0\" 6'8\" N/A 1-3/4\" N/A 4-3/8\", 5-3/8\",  6-3/8\" 2'6\", 3'0\" 8'0\" N/A 1-3/4\" N/A 4-3/8\", 6-3/8\" N/A 4-7/8\" N/A 9-1/8\" Oak Full Lite oval 3'0\" 6'8\" N/A 1-3/4\" N/A" .
+
+<urn:document:0864x2032Door_ProductData.pdf/page_0/chunk_4> a cnt:ContentAsText ;
+    dcterms:isPartOf <urn:document:0864x2032Door_ProductData.pdf/page_0> ;
+    pdo:boundingBox "26.561500549316406,760.4439697265625,36.43850326538086,770.3125" ;
+    pdo:font "FrutigerLTStd-Light" ;
+    pdo:fontSize "8.5"^^xsd:float ;
+    pdo:index 4 ;
+    cnt:chars "6-3/8\" N/A 4-7/8\" N/A 9-1/8\" Oak 98 JE LD - w e n  w i n d o w s  & door s" .
+
+<urn:document:0864x2032Door_ProductData.pdf/page_1/chunk_0> a cnt:ContentAsText ;
+    dcterms:isPartOf <urn:document:0864x2032Door_ProductData.pdf/page_1> ;
+    pdo:boundingBox "194.73629760742188,14.369596481323242,576.8381958007812,30.62359619140625" ;
+    pdo:font "FrutigerLTStd-Light" ;
+    pdo:fontSize "14.0"^^xsd:float ;
+    pdo:index 0 ;
+    cnt:chars " design-pro FIBERGLASS sidelight specifications Design-Pro Fiberglass sidelights Width Height No. of Panels Thickness Panel Width Outer Stiles Center Mullion Top Rail Lock Rail Bottom Rail Surface Full Lite  1'0\", 1'2\" 6'8\" N/A 1-3/4\" N/A 1-3/8\", 2-3/8\" N/A 4-7/8\" N/A 9-1/8\" Oak,  Mahogany 1'0\", 1'2\" 8'0\" N/A 1-3/4\" N/A 1-3/8\", 2-3/8\" N/A 4-7/8\" N/A 9-1/8\" Oak,  Mahogany 1-Panel 3/4 Lite 1'0\", 1'2\" 6'8\" 1 1-3/4\" 9\" 1-7/8\", 2-7/8\" N/A 4-7/8\" N/A 9-1/4\" Oak,  Mahogany 1-Panel 1/2 Lite " .
+
+<urn:document:0864x2032Door_ProductData.pdf/page_1/chunk_1> a cnt:ContentAsText ;
+    dcterms:isPartOf <urn:document:0864x2032Door_ProductData.pdf/page_1> ;
+    pdo:boundingBox "575.5615234375,760.4439697265625,585.4385375976562,770.3125" ;
+    pdo:font "FrutigerLTStd-Light" ;
+    pdo:fontSize "8.5"^^xsd:float ;
+    pdo:index 1 ;
+    cnt:chars "10\"*, 1'0\", 1'2\" 6'8\" 1 1-3/4\" 9\" 1-7/8\", 2-7/8\" N/A 4-7/8\"  N/A 9-1/4\" Oak 1'0\", 1'2\" 6'8\" 1 1-3/4\" 9\" 1-3/8\", 2-3/8\" N/A 4-7/8\" N/A 9-1/4\" Mahogany *10\" Sidelites have an 8\" opening and can only accommodate 7\" glass 99 J E L D- w e n.co m" .
+
+<urn:document:0864x2032Door_ProductData.pdf> a fabio:DigitalDocument ;
+    dcterms:created "D:20090622134603-07'00'" ;
+    dcterms:hasFormat "application/pdf" ;
+    dcterms:modified "D:20090622134626-07'00'" ;
+    dcterms:title "0864x2032Door_ProductData.pdf" ;
+    pdo:pageCount 2 ;
+    prov:wasGeneratedBy "Adobe PDF Library 8.0" .
+
+<urn:document:0864x2032Door_ProductData.pdf/page_1> a fabio:Page ;
+    dcterms:isPartOf <urn:document:0864x2032Door_ProductData.pdf> ;
+    pdo:height "792.0"^^xsd:float ;
+    pdo:index 1 ;
+    pdo:rotation 0 ;
+    pdo:width "612.0"^^xsd:float .
+
+<urn:document:0864x2032Door_ProductData.pdf/page_0> a fabio:Page ;
+    dcterms:isPartOf <urn:document:0864x2032Door_ProductData.pdf> ;
+    pdo:height "792.0"^^xsd:float ;
+    pdo:index 0 ;
+    pdo:rotation 0 ;
+    pdo:width "612.0"^^xsd:float .
+
