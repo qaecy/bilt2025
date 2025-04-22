@@ -4,12 +4,10 @@ rdflib      # RDF graph handling
 wtpsplit_lite  # Text chunking
 numpy       # Numerical operations
 sentence-transformers>=2.2.2  # For embedding generation
-# transformers  # For LLM models
 torch  # Required by transformers
 langchain>=0.1.0  # Core LangChain functionality
 langchain-community>=0.0.13  # Community integrations including FAISS
 faiss-cpu>=1.7.4  # Vector database for similarity search
-# accelerate>=0.22.0  # For faster model loading and inference
 pyshacl     # SHACL validation for RDF
 requests    # HTTP requests
 tqdm        # Progress bars
