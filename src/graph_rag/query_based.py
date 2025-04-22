@@ -245,10 +245,12 @@ SPARQL Query:
                 prefixes_to_add.append(declaration)
 
         if prefixes_to_add:
-            sparql_query = "\\n".join(prefixes_to_add) + "\\n" + sparql_query
+            # Correctly use newline characters, not literal '\\n'
+            sparql_query = "\n".join(prefixes_to_add) + "\n" + sparql_query
         # --- End prefix addition --- #
 
-        print(f"Executing SPARQL (final):\\n{sparql_query}")
+        # Using f-string with embedded newline is cleaner for printing.
+        print(f"Executing SPARQL (final):\n{sparql_query}")
         try:
             results = []
             query_results = self.store.query(sparql_query)
@@ -363,7 +365,7 @@ SPARQL Query:
             max_results_for_prompt = 10  # Limit number of results shown to LLM to manage context window
             results_str = json.dumps(results[:max_results_for_prompt], indent=2)
             if len(results) > max_results_for_prompt:
-                results_str += f"\\n... ({len(results) - max_results_for_prompt} more results truncated)"
+                results_str += f"\n... ({len(results) - max_results_for_prompt} more results truncated)"
 
             # Create a dedicated prompt for answer synthesis based on query results
             synthesis_prompt = ChatPromptTemplate.from_template(
@@ -395,7 +397,7 @@ SPARQL Query:
             print(f"Error during LLM result formatting: {e}")
             # Fallback to basic formatting if LLM synthesis fails
             print("Falling back to basic result formatting.")
-            formatted = f"Found {len(results)} results for '{question}' (LLM formatting failed):\\n"
+            formatted = f"Found {len(results)} results for '{question}' (LLM formatting failed):\n"
             max_results_to_show = 5  # Basic fallback limit
             for i, res in enumerate(results[:max_results_to_show]):
                 res_str = ", ".join([f"{k}: {v}" for k, v in res.items()])
