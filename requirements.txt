@@ -3,6 +3,7 @@ pymupdf     # PDF processing
 rdflib      # RDF graph handling
 wtpsplit_lite  # Text chunking
 numpy       # Numerical operations
+pyoxigraph  # RDF graph handling
 langchain>=0.1.0  # Core LangChain functionality
 langchain-community>=0.0.13  # Community integrations including FAISS
 faiss-cpu>=1.7.4  # Vector database for similarity search
