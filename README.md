@@ -9,6 +9,31 @@ The easiest way to get started is using Google Colab:
 [![Open data integration notebook in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/qaecy/built2025/blob/main/notebooks/01_data_integration.ipynb)
 [![Open RAG querying notebook in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/qaecy/built2025/blob/main/notebooks/02_rag_querying.ipynb)
 
+# **Prerequisites**
+
+In order to run the example code you will need to get an API key from OpenAI through the below steps:
+
+1. Sign Up or Log In
+   * Go to [https://platform.openai.com/signup](https://platform.openai.com/signup).
+   * Sign up with your email, Google, or Microsoft account.
+   * If you already have an account, log in at [https://platform.openai.com/login](https://platform.openai.com/login).
+1. Verify Your Email & Identity
+   * After signing up, OpenAI will send you a verification email.
+   * Complete any additional identity verification if prompted (e.g., phone number).
+1. Set Up Billing (if needed)
+   * Go to [https://platform.openai.com/account/billing](https://platform.openai.com/account/billing).
+   * Add a payment method to unlock usage beyond the free trial (if available).
+1. Get an API Key
+   * Go to [https://platform.openai.com/api-keys](https://platform.openai.com/api-keys).
+   * Click **“Create new secret key”**.
+   * Give it a name (optional) and generate the key.
+   * **Copy it immediately** – you won’t be able to view it again later.
+1. Apply the API Key
+   * Open the Google Colab Notebook
+   * Go to the **Secrets** Tab in the left side menu
+   * Click **“Add new secret”**.
+
+
 ## Local Installation
 
 If you prefer to run locally:
