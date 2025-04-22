@@ -2,13 +2,12 @@ import os
 import csv
 import fitz
 import logging
-from pathlib import Path
-from multiprocessing import freeze_support
-from wtpsplit_lite import SaT
-from rdflib.namespace import RDF, XSD, DCTERMS
-from rdflib import Graph, Namespace, Literal, URIRef
 import requests
+from pathlib import Path
 from pyshacl import validate
+from wtpsplit_lite import SaT
+from rdflib.namespace import RDF, XSD
+from rdflib import Graph, Namespace, Literal, URIRef
 from .common_converter import OntologyManager
 
 # Add SHACL namespace definition
@@ -195,7 +194,7 @@ def validate_graph(g: Graph, shapes_file: Path) -> tuple[bool, Graph, str]:
         return True, None, "Validation failed but continuing"
 
 
-def pdf_to_ttl(pdf_filenames: list[str], output_file: str):
+def pdf_to_ttl(pdf_filename: str, output_file: str):
     g = Graph()
 
     # Create ontology manager with explicitly needed ontologies
@@ -222,95 +221,63 @@ def pdf_to_ttl(pdf_filenames: list[str], output_file: str):
     PDO_INDEX = URIRef(str(PDO) + "index")
 
     try:
-        for pdf_filename in pdf_filenames:
-            pdf = fitz.open(pdf_filename)
-            doc_uri = URIRef(f"urn:document:{os.path.basename(pdf_filename)}")
+        # Removed the loop, process the single file directly
+        pdf = fitz.open(pdf_filename)
+        doc_uri = URIRef(f"urn:document:{os.path.basename(pdf_filename)}")
 
-            # Document metadata
-            g.add((doc_uri, RDF.type, ontology_manager.get_namespace("fabio").DigitalDocument))
-            g.add((doc_uri, ontology_manager.get_namespace("dcterms").hasFormat, Literal("application/pdf")))
-            g.add((doc_uri, ontology_manager.get_namespace("dcterms").title, Literal(os.path.basename(pdf_filename))))
+        # Document metadata
+        g.add((doc_uri, RDF.type, ontology_manager.get_namespace("fabio").DigitalDocument))
+        g.add((doc_uri, ontology_manager.get_namespace("dcterms").hasFormat, Literal("application/pdf")))
+        g.add((doc_uri, ontology_manager.get_namespace("dcterms").title, Literal(os.path.basename(pdf_filename))))
 
-            # Extract PDF metadata
-            metadata = pdf.metadata
-            if metadata:
-                if metadata.get("title"):
-                    g.add((doc_uri, ontology_manager.get_namespace("dcterms").title, Literal(metadata["title"])))
-                if metadata.get("author"):
-                    g.add((doc_uri, ontology_manager.get_namespace("dcterms").creator, Literal(metadata["author"])))
-                if metadata.get("subject"):
-                    g.add((doc_uri, ontology_manager.get_namespace("dcterms").subject, Literal(metadata["subject"])))
-                if metadata.get("keywords"):
-                    g.add((doc_uri, ontology_manager.get_namespace("dcterms").subject, Literal(metadata["keywords"])))
-                if metadata.get("producer"):
-                    g.add(
-                        (doc_uri, ontology_manager.get_namespace("prov").wasGeneratedBy, Literal(metadata["producer"]))
-                    )
-                if metadata.get("creationDate"):
-                    g.add(
-                        (doc_uri, ontology_manager.get_namespace("dcterms").created, Literal(metadata["creationDate"]))
-                    )
-                if metadata.get("modDate"):
-                    g.add((doc_uri, ontology_manager.get_namespace("dcterms").modified, Literal(metadata["modDate"])))
+        # Extract PDF metadata
+        metadata = pdf.metadata
+        if metadata:
+            if metadata.get("title"):
+                g.add((doc_uri, ontology_manager.get_namespace("dcterms").title, Literal(metadata["title"])))
+            if metadata.get("author"):
+                g.add((doc_uri, ontology_manager.get_namespace("dcterms").creator, Literal(metadata["author"])))
+            if metadata.get("subject"):
+                g.add((doc_uri, ontology_manager.get_namespace("dcterms").subject, Literal(metadata["subject"])))
+            if metadata.get("keywords"):
+                g.add((doc_uri, ontology_manager.get_namespace("dcterms").subject, Literal(metadata["keywords"])))
+            if metadata.get("producer"):
+                g.add((doc_uri, ontology_manager.get_namespace("prov").wasGeneratedBy, Literal(metadata["producer"])))
+            if metadata.get("creationDate"):
+                g.add((doc_uri, ontology_manager.get_namespace("dcterms").created, Literal(metadata["creationDate"])))
+            if metadata.get("modDate"):
+                g.add((doc_uri, ontology_manager.get_namespace("dcterms").modified, Literal(metadata["modDate"])))
 
-            # Document structure
-            g.add((doc_uri, PDO.pageCount, Literal(len(pdf), datatype=XSD.integer)))
+        # Document structure
+        g.add((doc_uri, PDO.pageCount, Literal(len(pdf), datatype=XSD.integer)))
 
-            for page_num, page in enumerate(pdf):
-                page_uri = URIRef(f"{doc_uri}/page_{page_num}")
+        for page_num, page in enumerate(pdf):
+            page_uri = URIRef(f"{doc_uri}/page_{page_num}")
 
-                # Page metadata
-                g.add((page_uri, RDF.type, ontology_manager.get_namespace("fabio").Page))
-                g.add((page_uri, PDO_INDEX, Literal(page_num, datatype=XSD.integer)))
-                g.add((page_uri, ontology_manager.get_namespace("dcterms").isPartOf, doc_uri))
-                g.add((page_uri, PDO.width, Literal(page.rect.width, datatype=XSD.float)))
-                g.add((page_uri, PDO.height, Literal(page.rect.height, datatype=XSD.float)))
-                g.add((page_uri, PDO.rotation, Literal(page.rotation, datatype=XSD.integer)))
+            # Page metadata
+            g.add((page_uri, RDF.type, ontology_manager.get_namespace("fabio").Page))
+            g.add((page_uri, PDO_INDEX, Literal(page_num, datatype=XSD.integer)))
+            g.add((page_uri, ontology_manager.get_namespace("dcterms").isPartOf, doc_uri))
+            g.add((page_uri, PDO.width, Literal(page.rect.width, datatype=XSD.float)))
+            g.add((page_uri, PDO.height, Literal(page.rect.height, datatype=XSD.float)))
+            g.add((page_uri, PDO.rotation, Literal(page.rotation, datatype=XSD.integer)))
 
-                # Extract text with rich metadata
-                text_blocks = list(text_from_page(page))
-                current_text = ""
-                current_metadata = {}
-                chunk_num = 0  # Initialize chunk counter for this page
+            # Extract text with rich metadata
+            text_blocks = list(text_from_page(page))
+            current_text = ""
+            current_metadata = {}
+            chunk_num = 0  # Initialize chunk counter for this page
 
-                for block in text_blocks:
-                    if len(current_text) + len(block["text"]) > 500:
-                        # Create chunk with accumulated text
-                        chunk_uri = URIRef(f"{page_uri}/chunk_{chunk_num}")
-                        g.add((chunk_uri, RDF.type, ontology_manager.get_namespace("cnt").ContentAsText))
-                        g.add((chunk_uri, ontology_manager.get_namespace("cnt").chars, Literal(current_text)))
-                        g.add((chunk_uri, ontology_manager.get_namespace("dcterms").isPartOf, page_uri))
-                        g.add((chunk_uri, PDO_INDEX, Literal(chunk_num, datatype=XSD.integer)))
-
-                        # Add formatting metadata
-                        if current_metadata.get("font"):
-                            g.add((chunk_uri, PDO.font, Literal(current_metadata["font"])))
-                        if current_metadata.get("size"):
-                            g.add((chunk_uri, PDO.fontSize, Literal(current_metadata["size"], datatype=XSD.float)))
-                        if current_metadata.get("color"):
-                            g.add((chunk_uri, PDO.color, Literal(current_metadata["color"])))
-                        if current_metadata.get("bbox"):
-                            bbox = current_metadata["bbox"]
-                            g.add((chunk_uri, PDO.boundingBox, Literal(f"{bbox[0]},{bbox[1]},{bbox[2]},{bbox[3]}")))
-
-                        chunk_num += 1  # Increment chunk counter
-                        current_text = block["text"]
-                        current_metadata = block
-                    else:
-                        current_text += " " + block["text"]
-                        # Update metadata for dominant properties
-                        if block.get("size", 0) > current_metadata.get("size", 0):
-                            current_metadata.update(block)
-
-                # Don't forget the last chunk
-                if current_text:
+            for block in text_blocks:
+                if len(current_text) + len(block["text"]) > 500:
+                    # Create chunk with accumulated text
                     chunk_uri = URIRef(f"{page_uri}/chunk_{chunk_num}")
                     g.add((chunk_uri, RDF.type, ontology_manager.get_namespace("cnt").ContentAsText))
                     g.add((chunk_uri, ontology_manager.get_namespace("cnt").chars, Literal(current_text)))
                     g.add((chunk_uri, ontology_manager.get_namespace("dcterms").isPartOf, page_uri))
                     g.add((chunk_uri, PDO_INDEX, Literal(chunk_num, datatype=XSD.integer)))
 
-                    # Add final chunk metadata
+                    # Add formatting metadata
                     if current_metadata.get("font"):
                         g.add((chunk_uri, PDO.font, Literal(current_metadata["font"])))
                     if current_metadata.get("size"):
@@ -320,6 +287,34 @@ def pdf_to_ttl(pdf_filenames: list[str], output_file: str):
                     if current_metadata.get("bbox"):
                         bbox = current_metadata["bbox"]
                         g.add((chunk_uri, PDO.boundingBox, Literal(f"{bbox[0]},{bbox[1]},{bbox[2]},{bbox[3]}")))
+
+                    chunk_num += 1  # Increment chunk counter
+                    current_text = block["text"]
+                    current_metadata = block
+                else:
+                    current_text += " " + block["text"]
+                    # Update metadata for dominant properties
+                    if block.get("size", 0) > current_metadata.get("size", 0):
+                        current_metadata.update(block)
+
+            # Don't forget the last chunk
+            if current_text:
+                chunk_uri = URIRef(f"{page_uri}/chunk_{chunk_num}")
+                g.add((chunk_uri, RDF.type, ontology_manager.get_namespace("cnt").ContentAsText))
+                g.add((chunk_uri, ontology_manager.get_namespace("cnt").chars, Literal(current_text)))
+                g.add((chunk_uri, ontology_manager.get_namespace("dcterms").isPartOf, page_uri))
+                g.add((chunk_uri, PDO_INDEX, Literal(chunk_num, datatype=XSD.integer)))
+
+                # Add final chunk metadata
+                if current_metadata.get("font"):
+                    g.add((chunk_uri, PDO.font, Literal(current_metadata["font"])))
+                if current_metadata.get("size"):
+                    g.add((chunk_uri, PDO.fontSize, Literal(current_metadata["size"], datatype=XSD.float)))
+                if current_metadata.get("color"):
+                    g.add((chunk_uri, PDO.color, Literal(current_metadata["color"])))
+                if current_metadata.get("bbox"):
+                    bbox = current_metadata["bbox"]
+                    g.add((chunk_uri, PDO.boundingBox, Literal(f"{bbox[0]},{bbox[1]},{bbox[2]},{bbox[3]}")))
 
         # Validate before serializing
         shapes_file = Path(__file__).parent / "pdf_converter_shapes.ttl"
@@ -334,27 +329,3 @@ def pdf_to_ttl(pdf_filenames: list[str], output_file: str):
     except Exception as e:
         logging.error(f"Error processing PDF to TTL: {e}")
         raise
-
-
-if __name__ == "__main__":
-    freeze_support()
-
-    # Set up logging
-    logging.basicConfig(level=logging.INFO, format="%(asctime)s - %(levelname)s - %(message)s")
-
-    # Fetch and store ontologies
-    base_dir = Path(__file__).parent.parent.parent
-    ontology_graphs = fetch_and_store_ontologies(base_dir)
-
-    root_dir = Path(__file__).parent.parent.parent / "data"
-    project_names = ["buildingsmart_duplex", "buildingsmart_dental", "buildingsmart_schependomlaan"]
-
-    for project_name in project_names:
-        raw_dir = root_dir / "raw" / project_name
-        graph_dir = root_dir / "graph" / project_name
-        graph_dir.mkdir(parents=True, exist_ok=True)
-
-        for pdf_filepath in raw_dir.glob("*.pdf"):
-            ttl_filepath = graph_dir / pdf_filepath.name.replace(".pdf", ".ttl")
-            print(f"\nProcessing {pdf_filepath.name}")
-            pdf_to_ttl([pdf_filepath], ttl_filepath)

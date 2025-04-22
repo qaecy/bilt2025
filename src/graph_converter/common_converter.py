@@ -1,8 +1,8 @@
 import logging
-from pathlib import Path
-from typing import Dict, Optional, Tuple
 import requests
+from pathlib import Path
 from rdflib import Graph, Namespace
+from typing import Dict, Optional, Tuple
 
 
 class OntologyManager:

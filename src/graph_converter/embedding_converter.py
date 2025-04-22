@@ -96,17 +96,39 @@ ALLOWED_PREDICATES = {
 }
 
 
-def ttl_to_embeddings(ttl_file, output_file, model_name="text-embedding-3-small", batch_size=32):
+def ttl_to_embeddings(
+    ttl_file_path: str, output_dir: str, model_name="text-embedding-3-small", batch_size=32, force_reprocess=False
+):
     """
-    Convert a TTL file to entity-centric embeddings using OpenAI and save to a JSON file.
+    Convert a single TTL file to entity-centric embeddings using OpenAI and save to a JSON file
+    within the specified output directory.
 
     Args:
-        ttl_file: Path to the TTL file
-        output_file: Path to save the embeddings JSON file
-        model_name: Name of the OpenAI embedding model to use
-        batch_size: Batch size for sending requests to OpenAI API (adjust based on testing/limits)
+        ttl_file_path: Path to the single TTL file.
+        output_dir: Path to the directory where the embeddings JSON file will be saved.
+        model_name: Name of the OpenAI embedding model to use.
+        batch_size: Batch size for sending requests to OpenAI API.
+        force_reprocess: Whether to reprocess if the embedding file already exists.
     """
-    print(f"Processing {ttl_file} into entity-centric embeddings using OpenAI model: {model_name}")
+    # Ensure inputs are Path objects and directory exists
+    ttl_file = Path(ttl_file_path)
+    output_dir = Path(output_dir)
+    output_dir.mkdir(parents=True, exist_ok=True)
+
+    # Check if the input file exists and is a TTL file
+    if not ttl_file.is_file() or not ttl_file.name.lower().endswith(".ttl"):
+        print(f"Error: Input path '{ttl_file_path}' is not a valid TTL file.")
+        return
+
+    # Construct the output file path
+    output_file = output_dir / f"{ttl_file.stem}_embeddings.json"
+
+    # Skip if output exists and not forced to reprocess
+    if output_file.exists() and not force_reprocess:
+        print(f"Skipping {ttl_file.name} - embeddings already exist at {output_file}")
+        return
+
+    print(f"Processing {ttl_file.name} into entity-centric embeddings using OpenAI model: {model_name}")
 
     # Load the graph
     g = Graph()
@@ -358,39 +380,3 @@ def ttl_to_embeddings(ttl_file, output_file, model_name="text-embedding-3-small"
         json.dump(output_data, f)
 
     print(f"Saved {len(successful_chunks)} filtered entity embeddings to {output_file}")
-
-
-def ttl_files_to_embeddings(input_dir, output_dir, model_name="text-embedding-3-small", force_reprocess=False):
-    """
-    Convert all TTL files in a directory to entity-centric embeddings using OpenAI.
-
-    Args:
-        input_dir: Directory containing TTL files
-        output_dir: Directory to save embedding files
-        model_name: Name of the OpenAI embedding model to use
-        force_reprocess: Whether to reprocess existing embedding files
-    """
-    # Ensure directories exist
-    input_dir = Path(input_dir)
-    output_dir = Path(output_dir)
-    output_dir.mkdir(parents=True, exist_ok=True)
-
-    # Find all TTL files
-    ttl_files = list(input_dir.glob("*.ttl"))
-    if not ttl_files:
-        print(f"No TTL files found in {input_dir}")
-        return
-
-    print(f"Found {len(ttl_files)} TTL files to process")
-
-    # Process each file
-    for ttl_file in ttl_files:
-        output_file = output_dir / f"{ttl_file.stem}_embeddings.json"
-
-        # Skip if output exists and not forced to reprocess
-        if output_file.exists() and not force_reprocess:
-            print(f"Skipping {ttl_file.name} - embeddings already exist")
-            continue
-
-        # try:
-        ttl_to_embeddings(ttl_file, output_file, model_name=model_name)

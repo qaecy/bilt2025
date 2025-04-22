@@ -1,13 +1,12 @@
-import logging
 import datetime
 import urllib.parse
 import ifcopenshell
 from pathlib import Path
 from pyshacl import validate
 from typing import Dict, Optional
-from .common_converter import OntologyManager
 from rdflib.namespace import RDF, RDFS, XSD, SH
 from rdflib import Graph, Namespace, Literal, BNode
+from .common_converter import OntologyManager
 
 
 def encode_uri_component(s: str) -> str:
@@ -405,26 +404,4 @@ class IfcConverter:
 def ifc_to_ttl(ifc_filename: str, ttl_filename: str):
     """Convert IFC file to TTL format."""
     converter = IfcConverter()
-    # Remove try/except to allow errors to propagate up
     converter.convert(ifc_filename, ttl_filename)
-
-
-if __name__ == "__main__":
-    # Set up logging
-    logging.basicConfig(level=logging.INFO, format="%(asctime)s - %(levelname)s - %(message)s")
-
-    root_dir = Path(__file__).parent.parent.parent / "data"
-    project_names = ["buildingsmart_duplex", "buildingsmart_dental", "buildingsmart_schependomlaan"]
-    # project_names = ["buildingsmart_schependomlaan"]
-
-    for project_name in project_names:
-        raw_dir = root_dir / "raw" / project_name
-        graph_dir = root_dir / "graph" / project_name
-        graph_dir.mkdir(parents=True, exist_ok=True)
-
-        for ifc_filepath in raw_dir.glob("*.ifc"):
-            ttl_filepath = graph_dir / ifc_filepath.name.replace(".ifc", ".ttl")
-            print(f"\nProcessing {ifc_filepath.name}")
-
-            # Remove try/except to allow errors to propagate
-            ifc_to_ttl(ifc_filepath, ttl_filepath)
